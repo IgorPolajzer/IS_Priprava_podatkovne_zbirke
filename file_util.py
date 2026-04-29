@@ -1,5 +1,3 @@
-import os
-
 from character_type import CharacterType
 from constants import *
 

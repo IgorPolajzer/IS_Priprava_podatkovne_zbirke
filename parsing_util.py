@@ -1,5 +1,3 @@
-import os
-
 import cv2
 
 import imutils
@@ -15,7 +13,7 @@ def parse_image(file_path, character_type, debug=False):
     global DEBUG
     DEBUG = debug
 
-    file_name = file_path.split('\\')[-1]
+    file_name = os.path.basename(file_path)
     image = cv2.imread(file_path, cv2.IMREAD_COLOR)
 
     if image is None:

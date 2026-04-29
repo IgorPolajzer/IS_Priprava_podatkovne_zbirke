@@ -5,10 +5,10 @@ OUTPUT_DIR = os.path.join(os.path.abspath(os.path.dirname(__file__)), "character
 FEATURES_CSV = "characteristics.csv"
 
 CHARACTER_SUBFOLDERS = [
-    "tiskane\\male",
-    "tiskane\\velike",
-    "pisane\\male",
-    "pisane\\velike",
+    "tiskane/male",
+    "tiskane/velike",
+    "pisane/male",
+    "pisane/velike",
 ]
 
 CHARACTER_FILE_NAMES = {
