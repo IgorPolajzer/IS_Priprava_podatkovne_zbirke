@@ -1,5 +1,4 @@
 import sys
-import os
 
 from sklearn.linear_model import LogisticRegression, SGDClassifier
 from sklearn.neighbors import KNeighborsClassifier
@@ -13,9 +12,7 @@ from sklearn.preprocessing import StandardScaler
 
 from predictor.alphabet_data import AlphabetData
 
-# Konstanta za ime datoteke z rezultati
 RESULTS_FILE = "results.txt"
-
 
 def log_result(message):
     print(message)
@@ -25,7 +22,7 @@ def log_result(message):
 
 if __name__ == '__main__':
     if len(sys.argv) < 6:
-        print("Usage: python main.py <classifier> <hp1> <hp2> <hp3> <dataset_path>")
+        print("Usage: python main.py <classifier> <hp1> <hp2> <hp3> <dataset_folder_path>")
         print("Example: python main.py -knn 5 distance euclidean data_set/characteristics_1_1.csv")
         sys.exit()
 
@@ -41,18 +38,17 @@ if __name__ == '__main__':
     clf = None
     try:
         if classifier == "-knn":
-            clf = KNeighborsClassifier(n_neighbors=int(hp1), weights=hp2, metric=hp3)
-
+            clf = KNeighborsClassifier(n_neighbors=int(hp1), weights=hp2, metric=hp3, n_jobs=-1)
         elif classifier == "-lr":
             penalty = None if hp2 == "None" else hp2
-            clf = LogisticRegression(C=float(hp1), penalty=penalty, solver=hp3, max_iter=1000)
+            clf = LogisticRegression(C=float(hp1), penalty=penalty, solver=hp3, max_iter=1000, n_jobs=-1)
         elif classifier == "-dtc":
             depth = None if hp1 == "None" else int(hp1)
             clf = DecisionTreeClassifier(max_depth=depth, criterion=hp2, min_samples_leaf=int(hp3))
         elif classifier == "-rfc":
-            clf = RandomForestClassifier(n_estimators=int(hp1), max_features=hp2, bootstrap=(hp3 == "True"))
+            clf = RandomForestClassifier(n_estimators=int(hp1), max_features=hp2, bootstrap=(hp3 == "True"), n_jobs=-1)
         elif classifier == "-abc":
-            clf = AdaBoostClassifier(n_estimators=int(hp1), learning_rate=float(hp2), algorithm=hp3)
+            clf = AdaBoostClassifier(n_estimators=int(hp1), learning_rate=float(hp2), estimator=DecisionTreeClassifier(max_depth=int(hp3)))
         elif classifier == "-gnb":
             clf = GaussianNB(var_smoothing=float(hp1))
         elif classifier == "-lsvc":
@@ -62,9 +58,9 @@ if __name__ == '__main__':
             layers = tuple(map(int, hp1.split(',')))
             clf = MLPClassifier(hidden_layer_sizes=layers, activation=hp2, alpha=float(hp3), max_iter=500)
         elif classifier == "-sgd":
-            clf = SGDClassifier(loss=hp1, penalty=hp2, learning_rate=hp3, eta0=0.01)
+            clf = SGDClassifier(loss=hp1, penalty=hp2, learning_rate=hp3, eta0=0.01, n_jobs=-1)
         elif classifier == "-etc":
-            clf = ExtraTreesClassifier(n_estimators=int(hp1), max_depth=int(hp2), min_samples_split=int(hp3))
+            clf = ExtraTreesClassifier(n_estimators=int(hp1), max_depth=int(hp2), min_samples_split=int(hp3), n_jobs=-1)
         else:
             print(f"Incorrect classifier name: {classifier}")
             sys.exit()
