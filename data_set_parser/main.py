@@ -8,7 +8,7 @@ from parsing_util import parse_image
 
 if __name__ == '__main__':
     if len(sys.argv) < 3:
-        print("Usage: python main.py -pi <image_path> OR python main.py -pf <folder_path>")
+        print("Usage: python experiment.py -pi <image_path> OR python experiment.py -pf <folder_path>")
         sys.exit(1)
 
     mode = sys.argv[1]
