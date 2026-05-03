@@ -192,7 +192,7 @@ if __name__ == "__main__":
         ax.legend(title="N (vrstice)", fontsize=9, title_fontsize=9, loc="lower right")
 
         plt.tight_layout()
-        out2 = os.path.join(OUTPUT, f"graf2_{algo.lower()}_po_gridih.png")
+        out2 = os.path.join(OUTPUT, f"{algo.lower()}_po_razmerju_N_M.png")
         fig.savefig(out2, dpi=150, bbox_inches="tight")
         plt.close(fig)
         print(f"Saved: {out2}")
