@@ -1,0 +1,150 @@
+--- Running -gnb with [1e-9, 0, 0] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0220
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0220
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0312
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0312
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0372
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0372
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0417
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0417
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0474
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0474
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0270
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0270
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0432
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0432
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0489
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0489
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0534
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0534
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0594
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0594
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0290
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0290
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0438
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0438
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0542
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0542
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0574
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0574
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.0632
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.0632
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0325
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0325
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0477
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0477
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0546
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0546
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.0558
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.0558
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.0590
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.0590
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0353
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0353
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0519
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0519
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.0588
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.0588
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.0600
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.0600
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.0630
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.0630
+--------------------------------------------------

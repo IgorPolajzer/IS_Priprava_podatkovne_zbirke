@@ -1,0 +1,1776 @@
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0205
+ERROR: -lsvc [0.1, hinge, 1e-4] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0158
+ERROR: -lsvc [0.1, hinge, 1e-3] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0392
+ERROR: -lsvc [0.1, squared_hinge, 1e-4] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0368
+ERROR: -lsvc [0.1, squared_hinge, 1e-3] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0189
+ERROR: -lsvc [1.0, hinge, 1e-4] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0167
+ERROR: -lsvc [1.0, hinge, 1e-3] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0392
+ERROR: -lsvc [1.0, squared_hinge, 1e-4] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0368
+ERROR: -lsvc [1.0, squared_hinge, 1e-3] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0199
+ERROR: -lsvc [10.0, hinge, 1e-4] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0161
+ERROR: -lsvc [10.0, hinge, 1e-3] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0392
+ERROR: -lsvc [10.0, squared_hinge, 1e-4] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0368
+ERROR: -lsvc [10.0, squared_hinge, 1e-3] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.0649
+ERROR: -lsvc [0.1, hinge, 1e-4] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.0727
+ERROR: -lsvc [0.1, hinge, 1e-3] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.1268
+ERROR: -lsvc [0.1, squared_hinge, 1e-4] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.1299
+ERROR: -lsvc [0.1, squared_hinge, 1e-3] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.0694
+ERROR: -lsvc [1.0, hinge, 1e-4] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.0677
+ERROR: -lsvc [1.0, hinge, 1e-3] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.1268
+ERROR: -lsvc [1.0, squared_hinge, 1e-4] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.1299
+ERROR: -lsvc [1.0, squared_hinge, 1e-3] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.0666
+ERROR: -lsvc [10.0, hinge, 1e-4] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.0680
+ERROR: -lsvc [10.0, hinge, 1e-3] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.1268
+ERROR: -lsvc [10.0, squared_hinge, 1e-4] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.1299
+ERROR: -lsvc [10.0, squared_hinge, 1e-3] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0281
+ERROR: -lsvc [0.1, hinge, 1e-4] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0306
+ERROR: -lsvc [0.1, hinge, 1e-3] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0724
+ERROR: -lsvc [0.1, squared_hinge, 1e-4] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0741
+ERROR: -lsvc [0.1, squared_hinge, 1e-3] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0310
+ERROR: -lsvc [1.0, hinge, 1e-4] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0350
+ERROR: -lsvc [1.0, hinge, 1e-3] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0725
+ERROR: -lsvc [1.0, squared_hinge, 1e-4] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0741
+ERROR: -lsvc [1.0, squared_hinge, 1e-3] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0325
+ERROR: -lsvc [10.0, hinge, 1e-4] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0279
+ERROR: -lsvc [10.0, hinge, 1e-3] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0725
+ERROR: -lsvc [10.0, squared_hinge, 1e-4] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0741
+ERROR: -lsvc [10.0, squared_hinge, 1e-3] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.0511
+ERROR: -lsvc [0.1, hinge, 1e-4] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.0507
+ERROR: -lsvc [0.1, hinge, 1e-3] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.0977
+ERROR: -lsvc [0.1, squared_hinge, 1e-4] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.1026
+ERROR: -lsvc [0.1, squared_hinge, 1e-3] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.0454
+ERROR: -lsvc [1.0, hinge, 1e-4] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.0501
+ERROR: -lsvc [1.0, hinge, 1e-3] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.0977
+ERROR: -lsvc [1.0, squared_hinge, 1e-4] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.1026
+ERROR: -lsvc [1.0, squared_hinge, 1e-3] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.0506
+ERROR: -lsvc [10.0, hinge, 1e-4] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.0503
+ERROR: -lsvc [10.0, hinge, 1e-3] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.0977
+ERROR: -lsvc [10.0, squared_hinge, 1e-4] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.1026
+ERROR: -lsvc [10.0, squared_hinge, 1e-3] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.0628
+ERROR: -lsvc [0.1, hinge, 1e-4] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.0591
+ERROR: -lsvc [0.1, hinge, 1e-3] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.1120
+ERROR: -lsvc [0.1, squared_hinge, 1e-4] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.1154
+ERROR: -lsvc [0.1, squared_hinge, 1e-3] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.0593
+ERROR: -lsvc [1.0, hinge, 1e-4] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.0541
+ERROR: -lsvc [1.0, hinge, 1e-3] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.1120
+ERROR: -lsvc [1.0, squared_hinge, 1e-4] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.1154
+ERROR: -lsvc [1.0, squared_hinge, 1e-3] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.0616
+ERROR: -lsvc [10.0, hinge, 1e-4] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.0573
+ERROR: -lsvc [10.0, hinge, 1e-3] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.1120
+ERROR: -lsvc [10.0, squared_hinge, 1e-4] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.1154
+ERROR: -lsvc [10.0, squared_hinge, 1e-3] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.0675
+ERROR: -lsvc [0.1, hinge, 1e-4] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.0645
+ERROR: -lsvc [0.1, hinge, 1e-3] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.1205
+ERROR: -lsvc [0.1, squared_hinge, 1e-4] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.1221
+ERROR: -lsvc [0.1, squared_hinge, 1e-3] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.0642
+ERROR: -lsvc [1.0, hinge, 1e-4] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.0670
+ERROR: -lsvc [1.0, hinge, 1e-3] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.1205
+ERROR: -lsvc [1.0, squared_hinge, 1e-4] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.1221
+ERROR: -lsvc [1.0, squared_hinge, 1e-3] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.0637
+ERROR: -lsvc [10.0, hinge, 1e-4] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.0690
+ERROR: -lsvc [10.0, hinge, 1e-3] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.1205
+ERROR: -lsvc [10.0, squared_hinge, 1e-4] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.1221
+ERROR: -lsvc [10.0, squared_hinge, 1e-3] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.0700
+ERROR: -lsvc [0.1, hinge, 1e-4] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.0720
+ERROR: -lsvc [0.1, hinge, 1e-3] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.1258
+ERROR: -lsvc [0.1, squared_hinge, 1e-4] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.1281
+ERROR: -lsvc [0.1, squared_hinge, 1e-3] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.0706
+ERROR: -lsvc [1.0, hinge, 1e-4] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.0678
+ERROR: -lsvc [1.0, hinge, 1e-3] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.1257
+ERROR: -lsvc [1.0, squared_hinge, 1e-4] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.1281
+ERROR: -lsvc [1.0, squared_hinge, 1e-3] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.0691
+ERROR: -lsvc [10.0, hinge, 1e-4] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.0651
+ERROR: -lsvc [10.0, hinge, 1e-3] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.1257
+ERROR: -lsvc [10.0, squared_hinge, 1e-4] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.1281
+ERROR: -lsvc [10.0, squared_hinge, 1e-3] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.0748
+ERROR: -lsvc [0.1, hinge, 1e-4] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.0738
+ERROR: -lsvc [0.1, hinge, 1e-3] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.1276
+ERROR: -lsvc [0.1, squared_hinge, 1e-4] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.1325
+ERROR: -lsvc [0.1, squared_hinge, 1e-3] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.0760
+ERROR: -lsvc [1.0, hinge, 1e-4] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.0740
+ERROR: -lsvc [1.0, hinge, 1e-3] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.1276
+ERROR: -lsvc [1.0, squared_hinge, 1e-4] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.1325
+ERROR: -lsvc [1.0, squared_hinge, 1e-3] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.0749
+ERROR: -lsvc [10.0, hinge, 1e-4] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.0739
+ERROR: -lsvc [10.0, hinge, 1e-3] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.1276
+ERROR: -lsvc [10.0, squared_hinge, 1e-4] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.1325
+ERROR: -lsvc [10.0, squared_hinge, 1e-3] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.0778
+ERROR: -lsvc [0.1, hinge, 1e-4] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.0677
+ERROR: -lsvc [0.1, hinge, 1e-3] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.1292
+ERROR: -lsvc [0.1, squared_hinge, 1e-4] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.1289
+ERROR: -lsvc [0.1, squared_hinge, 1e-3] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.0769
+ERROR: -lsvc [1.0, hinge, 1e-4] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.0758
+ERROR: -lsvc [1.0, hinge, 1e-3] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.1292
+ERROR: -lsvc [1.0, squared_hinge, 1e-4] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.1289
+ERROR: -lsvc [1.0, squared_hinge, 1e-3] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.0730
+ERROR: -lsvc [10.0, hinge, 1e-4] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.0742
+ERROR: -lsvc [10.0, hinge, 1e-3] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.1292
+ERROR: -lsvc [10.0, squared_hinge, 1e-4] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.1289
+ERROR: -lsvc [10.0, squared_hinge, 1e-3] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.0668
+ERROR: -lsvc [0.1, hinge, 1e-4] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.0742
+ERROR: -lsvc [0.1, hinge, 1e-3] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.1285
+ERROR: -lsvc [0.1, squared_hinge, 1e-4] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.1314
+ERROR: -lsvc [0.1, squared_hinge, 1e-3] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.0720
+ERROR: -lsvc [1.0, hinge, 1e-4] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.0692
+ERROR: -lsvc [1.0, hinge, 1e-3] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.1285
+ERROR: -lsvc [1.0, squared_hinge, 1e-4] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.1314
+ERROR: -lsvc [1.0, squared_hinge, 1e-3] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.0764
+ERROR: -lsvc [10.0, hinge, 1e-4] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.0735
+ERROR: -lsvc [10.0, hinge, 1e-3] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.1285
+ERROR: -lsvc [10.0, squared_hinge, 1e-4] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.1314
+ERROR: -lsvc [10.0, squared_hinge, 1e-3] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0093
+ERROR: -lsvc [0.1, hinge, 1e-4] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0124
+ERROR: -lsvc [0.1, hinge, 1e-3] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0201
+ERROR: -lsvc [0.1, squared_hinge, 1e-4] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0207
+ERROR: -lsvc [0.1, squared_hinge, 1e-3] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0107
+ERROR: -lsvc [1.0, hinge, 1e-4] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0141
+ERROR: -lsvc [1.0, hinge, 1e-3] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0201
+ERROR: -lsvc [1.0, squared_hinge, 1e-4] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0207
+ERROR: -lsvc [1.0, squared_hinge, 1e-3] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0124
+ERROR: -lsvc [10.0, hinge, 1e-4] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0121
+ERROR: -lsvc [10.0, hinge, 1e-3] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0201
+ERROR: -lsvc [10.0, squared_hinge, 1e-4] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0207
+ERROR: -lsvc [10.0, squared_hinge, 1e-3] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0146
+ERROR: -lsvc [0.1, hinge, 1e-4] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0160
+ERROR: -lsvc [0.1, hinge, 1e-3] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0454
+ERROR: -lsvc [0.1, squared_hinge, 1e-4] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0402
+ERROR: -lsvc [0.1, squared_hinge, 1e-3] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0190
+ERROR: -lsvc [1.0, hinge, 1e-4] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0188
+ERROR: -lsvc [1.0, hinge, 1e-3] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0454
+ERROR: -lsvc [1.0, squared_hinge, 1e-4] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0402
+ERROR: -lsvc [1.0, squared_hinge, 1e-3] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0138
+ERROR: -lsvc [10.0, hinge, 1e-4] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0136
+ERROR: -lsvc [10.0, hinge, 1e-3] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0454
+ERROR: -lsvc [10.0, squared_hinge, 1e-4] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0402
+ERROR: -lsvc [10.0, squared_hinge, 1e-3] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0100
+ERROR: -lsvc [0.1, hinge, 1e-4] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0098
+ERROR: -lsvc [0.1, hinge, 1e-3] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0273
+ERROR: -lsvc [0.1, squared_hinge, 1e-4] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0293
+ERROR: -lsvc [0.1, squared_hinge, 1e-3] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0151
+ERROR: -lsvc [1.0, hinge, 1e-4] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0133
+ERROR: -lsvc [1.0, hinge, 1e-3] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0273
+ERROR: -lsvc [1.0, squared_hinge, 1e-4] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0293
+ERROR: -lsvc [1.0, squared_hinge, 1e-3] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0118
+ERROR: -lsvc [10.0, hinge, 1e-4] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0112
+ERROR: -lsvc [10.0, hinge, 1e-3] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0273
+ERROR: -lsvc [10.0, squared_hinge, 1e-4] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0293
+ERROR: -lsvc [10.0, squared_hinge, 1e-3] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0081
+ERROR: -lsvc [0.1, hinge, 1e-4] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0108
+ERROR: -lsvc [0.1, hinge, 1e-3] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0311
+ERROR: -lsvc [0.1, squared_hinge, 1e-4] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0329
+ERROR: -lsvc [0.1, squared_hinge, 1e-3] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0138
+ERROR: -lsvc [1.0, hinge, 1e-4] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0148
+ERROR: -lsvc [1.0, hinge, 1e-3] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0311
+ERROR: -lsvc [1.0, squared_hinge, 1e-4] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0329
+ERROR: -lsvc [1.0, squared_hinge, 1e-3] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0145
+ERROR: -lsvc [10.0, hinge, 1e-4] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0116
+ERROR: -lsvc [10.0, hinge, 1e-3] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0311
+ERROR: -lsvc [10.0, squared_hinge, 1e-4] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0329
+ERROR: -lsvc [10.0, squared_hinge, 1e-3] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0138
+ERROR: -lsvc [0.1, hinge, 1e-4] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0098
+ERROR: -lsvc [0.1, hinge, 1e-3] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0383
+ERROR: -lsvc [0.1, squared_hinge, 1e-4] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0376
+ERROR: -lsvc [0.1, squared_hinge, 1e-3] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0133
+ERROR: -lsvc [1.0, hinge, 1e-4] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0133
+ERROR: -lsvc [1.0, hinge, 1e-3] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0383
+ERROR: -lsvc [1.0, squared_hinge, 1e-4] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0376
+ERROR: -lsvc [1.0, squared_hinge, 1e-3] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0143
+ERROR: -lsvc [10.0, hinge, 1e-4] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0096
+ERROR: -lsvc [10.0, hinge, 1e-3] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0383
+ERROR: -lsvc [10.0, squared_hinge, 1e-4] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0376
+ERROR: -lsvc [10.0, squared_hinge, 1e-3] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0131
+ERROR: -lsvc [0.1, hinge, 1e-4] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0140
+ERROR: -lsvc [0.1, hinge, 1e-3] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0409
+ERROR: -lsvc [0.1, squared_hinge, 1e-4] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0421
+ERROR: -lsvc [0.1, squared_hinge, 1e-3] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0154
+ERROR: -lsvc [1.0, hinge, 1e-4] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0139
+ERROR: -lsvc [1.0, hinge, 1e-3] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0409
+ERROR: -lsvc [1.0, squared_hinge, 1e-4] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0421
+ERROR: -lsvc [1.0, squared_hinge, 1e-3] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0137
+ERROR: -lsvc [10.0, hinge, 1e-4] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0143
+ERROR: -lsvc [10.0, hinge, 1e-3] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0409
+ERROR: -lsvc [10.0, squared_hinge, 1e-4] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0421
+ERROR: -lsvc [10.0, squared_hinge, 1e-3] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0144
+ERROR: -lsvc [0.1, hinge, 1e-4] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0194
+ERROR: -lsvc [0.1, hinge, 1e-3] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0439
+ERROR: -lsvc [0.1, squared_hinge, 1e-4] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0432
+ERROR: -lsvc [0.1, squared_hinge, 1e-3] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0135
+ERROR: -lsvc [1.0, hinge, 1e-4] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0120
+ERROR: -lsvc [1.0, hinge, 1e-3] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0439
+ERROR: -lsvc [1.0, squared_hinge, 1e-4] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0432
+ERROR: -lsvc [1.0, squared_hinge, 1e-3] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0144
+ERROR: -lsvc [10.0, hinge, 1e-4] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0176
+ERROR: -lsvc [10.0, hinge, 1e-3] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0439
+ERROR: -lsvc [10.0, squared_hinge, 1e-4] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0432
+ERROR: -lsvc [10.0, squared_hinge, 1e-3] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0160
+ERROR: -lsvc [0.1, hinge, 1e-4] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0162
+ERROR: -lsvc [0.1, hinge, 1e-3] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0455
+ERROR: -lsvc [0.1, squared_hinge, 1e-4] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0439
+ERROR: -lsvc [0.1, squared_hinge, 1e-3] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0156
+ERROR: -lsvc [1.0, hinge, 1e-4] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0164
+ERROR: -lsvc [1.0, hinge, 1e-3] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0455
+ERROR: -lsvc [1.0, squared_hinge, 1e-4] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0439
+ERROR: -lsvc [1.0, squared_hinge, 1e-3] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0165
+ERROR: -lsvc [10.0, hinge, 1e-4] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0145
+ERROR: -lsvc [10.0, hinge, 1e-3] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0455
+ERROR: -lsvc [10.0, squared_hinge, 1e-4] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0439
+ERROR: -lsvc [10.0, squared_hinge, 1e-3] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0153
+ERROR: -lsvc [0.1, hinge, 1e-4] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0141
+ERROR: -lsvc [0.1, hinge, 1e-3] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0460
+ERROR: -lsvc [0.1, squared_hinge, 1e-4] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0441
+ERROR: -lsvc [0.1, squared_hinge, 1e-3] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0150
+ERROR: -lsvc [1.0, hinge, 1e-4] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0175
+ERROR: -lsvc [1.0, hinge, 1e-3] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0460
+ERROR: -lsvc [1.0, squared_hinge, 1e-4] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0441
+ERROR: -lsvc [1.0, squared_hinge, 1e-3] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0168
+ERROR: -lsvc [10.0, hinge, 1e-4] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0186
+ERROR: -lsvc [10.0, hinge, 1e-3] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0460
+ERROR: -lsvc [10.0, squared_hinge, 1e-4] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0441
+ERROR: -lsvc [10.0, squared_hinge, 1e-3] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0172
+ERROR: -lsvc [0.1, hinge, 1e-4] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0159
+ERROR: -lsvc [0.1, hinge, 1e-3] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0458
+ERROR: -lsvc [0.1, squared_hinge, 1e-4] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0450
+ERROR: -lsvc [0.1, squared_hinge, 1e-3] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0215
+ERROR: -lsvc [1.0, hinge, 1e-4] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0174
+ERROR: -lsvc [1.0, hinge, 1e-3] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0458
+ERROR: -lsvc [1.0, squared_hinge, 1e-4] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0450
+ERROR: -lsvc [1.0, squared_hinge, 1e-3] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0156
+ERROR: -lsvc [10.0, hinge, 1e-4] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0142
+ERROR: -lsvc [10.0, hinge, 1e-3] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0458
+ERROR: -lsvc [10.0, squared_hinge, 1e-4] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0450
+ERROR: -lsvc [10.0, squared_hinge, 1e-3] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0143
+ERROR: -lsvc [0.1, hinge, 1e-4] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0161
+ERROR: -lsvc [0.1, hinge, 1e-3] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0247
+ERROR: -lsvc [0.1, squared_hinge, 1e-4] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0248
+ERROR: -lsvc [0.1, squared_hinge, 1e-3] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0125
+ERROR: -lsvc [1.0, hinge, 1e-4] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0126
+ERROR: -lsvc [1.0, hinge, 1e-3] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0247
+ERROR: -lsvc [1.0, squared_hinge, 1e-4] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0248
+ERROR: -lsvc [1.0, squared_hinge, 1e-3] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0100
+ERROR: -lsvc [10.0, hinge, 1e-4] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0120
+ERROR: -lsvc [10.0, hinge, 1e-3] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0247
+ERROR: -lsvc [10.0, squared_hinge, 1e-4] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0248
+ERROR: -lsvc [10.0, squared_hinge, 1e-3] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0326
+ERROR: -lsvc [0.1, hinge, 1e-4] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0298
+ERROR: -lsvc [0.1, hinge, 1e-3] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0715
+ERROR: -lsvc [0.1, squared_hinge, 1e-4] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0782
+ERROR: -lsvc [0.1, squared_hinge, 1e-3] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0289
+ERROR: -lsvc [1.0, hinge, 1e-4] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0295
+ERROR: -lsvc [1.0, hinge, 1e-3] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0715
+ERROR: -lsvc [1.0, squared_hinge, 1e-4] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0782
+ERROR: -lsvc [1.0, squared_hinge, 1e-3] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0256
+ERROR: -lsvc [10.0, hinge, 1e-4] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0248
+ERROR: -lsvc [10.0, hinge, 1e-3] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0715
+ERROR: -lsvc [10.0, squared_hinge, 1e-4] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0782
+ERROR: -lsvc [10.0, squared_hinge, 1e-3] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0161
+ERROR: -lsvc [0.1, hinge, 1e-4] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0182
+ERROR: -lsvc [0.1, hinge, 1e-3] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0411
+ERROR: -lsvc [0.1, squared_hinge, 1e-4] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0397
+ERROR: -lsvc [0.1, squared_hinge, 1e-3] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0092
+ERROR: -lsvc [1.0, hinge, 1e-4] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0114
+ERROR: -lsvc [1.0, hinge, 1e-3] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0411
+ERROR: -lsvc [1.0, squared_hinge, 1e-4] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0397
+ERROR: -lsvc [1.0, squared_hinge, 1e-3] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0144
+ERROR: -lsvc [10.0, hinge, 1e-4] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0134
+ERROR: -lsvc [10.0, hinge, 1e-3] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0411
+ERROR: -lsvc [10.0, squared_hinge, 1e-4] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0397
+ERROR: -lsvc [10.0, squared_hinge, 1e-3] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0199
+ERROR: -lsvc [0.1, hinge, 1e-4] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0172
+ERROR: -lsvc [0.1, hinge, 1e-3] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0534
+ERROR: -lsvc [0.1, squared_hinge, 1e-4] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0540
+ERROR: -lsvc [0.1, squared_hinge, 1e-3] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0177
+ERROR: -lsvc [1.0, hinge, 1e-4] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0204
+ERROR: -lsvc [1.0, hinge, 1e-3] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0534
+ERROR: -lsvc [1.0, squared_hinge, 1e-4] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0540
+ERROR: -lsvc [1.0, squared_hinge, 1e-3] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0188
+ERROR: -lsvc [10.0, hinge, 1e-4] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0193
+ERROR: -lsvc [10.0, hinge, 1e-3] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0534
+ERROR: -lsvc [10.0, squared_hinge, 1e-4] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0540
+ERROR: -lsvc [10.0, squared_hinge, 1e-3] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0200
+ERROR: -lsvc [0.1, hinge, 1e-4] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0257
+ERROR: -lsvc [0.1, hinge, 1e-3] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0632
+ERROR: -lsvc [0.1, squared_hinge, 1e-4] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0590
+ERROR: -lsvc [0.1, squared_hinge, 1e-3] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0236
+ERROR: -lsvc [1.0, hinge, 1e-4] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0209
+ERROR: -lsvc [1.0, hinge, 1e-3] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0632
+ERROR: -lsvc [1.0, squared_hinge, 1e-4] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0590
+ERROR: -lsvc [1.0, squared_hinge, 1e-3] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0218
+ERROR: -lsvc [10.0, hinge, 1e-4] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0230
+ERROR: -lsvc [10.0, hinge, 1e-3] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0632
+ERROR: -lsvc [10.0, squared_hinge, 1e-4] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0590
+ERROR: -lsvc [10.0, squared_hinge, 1e-3] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0302
+ERROR: -lsvc [0.1, hinge, 1e-4] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0224
+ERROR: -lsvc [0.1, hinge, 1e-3] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0696
+ERROR: -lsvc [0.1, squared_hinge, 1e-4] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0697
+ERROR: -lsvc [0.1, squared_hinge, 1e-3] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0266
+ERROR: -lsvc [1.0, hinge, 1e-4] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0224
+ERROR: -lsvc [1.0, hinge, 1e-3] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0696
+ERROR: -lsvc [1.0, squared_hinge, 1e-4] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0697
+ERROR: -lsvc [1.0, squared_hinge, 1e-3] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0270
+ERROR: -lsvc [10.0, hinge, 1e-4] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0223
+ERROR: -lsvc [10.0, hinge, 1e-3] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0696
+ERROR: -lsvc [10.0, squared_hinge, 1e-4] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0697
+ERROR: -lsvc [10.0, squared_hinge, 1e-3] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0279
+ERROR: -lsvc [0.1, hinge, 1e-4] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0257
+ERROR: -lsvc [0.1, hinge, 1e-3] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0711
+ERROR: -lsvc [0.1, squared_hinge, 1e-4] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0707
+ERROR: -lsvc [0.1, squared_hinge, 1e-3] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0240
+ERROR: -lsvc [1.0, hinge, 1e-4] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0261
+ERROR: -lsvc [1.0, hinge, 1e-3] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0711
+ERROR: -lsvc [1.0, squared_hinge, 1e-4] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0707
+ERROR: -lsvc [1.0, squared_hinge, 1e-3] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0287
+ERROR: -lsvc [10.0, hinge, 1e-4] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0232
+ERROR: -lsvc [10.0, hinge, 1e-3] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0711
+ERROR: -lsvc [10.0, squared_hinge, 1e-4] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0707
+ERROR: -lsvc [10.0, squared_hinge, 1e-3] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0279
+ERROR: -lsvc [0.1, hinge, 1e-4] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0312
+ERROR: -lsvc [0.1, hinge, 1e-3] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0726
+ERROR: -lsvc [0.1, squared_hinge, 1e-4] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0739
+ERROR: -lsvc [0.1, squared_hinge, 1e-3] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0314
+ERROR: -lsvc [1.0, hinge, 1e-4] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0302
+ERROR: -lsvc [1.0, hinge, 1e-3] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0726
+ERROR: -lsvc [1.0, squared_hinge, 1e-4] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0739
+ERROR: -lsvc [1.0, squared_hinge, 1e-3] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0270
+ERROR: -lsvc [10.0, hinge, 1e-4] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0269
+ERROR: -lsvc [10.0, hinge, 1e-3] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0726
+ERROR: -lsvc [10.0, squared_hinge, 1e-4] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0739
+ERROR: -lsvc [10.0, squared_hinge, 1e-3] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0293
+ERROR: -lsvc [0.1, hinge, 1e-4] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0296
+ERROR: -lsvc [0.1, hinge, 1e-3] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0746
+ERROR: -lsvc [0.1, squared_hinge, 1e-4] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0768
+ERROR: -lsvc [0.1, squared_hinge, 1e-3] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0293
+ERROR: -lsvc [1.0, hinge, 1e-4] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0309
+ERROR: -lsvc [1.0, hinge, 1e-3] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0746
+ERROR: -lsvc [1.0, squared_hinge, 1e-4] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0768
+ERROR: -lsvc [1.0, squared_hinge, 1e-3] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0280
+ERROR: -lsvc [10.0, hinge, 1e-4] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0296
+ERROR: -lsvc [10.0, hinge, 1e-3] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0746
+ERROR: -lsvc [10.0, squared_hinge, 1e-4] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0768
+ERROR: -lsvc [10.0, squared_hinge, 1e-3] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0294
+ERROR: -lsvc [0.1, hinge, 1e-4] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0321
+ERROR: -lsvc [0.1, hinge, 1e-3] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0736
+ERROR: -lsvc [0.1, squared_hinge, 1e-4] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0780
+ERROR: -lsvc [0.1, squared_hinge, 1e-3] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0251
+ERROR: -lsvc [1.0, hinge, 1e-4] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0289
+ERROR: -lsvc [1.0, hinge, 1e-3] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0736
+ERROR: -lsvc [1.0, squared_hinge, 1e-4] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0780
+ERROR: -lsvc [1.0, squared_hinge, 1e-3] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0284
+ERROR: -lsvc [10.0, hinge, 1e-4] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0256
+ERROR: -lsvc [10.0, hinge, 1e-3] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0736
+ERROR: -lsvc [10.0, squared_hinge, 1e-4] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0780
+ERROR: -lsvc [10.0, squared_hinge, 1e-3] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0105
+ERROR: -lsvc [0.1, hinge, 1e-4] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0090
+ERROR: -lsvc [0.1, hinge, 1e-3] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0264
+ERROR: -lsvc [0.1, squared_hinge, 1e-4] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0263
+ERROR: -lsvc [0.1, squared_hinge, 1e-3] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0102
+ERROR: -lsvc [1.0, hinge, 1e-4] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0106
+ERROR: -lsvc [1.0, hinge, 1e-3] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0264
+ERROR: -lsvc [1.0, squared_hinge, 1e-4] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0263
+ERROR: -lsvc [1.0, squared_hinge, 1e-3] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0131
+ERROR: -lsvc [10.0, hinge, 1e-4] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0142
+ERROR: -lsvc [10.0, hinge, 1e-3] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0264
+ERROR: -lsvc [10.0, squared_hinge, 1e-4] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0263
+ERROR: -lsvc [10.0, squared_hinge, 1e-3] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.0391
+ERROR: -lsvc [0.1, hinge, 1e-4] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.0335
+ERROR: -lsvc [0.1, hinge, 1e-3] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.0813
+ERROR: -lsvc [0.1, squared_hinge, 1e-4] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.0850
+ERROR: -lsvc [0.1, squared_hinge, 1e-3] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.0366
+ERROR: -lsvc [1.0, hinge, 1e-4] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.0411
+ERROR: -lsvc [1.0, hinge, 1e-3] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.0813
+ERROR: -lsvc [1.0, squared_hinge, 1e-4] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.0850
+ERROR: -lsvc [1.0, squared_hinge, 1e-3] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.0396
+ERROR: -lsvc [10.0, hinge, 1e-4] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.0391
+ERROR: -lsvc [10.0, hinge, 1e-3] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.0813
+ERROR: -lsvc [10.0, squared_hinge, 1e-4] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.0850
+ERROR: -lsvc [10.0, squared_hinge, 1e-3] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0199
+ERROR: -lsvc [0.1, hinge, 1e-4] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0208
+ERROR: -lsvc [0.1, hinge, 1e-3] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0443
+ERROR: -lsvc [0.1, squared_hinge, 1e-4] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0432
+ERROR: -lsvc [0.1, squared_hinge, 1e-3] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0157
+ERROR: -lsvc [1.0, hinge, 1e-4] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0178
+ERROR: -lsvc [1.0, hinge, 1e-3] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0443
+ERROR: -lsvc [1.0, squared_hinge, 1e-4] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0432
+ERROR: -lsvc [1.0, squared_hinge, 1e-3] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0170
+ERROR: -lsvc [10.0, hinge, 1e-4] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0204
+ERROR: -lsvc [10.0, hinge, 1e-3] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0443
+ERROR: -lsvc [10.0, squared_hinge, 1e-4] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0432
+ERROR: -lsvc [10.0, squared_hinge, 1e-3] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0291
+ERROR: -lsvc [0.1, hinge, 1e-4] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0231
+ERROR: -lsvc [0.1, hinge, 1e-3] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0624
+ERROR: -lsvc [0.1, squared_hinge, 1e-4] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0564
+ERROR: -lsvc [0.1, squared_hinge, 1e-3] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0257
+ERROR: -lsvc [1.0, hinge, 1e-4] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0221
+ERROR: -lsvc [1.0, hinge, 1e-3] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0624
+ERROR: -lsvc [1.0, squared_hinge, 1e-4] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0564
+ERROR: -lsvc [1.0, squared_hinge, 1e-3] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0256
+ERROR: -lsvc [10.0, hinge, 1e-4] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0313
+ERROR: -lsvc [10.0, hinge, 1e-3] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0624
+ERROR: -lsvc [10.0, squared_hinge, 1e-4] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0564
+ERROR: -lsvc [10.0, squared_hinge, 1e-3] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0290
+ERROR: -lsvc [0.1, hinge, 1e-4] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0274
+ERROR: -lsvc [0.1, hinge, 1e-3] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0728
+ERROR: -lsvc [0.1, squared_hinge, 1e-4] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0672
+ERROR: -lsvc [0.1, squared_hinge, 1e-3] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0295
+ERROR: -lsvc [1.0, hinge, 1e-4] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0291
+ERROR: -lsvc [1.0, hinge, 1e-3] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0728
+ERROR: -lsvc [1.0, squared_hinge, 1e-4] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0672
+ERROR: -lsvc [1.0, squared_hinge, 1e-3] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0376
+ERROR: -lsvc [10.0, hinge, 1e-4] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0329
+ERROR: -lsvc [10.0, hinge, 1e-3] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0728
+ERROR: -lsvc [10.0, squared_hinge, 1e-4] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0672
+ERROR: -lsvc [10.0, squared_hinge, 1e-3] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0365
+ERROR: -lsvc [0.1, hinge, 1e-4] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0350
+ERROR: -lsvc [0.1, hinge, 1e-3] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0783
+ERROR: -lsvc [0.1, squared_hinge, 1e-4] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0764
+ERROR: -lsvc [0.1, squared_hinge, 1e-3] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0366
+ERROR: -lsvc [1.0, hinge, 1e-4] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0311
+ERROR: -lsvc [1.0, hinge, 1e-3] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0783
+ERROR: -lsvc [1.0, squared_hinge, 1e-4] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0763
+ERROR: -lsvc [1.0, squared_hinge, 1e-3] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0406
+ERROR: -lsvc [10.0, hinge, 1e-4] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0338
+ERROR: -lsvc [10.0, hinge, 1e-3] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0783
+ERROR: -lsvc [10.0, squared_hinge, 1e-4] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0763
+ERROR: -lsvc [10.0, squared_hinge, 1e-3] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.0347
+ERROR: -lsvc [0.1, hinge, 1e-4] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.0376
+ERROR: -lsvc [0.1, hinge, 1e-3] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.0802
+ERROR: -lsvc [0.1, squared_hinge, 1e-4] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.0810
+ERROR: -lsvc [0.1, squared_hinge, 1e-3] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.0399
+ERROR: -lsvc [1.0, hinge, 1e-4] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.0384
+ERROR: -lsvc [1.0, hinge, 1e-3] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.0802
+ERROR: -lsvc [1.0, squared_hinge, 1e-4] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.0810
+ERROR: -lsvc [1.0, squared_hinge, 1e-3] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.0330
+ERROR: -lsvc [10.0, hinge, 1e-4] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.0385
+ERROR: -lsvc [10.0, hinge, 1e-3] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.0802
+ERROR: -lsvc [10.0, squared_hinge, 1e-4] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.0810
+ERROR: -lsvc [10.0, squared_hinge, 1e-3] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------

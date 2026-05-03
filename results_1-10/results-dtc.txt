@@ -1,0 +1,1824 @@
+--- Running -dtc with [3, gini, 1] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0274
+ERROR: -dtc [3, gini, 1] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 5] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0274
+ERROR: -dtc [3, gini, 5] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 20] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0274
+ERROR: -dtc [3, gini, 20] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 1] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0262
+ERROR: -dtc [3, entropy, 1] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 5] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0262
+ERROR: -dtc [3, entropy, 5] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 20] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0262
+ERROR: -dtc [3, entropy, 20] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 1] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0892
+ERROR: -dtc [10, gini, 1] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 5] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0892
+ERROR: -dtc [10, gini, 5] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 20] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0893
+ERROR: -dtc [10, gini, 20] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 1] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0879
+ERROR: -dtc [10, entropy, 1] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 5] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0879
+ERROR: -dtc [10, entropy, 5] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 20] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0880
+ERROR: -dtc [10, entropy, 20] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 1] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.0305
+ERROR: -dtc [3, gini, 1] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 5] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.0305
+ERROR: -dtc [3, gini, 5] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 20] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.0305
+ERROR: -dtc [3, gini, 20] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 1] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.0320
+ERROR: -dtc [3, entropy, 1] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 5] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.0320
+ERROR: -dtc [3, entropy, 5] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 20] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.0320
+ERROR: -dtc [3, entropy, 20] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 1] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.1486
+ERROR: -dtc [10, gini, 1] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 5] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.1486
+ERROR: -dtc [10, gini, 5] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 20] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.1487
+ERROR: -dtc [10, gini, 20] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 1] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.1388
+ERROR: -dtc [10, entropy, 1] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 5] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.1388
+ERROR: -dtc [10, entropy, 5] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 20] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.1388
+ERROR: -dtc [10, entropy, 20] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 1] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0349
+ERROR: -dtc [3, gini, 1] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 5] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0349
+ERROR: -dtc [3, gini, 5] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 20] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0349
+ERROR: -dtc [3, gini, 20] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 1] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0320
+ERROR: -dtc [3, entropy, 1] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 5] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0320
+ERROR: -dtc [3, entropy, 5] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 20] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0320
+ERROR: -dtc [3, entropy, 20] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 1] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.1308
+ERROR: -dtc [10, gini, 1] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 5] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.1308
+ERROR: -dtc [10, gini, 5] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 20] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.1306
+ERROR: -dtc [10, gini, 20] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 1] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.1260
+ERROR: -dtc [10, entropy, 1] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 5] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.1260
+ERROR: -dtc [10, entropy, 5] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 20] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.1261
+ERROR: -dtc [10, entropy, 20] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 1] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.0347
+ERROR: -dtc [3, gini, 1] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 5] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.0347
+ERROR: -dtc [3, gini, 5] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 20] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.0347
+ERROR: -dtc [3, gini, 20] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 1] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.0351
+ERROR: -dtc [3, entropy, 1] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 5] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.0351
+ERROR: -dtc [3, entropy, 5] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 20] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.0351
+ERROR: -dtc [3, entropy, 20] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 1] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.1471
+ERROR: -dtc [10, gini, 1] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 5] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.1472
+ERROR: -dtc [10, gini, 5] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 20] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.1472
+ERROR: -dtc [10, gini, 20] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 1] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.1464
+ERROR: -dtc [10, entropy, 1] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 5] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.1464
+ERROR: -dtc [10, entropy, 5] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 20] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.1464
+ERROR: -dtc [10, entropy, 20] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 1] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.0343
+ERROR: -dtc [3, gini, 1] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 5] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.0343
+ERROR: -dtc [3, gini, 5] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 20] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.0343
+ERROR: -dtc [3, gini, 20] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 1] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.0323
+ERROR: -dtc [3, entropy, 1] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 5] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.0323
+ERROR: -dtc [3, entropy, 5] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 20] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.0323
+ERROR: -dtc [3, entropy, 20] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 1] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.1495
+ERROR: -dtc [10, gini, 1] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 5] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.1495
+ERROR: -dtc [10, gini, 5] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 20] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.1496
+ERROR: -dtc [10, gini, 20] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 1] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.1497
+ERROR: -dtc [10, entropy, 1] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 5] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.1497
+ERROR: -dtc [10, entropy, 5] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 20] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.1496
+ERROR: -dtc [10, entropy, 20] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 1] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.0348
+ERROR: -dtc [3, gini, 1] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 5] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.0348
+ERROR: -dtc [3, gini, 5] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 20] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.0348
+ERROR: -dtc [3, gini, 20] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 1] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.0350
+ERROR: -dtc [3, entropy, 1] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 5] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.0350
+ERROR: -dtc [3, entropy, 5] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 20] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.0350
+ERROR: -dtc [3, entropy, 20] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 1] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.1578
+ERROR: -dtc [10, gini, 1] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 5] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.1579
+ERROR: -dtc [10, gini, 5] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 20] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.1579
+ERROR: -dtc [10, gini, 20] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 1] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.1581
+ERROR: -dtc [10, entropy, 1] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 5] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.1581
+ERROR: -dtc [10, entropy, 5] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 20] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.1580
+ERROR: -dtc [10, entropy, 20] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 1] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.0353
+ERROR: -dtc [3, gini, 1] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 5] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.0353
+ERROR: -dtc [3, gini, 5] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 20] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.0353
+ERROR: -dtc [3, gini, 20] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 1] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.0328
+ERROR: -dtc [3, entropy, 1] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 5] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.0328
+ERROR: -dtc [3, entropy, 5] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 20] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.0328
+ERROR: -dtc [3, entropy, 20] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 1] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.1557
+ERROR: -dtc [10, gini, 1] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 5] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.1557
+ERROR: -dtc [10, gini, 5] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 20] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.1557
+ERROR: -dtc [10, gini, 20] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 1] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.1514
+ERROR: -dtc [10, entropy, 1] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 5] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.1514
+ERROR: -dtc [10, entropy, 5] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 20] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.1513
+ERROR: -dtc [10, entropy, 20] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 1] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.0341
+ERROR: -dtc [3, gini, 1] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 5] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.0341
+ERROR: -dtc [3, gini, 5] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 20] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.0341
+ERROR: -dtc [3, gini, 20] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 1] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.0320
+ERROR: -dtc [3, entropy, 1] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 5] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.0320
+ERROR: -dtc [3, entropy, 5] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 20] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.0320
+ERROR: -dtc [3, entropy, 20] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 1] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.1517
+ERROR: -dtc [10, gini, 1] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 5] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.1517
+ERROR: -dtc [10, gini, 5] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 20] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.1517
+ERROR: -dtc [10, gini, 20] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 1] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.1461
+ERROR: -dtc [10, entropy, 1] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 5] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.1461
+ERROR: -dtc [10, entropy, 5] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 20] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.1461
+ERROR: -dtc [10, entropy, 20] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 1] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.0329
+ERROR: -dtc [3, gini, 1] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 5] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.0329
+ERROR: -dtc [3, gini, 5] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 20] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.0329
+ERROR: -dtc [3, gini, 20] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 1] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.0311
+ERROR: -dtc [3, entropy, 1] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 5] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.0311
+ERROR: -dtc [3, entropy, 5] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 20] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.0311
+ERROR: -dtc [3, entropy, 20] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 1] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.1513
+ERROR: -dtc [10, gini, 1] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 5] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.1513
+ERROR: -dtc [10, gini, 5] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 20] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.1513
+ERROR: -dtc [10, gini, 20] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 1] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.1470
+ERROR: -dtc [10, entropy, 1] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 5] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.1470
+ERROR: -dtc [10, entropy, 5] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 20] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.1470
+ERROR: -dtc [10, entropy, 20] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 1] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.0297
+ERROR: -dtc [3, gini, 1] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 5] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.0297
+ERROR: -dtc [3, gini, 5] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 20] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.0297
+ERROR: -dtc [3, gini, 20] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 1] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.0293
+ERROR: -dtc [3, entropy, 1] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 5] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.0293
+ERROR: -dtc [3, entropy, 5] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 20] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.0293
+ERROR: -dtc [3, entropy, 20] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 1] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.1376
+ERROR: -dtc [10, gini, 1] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 5] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.1376
+ERROR: -dtc [10, gini, 5] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 20] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.1377
+ERROR: -dtc [10, gini, 20] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 1] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.1376
+ERROR: -dtc [10, entropy, 1] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 5] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.1376
+ERROR: -dtc [10, entropy, 5] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 20] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.1375
+ERROR: -dtc [10, entropy, 20] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 1] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0260
+ERROR: -dtc [3, gini, 1] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 5] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0260
+ERROR: -dtc [3, gini, 5] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 20] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0260
+ERROR: -dtc [3, gini, 20] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 1] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0260
+ERROR: -dtc [3, entropy, 1] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 5] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0260
+ERROR: -dtc [3, entropy, 5] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 20] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0260
+ERROR: -dtc [3, entropy, 20] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 1] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0260
+ERROR: -dtc [10, gini, 1] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 5] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0260
+ERROR: -dtc [10, gini, 5] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 20] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0260
+ERROR: -dtc [10, gini, 20] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 1] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0261
+ERROR: -dtc [10, entropy, 1] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 5] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0261
+ERROR: -dtc [10, entropy, 5] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 20] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0262
+ERROR: -dtc [10, entropy, 20] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 1] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0354
+ERROR: -dtc [3, gini, 1] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 5] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0354
+ERROR: -dtc [3, gini, 5] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 20] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0354
+ERROR: -dtc [3, gini, 20] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 1] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0362
+ERROR: -dtc [3, entropy, 1] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 5] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0362
+ERROR: -dtc [3, entropy, 5] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 20] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0362
+ERROR: -dtc [3, entropy, 20] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 1] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.1066
+ERROR: -dtc [10, gini, 1] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 5] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.1066
+ERROR: -dtc [10, gini, 5] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 20] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.1068
+ERROR: -dtc [10, gini, 20] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 1] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.1056
+ERROR: -dtc [10, entropy, 1] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 5] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.1056
+ERROR: -dtc [10, entropy, 5] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 20] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.1057
+ERROR: -dtc [10, entropy, 20] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 1] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0308
+ERROR: -dtc [3, gini, 1] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 5] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0308
+ERROR: -dtc [3, gini, 5] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 20] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0308
+ERROR: -dtc [3, gini, 20] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 1] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0310
+ERROR: -dtc [3, entropy, 1] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 5] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0310
+ERROR: -dtc [3, entropy, 5] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 20] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0310
+ERROR: -dtc [3, entropy, 20] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 1] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0443
+ERROR: -dtc [10, gini, 1] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 5] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0443
+ERROR: -dtc [10, gini, 5] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 20] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0444
+ERROR: -dtc [10, gini, 20] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 1] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0432
+ERROR: -dtc [10, entropy, 1] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 5] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0432
+ERROR: -dtc [10, entropy, 5] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 20] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0432
+ERROR: -dtc [10, entropy, 20] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 1] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0310
+ERROR: -dtc [3, gini, 1] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 5] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0310
+ERROR: -dtc [3, gini, 5] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 20] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0310
+ERROR: -dtc [3, gini, 20] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 1] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0352
+ERROR: -dtc [3, entropy, 1] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 5] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0352
+ERROR: -dtc [3, entropy, 5] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 20] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0352
+ERROR: -dtc [3, entropy, 20] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 1] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0632
+ERROR: -dtc [10, gini, 1] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 5] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0631
+ERROR: -dtc [10, gini, 5] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 20] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0630
+ERROR: -dtc [10, gini, 20] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 1] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0619
+ERROR: -dtc [10, entropy, 1] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 5] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0619
+ERROR: -dtc [10, entropy, 5] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 20] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0619
+ERROR: -dtc [10, entropy, 20] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 1] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0346
+ERROR: -dtc [3, gini, 1] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 5] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0346
+ERROR: -dtc [3, gini, 5] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 20] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0346
+ERROR: -dtc [3, gini, 20] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 1] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0347
+ERROR: -dtc [3, entropy, 1] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 5] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0347
+ERROR: -dtc [3, entropy, 5] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 20] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0347
+ERROR: -dtc [3, entropy, 20] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 1] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0794
+ERROR: -dtc [10, gini, 1] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 5] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0794
+ERROR: -dtc [10, gini, 5] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 20] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0792
+ERROR: -dtc [10, gini, 20] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 1] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0786
+ERROR: -dtc [10, entropy, 1] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 5] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0786
+ERROR: -dtc [10, entropy, 5] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 20] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0785
+ERROR: -dtc [10, entropy, 20] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 1] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0369
+ERROR: -dtc [3, gini, 1] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 5] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0369
+ERROR: -dtc [3, gini, 5] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 20] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0369
+ERROR: -dtc [3, gini, 20] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 1] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0385
+ERROR: -dtc [3, entropy, 1] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 5] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0385
+ERROR: -dtc [3, entropy, 5] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 20] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0385
+ERROR: -dtc [3, entropy, 20] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 1] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0942
+ERROR: -dtc [10, gini, 1] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 5] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0942
+ERROR: -dtc [10, gini, 5] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 20] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0943
+ERROR: -dtc [10, gini, 20] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 1] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0918
+ERROR: -dtc [10, entropy, 1] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 5] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0918
+ERROR: -dtc [10, entropy, 5] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 20] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0917
+ERROR: -dtc [10, entropy, 20] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 1] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0373
+ERROR: -dtc [3, gini, 1] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 5] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0373
+ERROR: -dtc [3, gini, 5] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 20] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0373
+ERROR: -dtc [3, gini, 20] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 1] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0386
+ERROR: -dtc [3, entropy, 1] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 5] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0386
+ERROR: -dtc [3, entropy, 5] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 20] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0386
+ERROR: -dtc [3, entropy, 20] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 1] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.1038
+ERROR: -dtc [10, gini, 1] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 5] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.1037
+ERROR: -dtc [10, gini, 5] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 20] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.1038
+ERROR: -dtc [10, gini, 20] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 1] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.1030
+ERROR: -dtc [10, entropy, 1] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 5] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.1030
+ERROR: -dtc [10, entropy, 5] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 20] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.1029
+ERROR: -dtc [10, entropy, 20] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 1] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0365
+ERROR: -dtc [3, gini, 1] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 5] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0365
+ERROR: -dtc [3, gini, 5] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 20] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0365
+ERROR: -dtc [3, gini, 20] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 1] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0355
+ERROR: -dtc [3, entropy, 1] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 5] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0355
+ERROR: -dtc [3, entropy, 5] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 20] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0355
+ERROR: -dtc [3, entropy, 20] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 1] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.1109
+ERROR: -dtc [10, gini, 1] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 5] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.1108
+ERROR: -dtc [10, gini, 5] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 20] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.1109
+ERROR: -dtc [10, gini, 20] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 1] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.1079
+ERROR: -dtc [10, entropy, 1] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 5] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.1079
+ERROR: -dtc [10, entropy, 5] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 20] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.1078
+ERROR: -dtc [10, entropy, 20] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 1] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0356
+ERROR: -dtc [3, gini, 1] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 5] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0356
+ERROR: -dtc [3, gini, 5] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 20] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0356
+ERROR: -dtc [3, gini, 20] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 1] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0372
+ERROR: -dtc [3, entropy, 1] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 5] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0372
+ERROR: -dtc [3, entropy, 5] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 20] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0372
+ERROR: -dtc [3, entropy, 20] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 1] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.1089
+ERROR: -dtc [10, gini, 1] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 5] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.1088
+ERROR: -dtc [10, gini, 5] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 20] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.1090
+ERROR: -dtc [10, gini, 20] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 1] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.1082
+ERROR: -dtc [10, entropy, 1] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 5] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.1082
+ERROR: -dtc [10, entropy, 5] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 20] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.1082
+ERROR: -dtc [10, entropy, 20] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 1] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0358
+ERROR: -dtc [3, gini, 1] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 5] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0358
+ERROR: -dtc [3, gini, 5] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 20] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0358
+ERROR: -dtc [3, gini, 20] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 1] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0354
+ERROR: -dtc [3, entropy, 1] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 5] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0354
+ERROR: -dtc [3, entropy, 5] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 20] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0354
+ERROR: -dtc [3, entropy, 20] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 1] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.1069
+ERROR: -dtc [10, gini, 1] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 5] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.1069
+ERROR: -dtc [10, gini, 5] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 20] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.1071
+ERROR: -dtc [10, gini, 20] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 1] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.1068
+ERROR: -dtc [10, entropy, 1] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 5] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.1068
+ERROR: -dtc [10, entropy, 5] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 20] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.1068
+ERROR: -dtc [10, entropy, 20] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 1] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0277
+ERROR: -dtc [3, gini, 1] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 5] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0277
+ERROR: -dtc [3, gini, 5] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 20] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0277
+ERROR: -dtc [3, gini, 20] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 1] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0305
+ERROR: -dtc [3, entropy, 1] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 5] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0305
+ERROR: -dtc [3, entropy, 5] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 20] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0305
+ERROR: -dtc [3, entropy, 20] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 1] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0391
+ERROR: -dtc [10, gini, 1] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 5] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0391
+ERROR: -dtc [10, gini, 5] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 20] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0392
+ERROR: -dtc [10, gini, 20] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 1] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0379
+ERROR: -dtc [10, entropy, 1] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 5] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0379
+ERROR: -dtc [10, entropy, 5] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 20] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0379
+ERROR: -dtc [10, entropy, 20] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 1] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0384
+ERROR: -dtc [3, gini, 1] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 5] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0384
+ERROR: -dtc [3, gini, 5] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 20] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0384
+ERROR: -dtc [3, gini, 20] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 1] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0372
+ERROR: -dtc [3, entropy, 1] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 5] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0372
+ERROR: -dtc [3, entropy, 5] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 20] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0372
+ERROR: -dtc [3, entropy, 20] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 1] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.1272
+ERROR: -dtc [10, gini, 1] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 5] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.1272
+ERROR: -dtc [10, gini, 5] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 20] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.1274
+ERROR: -dtc [10, gini, 20] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 1] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.1237
+ERROR: -dtc [10, entropy, 1] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 5] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.1237
+ERROR: -dtc [10, entropy, 5] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 20] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.1237
+ERROR: -dtc [10, entropy, 20] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 1] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0311
+ERROR: -dtc [3, gini, 1] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 5] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0311
+ERROR: -dtc [3, gini, 5] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 20] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0311
+ERROR: -dtc [3, gini, 20] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 1] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0313
+ERROR: -dtc [3, entropy, 1] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 5] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0313
+ERROR: -dtc [3, entropy, 5] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 20] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0313
+ERROR: -dtc [3, entropy, 20] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 1] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0729
+ERROR: -dtc [10, gini, 1] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 5] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0729
+ERROR: -dtc [10, gini, 5] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 20] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0729
+ERROR: -dtc [10, gini, 20] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 1] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0731
+ERROR: -dtc [10, entropy, 1] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 5] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0731
+ERROR: -dtc [10, entropy, 5] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 20] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0731
+ERROR: -dtc [10, entropy, 20] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 1] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0367
+ERROR: -dtc [3, gini, 1] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 5] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0367
+ERROR: -dtc [3, gini, 5] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 20] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0367
+ERROR: -dtc [3, gini, 20] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 1] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0336
+ERROR: -dtc [3, entropy, 1] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 5] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0336
+ERROR: -dtc [3, entropy, 5] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 20] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0336
+ERROR: -dtc [3, entropy, 20] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 1] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0937
+ERROR: -dtc [10, gini, 1] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 5] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0935
+ERROR: -dtc [10, gini, 5] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 20] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0935
+ERROR: -dtc [10, gini, 20] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 1] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0922
+ERROR: -dtc [10, entropy, 1] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 5] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0922
+ERROR: -dtc [10, entropy, 5] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 20] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0922
+ERROR: -dtc [10, entropy, 20] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 1] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0355
+ERROR: -dtc [3, gini, 1] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 5] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0355
+ERROR: -dtc [3, gini, 5] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 20] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0355
+ERROR: -dtc [3, gini, 20] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 1] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0348
+ERROR: -dtc [3, entropy, 1] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 5] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0348
+ERROR: -dtc [3, entropy, 5] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 20] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0348
+ERROR: -dtc [3, entropy, 20] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 1] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.1085
+ERROR: -dtc [10, gini, 1] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 5] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.1084
+ERROR: -dtc [10, gini, 5] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 20] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.1085
+ERROR: -dtc [10, gini, 20] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 1] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.1077
+ERROR: -dtc [10, entropy, 1] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 5] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.1077
+ERROR: -dtc [10, entropy, 5] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 20] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.1076
+ERROR: -dtc [10, entropy, 20] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 1] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0381
+ERROR: -dtc [3, gini, 1] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 5] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0381
+ERROR: -dtc [3, gini, 5] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 20] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0381
+ERROR: -dtc [3, gini, 20] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 1] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0381
+ERROR: -dtc [3, entropy, 1] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 5] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0381
+ERROR: -dtc [3, entropy, 5] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 20] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0381
+ERROR: -dtc [3, entropy, 20] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 1] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.1201
+ERROR: -dtc [10, gini, 1] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 5] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.1200
+ERROR: -dtc [10, gini, 5] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 20] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.1197
+ERROR: -dtc [10, gini, 20] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 1] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.1186
+ERROR: -dtc [10, entropy, 1] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 5] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.1186
+ERROR: -dtc [10, entropy, 5] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 20] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.1186
+ERROR: -dtc [10, entropy, 20] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 1] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0373
+ERROR: -dtc [3, gini, 1] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 5] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0373
+ERROR: -dtc [3, gini, 5] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 20] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0373
+ERROR: -dtc [3, gini, 20] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 1] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0365
+ERROR: -dtc [3, entropy, 1] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 5] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0365
+ERROR: -dtc [3, entropy, 5] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 20] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0365
+ERROR: -dtc [3, entropy, 20] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 1] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.1281
+ERROR: -dtc [10, gini, 1] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 5] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.1281
+ERROR: -dtc [10, gini, 5] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 20] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.1281
+ERROR: -dtc [10, gini, 20] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 1] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.1271
+ERROR: -dtc [10, entropy, 1] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 5] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.1271
+ERROR: -dtc [10, entropy, 5] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 20] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.1271
+ERROR: -dtc [10, entropy, 20] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 1] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0369
+ERROR: -dtc [3, gini, 1] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 5] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0369
+ERROR: -dtc [3, gini, 5] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 20] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0369
+ERROR: -dtc [3, gini, 20] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 1] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0362
+ERROR: -dtc [3, entropy, 1] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 5] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0362
+ERROR: -dtc [3, entropy, 5] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 20] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0362
+ERROR: -dtc [3, entropy, 20] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 1] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.1292
+ERROR: -dtc [10, gini, 1] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 5] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.1292
+ERROR: -dtc [10, gini, 5] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 20] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.1294
+ERROR: -dtc [10, gini, 20] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 1] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.1268
+ERROR: -dtc [10, entropy, 1] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 5] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.1268
+ERROR: -dtc [10, entropy, 5] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 20] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.1268
+ERROR: -dtc [10, entropy, 20] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 1] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0383
+ERROR: -dtc [3, gini, 1] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 5] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0383
+ERROR: -dtc [3, gini, 5] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 20] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0383
+ERROR: -dtc [3, gini, 20] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 1] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0372
+ERROR: -dtc [3, entropy, 1] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 5] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0372
+ERROR: -dtc [3, entropy, 5] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 20] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0372
+ERROR: -dtc [3, entropy, 20] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 1] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.1306
+ERROR: -dtc [10, gini, 1] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 5] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.1306
+ERROR: -dtc [10, gini, 5] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 20] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.1304
+ERROR: -dtc [10, gini, 20] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 1] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.1274
+ERROR: -dtc [10, entropy, 1] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 5] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.1274
+ERROR: -dtc [10, entropy, 5] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 20] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.1274
+ERROR: -dtc [10, entropy, 20] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 1] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0358
+ERROR: -dtc [3, gini, 1] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 5] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0358
+ERROR: -dtc [3, gini, 5] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 20] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0358
+ERROR: -dtc [3, gini, 20] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 1] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0354
+ERROR: -dtc [3, entropy, 1] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 5] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0354
+ERROR: -dtc [3, entropy, 5] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 20] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0354
+ERROR: -dtc [3, entropy, 20] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 1] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.1282
+ERROR: -dtc [10, gini, 1] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 5] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.1282
+ERROR: -dtc [10, gini, 5] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 20] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.1285
+ERROR: -dtc [10, gini, 20] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 1] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.1270
+ERROR: -dtc [10, entropy, 1] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 5] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.1270
+ERROR: -dtc [10, entropy, 5] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 20] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.1270
+ERROR: -dtc [10, entropy, 20] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 1] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0261
+ERROR: -dtc [3, gini, 1] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 5] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0261
+ERROR: -dtc [3, gini, 5] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 20] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0261
+ERROR: -dtc [3, gini, 20] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 1] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0284
+ERROR: -dtc [3, entropy, 1] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 5] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0284
+ERROR: -dtc [3, entropy, 5] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 20] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0284
+ERROR: -dtc [3, entropy, 20] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 1] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0470
+ERROR: -dtc [10, gini, 1] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 5] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0470
+ERROR: -dtc [10, gini, 5] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 20] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0471
+ERROR: -dtc [10, gini, 20] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 1] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0462
+ERROR: -dtc [10, entropy, 1] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 5] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0462
+ERROR: -dtc [10, entropy, 5] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 20] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0462
+ERROR: -dtc [10, entropy, 20] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 1] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.0336
+ERROR: -dtc [3, gini, 1] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 5] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.0336
+ERROR: -dtc [3, gini, 5] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 20] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.0336
+ERROR: -dtc [3, gini, 20] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 1] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.0336
+ERROR: -dtc [3, entropy, 1] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 5] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.0336
+ERROR: -dtc [3, entropy, 5] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 20] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.0336
+ERROR: -dtc [3, entropy, 20] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 1] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.1214
+ERROR: -dtc [10, gini, 1] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 5] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.1214
+ERROR: -dtc [10, gini, 5] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 20] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.1216
+ERROR: -dtc [10, gini, 20] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 1] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.1207
+ERROR: -dtc [10, entropy, 1] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 5] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.1207
+ERROR: -dtc [10, entropy, 5] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 20] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.1208
+ERROR: -dtc [10, entropy, 20] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 1] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0342
+ERROR: -dtc [3, gini, 1] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 5] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0342
+ERROR: -dtc [3, gini, 5] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 20] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0342
+ERROR: -dtc [3, gini, 20] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 1] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0335
+ERROR: -dtc [3, entropy, 1] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 5] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0335
+ERROR: -dtc [3, entropy, 5] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 20] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0335
+ERROR: -dtc [3, entropy, 20] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 1] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0810
+ERROR: -dtc [10, gini, 1] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 5] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0810
+ERROR: -dtc [10, gini, 5] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 20] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0810
+ERROR: -dtc [10, gini, 20] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 1] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0833
+ERROR: -dtc [10, entropy, 1] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 5] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0833
+ERROR: -dtc [10, entropy, 5] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 20] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0833
+ERROR: -dtc [10, entropy, 20] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 1] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0347
+ERROR: -dtc [3, gini, 1] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 5] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0347
+ERROR: -dtc [3, gini, 5] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 20] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0347
+ERROR: -dtc [3, gini, 20] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 1] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0347
+ERROR: -dtc [3, entropy, 1] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 5] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0347
+ERROR: -dtc [3, entropy, 5] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 20] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0347
+ERROR: -dtc [3, entropy, 20] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 1] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.1069
+ERROR: -dtc [10, gini, 1] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 5] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.1069
+ERROR: -dtc [10, gini, 5] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 20] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.1071
+ERROR: -dtc [10, gini, 20] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 1] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.1053
+ERROR: -dtc [10, entropy, 1] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 5] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.1053
+ERROR: -dtc [10, entropy, 5] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 20] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.1053
+ERROR: -dtc [10, entropy, 20] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 1] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0335
+ERROR: -dtc [3, gini, 1] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 5] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0335
+ERROR: -dtc [3, gini, 5] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 20] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0335
+ERROR: -dtc [3, gini, 20] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 1] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0333
+ERROR: -dtc [3, entropy, 1] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 5] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0333
+ERROR: -dtc [3, entropy, 5] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 20] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0333
+ERROR: -dtc [3, entropy, 20] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 1] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.1177
+ERROR: -dtc [10, gini, 1] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 5] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.1177
+ERROR: -dtc [10, gini, 5] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 20] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.1178
+ERROR: -dtc [10, gini, 20] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 1] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.1150
+ERROR: -dtc [10, entropy, 1] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 5] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.1150
+ERROR: -dtc [10, entropy, 5] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 20] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.1150
+ERROR: -dtc [10, entropy, 20] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 1] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0373
+ERROR: -dtc [3, gini, 1] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 5] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0373
+ERROR: -dtc [3, gini, 5] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 20] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0373
+ERROR: -dtc [3, gini, 20] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 1] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0364
+ERROR: -dtc [3, entropy, 1] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 5] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0364
+ERROR: -dtc [3, entropy, 5] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 20] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0364
+ERROR: -dtc [3, entropy, 20] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 1] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.1265
+ERROR: -dtc [10, gini, 1] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 5] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.1265
+ERROR: -dtc [10, gini, 5] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 20] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.1264
+ERROR: -dtc [10, gini, 20] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 1] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.1222
+ERROR: -dtc [10, entropy, 1] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 5] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.1222
+ERROR: -dtc [10, entropy, 5] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 20] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.1221
+ERROR: -dtc [10, entropy, 20] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 1] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.0358
+ERROR: -dtc [3, gini, 1] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 5] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.0358
+ERROR: -dtc [3, gini, 5] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 20] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.0358
+ERROR: -dtc [3, gini, 20] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 1] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.0348
+ERROR: -dtc [3, entropy, 1] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 5] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.0348
+ERROR: -dtc [3, entropy, 5] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 20] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.0348
+ERROR: -dtc [3, entropy, 20] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 1] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.1269
+ERROR: -dtc [10, gini, 1] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 5] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.1269
+ERROR: -dtc [10, gini, 5] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 20] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.1266
+ERROR: -dtc [10, gini, 20] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 1] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.1242
+ERROR: -dtc [10, entropy, 1] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 5] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.1242
+ERROR: -dtc [10, entropy, 5] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 20] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.1241
+ERROR: -dtc [10, entropy, 20] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 1] on data_set/characteristics_3_7.csv ---
+Accuracy: 0.0351
+ERROR: -dtc [3, gini, 1] on data_set/characteristics_3_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 5] on data_set/characteristics_3_7.csv ---
+Accuracy: 0.0351
+ERROR: -dtc [3, gini, 5] on data_set/characteristics_3_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, gini, 20] on data_set/characteristics_3_7.csv ---
+Accuracy: 0.0351
+ERROR: -dtc [3, gini, 20] on data_set/characteristics_3_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 1] on data_set/characteristics_3_7.csv ---
+Accuracy: 0.0346
+ERROR: -dtc [3, entropy, 1] on data_set/characteristics_3_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 5] on data_set/characteristics_3_7.csv ---
+Accuracy: 0.0346
+ERROR: -dtc [3, entropy, 5] on data_set/characteristics_3_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [3, entropy, 20] on data_set/characteristics_3_7.csv ---
+Accuracy: 0.0346
+ERROR: -dtc [3, entropy, 20] on data_set/characteristics_3_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 1] on data_set/characteristics_3_7.csv ---
+Accuracy: 0.1285
+ERROR: -dtc [10, gini, 1] on data_set/characteristics_3_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 5] on data_set/characteristics_3_7.csv ---
+Accuracy: 0.1285
+ERROR: -dtc [10, gini, 5] on data_set/characteristics_3_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, gini, 20] on data_set/characteristics_3_7.csv ---
+Accuracy: 0.1284
+ERROR: -dtc [10, gini, 20] on data_set/characteristics_3_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 1] on data_set/characteristics_3_7.csv ---
+Accuracy: 0.1270
+ERROR: -dtc [10, entropy, 1] on data_set/characteristics_3_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 5] on data_set/characteristics_3_7.csv ---
+Accuracy: 0.1270
+ERROR: -dtc [10, entropy, 5] on data_set/characteristics_3_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -dtc with [10, entropy, 20] on data_set/characteristics_3_7.csv ---
+Accuracy: 0.1269
+ERROR: -dtc [10, entropy, 20] on data_set/characteristics_3_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------

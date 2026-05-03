@@ -1,0 +1,900 @@
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0093
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0124
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0201
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0207
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0107
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0141
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0201
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0207
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0124
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0121
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0201
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0207
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0100
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0098
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0273
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0293
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0151
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0133
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0273
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0293
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0118
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0112
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0273
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0293
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0081
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0108
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0311
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0329
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0138
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0148
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0311
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0329
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0145
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0116
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0311
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0329
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0138
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0098
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0383
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0376
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0133
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0133
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0383
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0376
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0143
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0096
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0383
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0376
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0131
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0140
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0409
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0421
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0154
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0139
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0409
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0421
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0137
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0143
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0409
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0421
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0143
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0161
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0247
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0248
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0125
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0126
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0247
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0248
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0100
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0120
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0247
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0248
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0161
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0182
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0411
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0397
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0092
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0114
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0411
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0397
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0144
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0134
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0411
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0397
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0199
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0172
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0534
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0540
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0177
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0204
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0534
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0540
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0188
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0193
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0534
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0540
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0200
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0257
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0632
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0590
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0236
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0209
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0632
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0590
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0218
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0230
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0632
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0590
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0302
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0224
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0696
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0697
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0266
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0224
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0696
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0697
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0270
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0223
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0696
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0697
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0105
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0090
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0264
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0263
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0102
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0106
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0264
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0263
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0131
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0142
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0264
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0263
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0199
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0208
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0443
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0432
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0157
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0178
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0443
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0432
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0170
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0204
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0443
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0432
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0291
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0231
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0624
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0564
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0257
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0221
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0624
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0564
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0256
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0313
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0624
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0564
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0290
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0274
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0728
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0672
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0295
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0291
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0728
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0672
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0376
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0329
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0728
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0672
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.0365
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.0350
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.0783
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.0764
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.0366
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.0311
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.0783
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.0763
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.0406
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.0338
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.0783
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.0763
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0178
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0117
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0295
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0301
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0162
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0088
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0295
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0301
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0115
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0123
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0295
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0301
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0186
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0196
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0526
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0527
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0190
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0208
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0526
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0527
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0201
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0221
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0526
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0527
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0300
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0277
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0685
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0655
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0307
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0305
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0685
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0655
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0244
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0273
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0685
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0655
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.0331
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.0416
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.0773
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.0765
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.0347
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.0406
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.0773
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.0765
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.0294
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.0379
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.0773
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.0765
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.0350
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.0405
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.0836
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.0875
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.0410
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.0375
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.0836
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.0875
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.0394
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.0396
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.0836
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.0875
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0137
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0131
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0330
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0325
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0137
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0131
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0330
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0325
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0205
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0154
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0330
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0325
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0268
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0241
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0617
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0582
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0288
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0248
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0617
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0582
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0254
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0269
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0617
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0582
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.0387
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.0396
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.0819
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.0799
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.0358
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.0316
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.0819
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.0799
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.0341
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.0364
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.0819
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.0799
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.0462
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.0503
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.0934
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.0946
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.0471
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.0425
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.0934
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.0946
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.0462
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.0441
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.0934
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.0946
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-4] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.0515
+--------------------------------------------------
+--- Running -lsvc with [0.1, hinge, 1e-3] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.0549
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-4] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.0992
+--------------------------------------------------
+--- Running -lsvc with [0.1, squared_hinge, 1e-3] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.1078
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-4] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.0607
+--------------------------------------------------
+--- Running -lsvc with [1.0, hinge, 1e-3] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.0474
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-4] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.0992
+--------------------------------------------------
+--- Running -lsvc with [1.0, squared_hinge, 1e-3] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.1078
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-4] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.0545
+--------------------------------------------------
+--- Running -lsvc with [10.0, hinge, 1e-3] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.0623
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-4] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.0992
+--------------------------------------------------
+--- Running -lsvc with [10.0, squared_hinge, 1e-3] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.1078
+--------------------------------------------------

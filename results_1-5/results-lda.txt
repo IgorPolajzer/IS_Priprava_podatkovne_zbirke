@@ -1,0 +1,450 @@
+--- Running -lda with [svd, 1e-4, 0] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0199
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0199
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0199
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0199
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0199
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0199
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0298
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0298
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0298
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0298
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0298
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0298
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0365
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0365
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0365
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0365
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0365
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0365
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0439
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0439
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0439
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0439
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0439
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0439
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0497
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0497
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0497
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0497
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0497
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0497
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0251
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0251
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0251
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0251
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0251
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0251
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0465
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0465
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0465
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0465
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0465
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0465
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0632
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0632
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0632
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0632
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0632
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0632
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0765
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0765
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0765
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0765
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0765
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0765
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0844
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0844
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0844
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0844
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0844
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0844
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0255
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0255
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0255
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0255
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0255
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0255
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0482
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0482
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0482
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0482
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0482
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0482
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0702
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0702
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0702
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0702
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0702
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0702
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0827
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0827
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0827
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0827
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0827
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0827
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.0931
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.0931
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.0931
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.0931
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.0931
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.0931
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0304
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0304
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0304
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0304
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0304
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0304
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0586
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0586
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0586
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0586
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0586
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0586
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0794
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0794
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0794
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0794
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0794
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0794
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.0953
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.0953
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.0953
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.0953
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.0953
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.0953
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.1034
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.1034
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.1034
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.1034
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.1034
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.1034
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0346
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0346
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0346
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0346
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0346
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0346
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0690
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0690
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0690
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0690
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0690
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0690
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.0955
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.0955
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.0955
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.0955
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.0955
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.0955
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.1104
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.1104
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.1104
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.1104
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.1104
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.1104
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.1216
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.1216
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.1216
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.1216
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.1216
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.1216
+--------------------------------------------------

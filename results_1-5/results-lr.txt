@@ -1,0 +1,900 @@
+--- Running -lr with [0.01, l2, lbfgs] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0204
+--------------------------------------------------
+--- Running -lr with [0.01, l2, saga] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0204
+--------------------------------------------------
+--- Running -lr with [0.01, None, lbfgs] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0204
+--------------------------------------------------
+--- Running -lr with [0.01, None, saga] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0204
+--------------------------------------------------
+--- Running -lr with [1.0, l2, lbfgs] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0204
+--------------------------------------------------
+--- Running -lr with [1.0, l2, saga] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0204
+--------------------------------------------------
+--- Running -lr with [1.0, None, lbfgs] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0204
+--------------------------------------------------
+--- Running -lr with [1.0, None, saga] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0204
+--------------------------------------------------
+--- Running -lr with [100.0, l2, lbfgs] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0204
+--------------------------------------------------
+--- Running -lr with [100.0, l2, saga] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0204
+--------------------------------------------------
+--- Running -lr with [100.0, None, lbfgs] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0204
+--------------------------------------------------
+--- Running -lr with [100.0, None, saga] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0204
+--------------------------------------------------
+--- Running -lr with [0.01, l2, lbfgs] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0309
+--------------------------------------------------
+--- Running -lr with [0.01, l2, saga] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0309
+--------------------------------------------------
+--- Running -lr with [0.01, None, lbfgs] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0310
+--------------------------------------------------
+--- Running -lr with [0.01, None, saga] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0310
+--------------------------------------------------
+--- Running -lr with [1.0, l2, lbfgs] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0310
+--------------------------------------------------
+--- Running -lr with [1.0, l2, saga] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0310
+--------------------------------------------------
+--- Running -lr with [1.0, None, lbfgs] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0310
+--------------------------------------------------
+--- Running -lr with [1.0, None, saga] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0310
+--------------------------------------------------
+--- Running -lr with [100.0, l2, lbfgs] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0310
+--------------------------------------------------
+--- Running -lr with [100.0, l2, saga] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0310
+--------------------------------------------------
+--- Running -lr with [100.0, None, lbfgs] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0310
+--------------------------------------------------
+--- Running -lr with [100.0, None, saga] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0310
+--------------------------------------------------
+--- Running -lr with [0.01, l2, lbfgs] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0375
+--------------------------------------------------
+--- Running -lr with [0.01, l2, saga] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0375
+--------------------------------------------------
+--- Running -lr with [0.01, None, lbfgs] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0376
+--------------------------------------------------
+--- Running -lr with [0.01, None, saga] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0376
+--------------------------------------------------
+--- Running -lr with [1.0, l2, lbfgs] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0376
+--------------------------------------------------
+--- Running -lr with [1.0, l2, saga] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0376
+--------------------------------------------------
+--- Running -lr with [1.0, None, lbfgs] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0376
+--------------------------------------------------
+--- Running -lr with [1.0, None, saga] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0376
+--------------------------------------------------
+--- Running -lr with [100.0, l2, lbfgs] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0376
+--------------------------------------------------
+--- Running -lr with [100.0, l2, saga] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0376
+--------------------------------------------------
+--- Running -lr with [100.0, None, lbfgs] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0376
+--------------------------------------------------
+--- Running -lr with [100.0, None, saga] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0376
+--------------------------------------------------
+--- Running -lr with [0.01, l2, lbfgs] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0460
+--------------------------------------------------
+--- Running -lr with [0.01, l2, saga] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0460
+--------------------------------------------------
+--- Running -lr with [0.01, None, lbfgs] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0463
+--------------------------------------------------
+--- Running -lr with [0.01, None, saga] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0463
+--------------------------------------------------
+--- Running -lr with [1.0, l2, lbfgs] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0463
+--------------------------------------------------
+--- Running -lr with [1.0, l2, saga] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0463
+--------------------------------------------------
+--- Running -lr with [1.0, None, lbfgs] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0463
+--------------------------------------------------
+--- Running -lr with [1.0, None, saga] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0463
+--------------------------------------------------
+--- Running -lr with [100.0, l2, lbfgs] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0463
+--------------------------------------------------
+--- Running -lr with [100.0, l2, saga] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0463
+--------------------------------------------------
+--- Running -lr with [100.0, None, lbfgs] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0463
+--------------------------------------------------
+--- Running -lr with [100.0, None, saga] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0463
+--------------------------------------------------
+--- Running -lr with [0.01, l2, lbfgs] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0511
+--------------------------------------------------
+--- Running -lr with [0.01, l2, saga] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0511
+--------------------------------------------------
+--- Running -lr with [0.01, None, lbfgs] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0517
+--------------------------------------------------
+--- Running -lr with [0.01, None, saga] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0517
+--------------------------------------------------
+--- Running -lr with [1.0, l2, lbfgs] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0517
+--------------------------------------------------
+--- Running -lr with [1.0, l2, saga] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0517
+--------------------------------------------------
+--- Running -lr with [1.0, None, lbfgs] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0517
+--------------------------------------------------
+--- Running -lr with [1.0, None, saga] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0517
+--------------------------------------------------
+--- Running -lr with [100.0, l2, lbfgs] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0517
+--------------------------------------------------
+--- Running -lr with [100.0, l2, saga] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0517
+--------------------------------------------------
+--- Running -lr with [100.0, None, lbfgs] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0517
+--------------------------------------------------
+--- Running -lr with [100.0, None, saga] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0517
+--------------------------------------------------
+--- Running -lr with [0.01, l2, lbfgs] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0255
+--------------------------------------------------
+--- Running -lr with [0.01, l2, saga] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0255
+--------------------------------------------------
+--- Running -lr with [0.01, None, lbfgs] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0255
+--------------------------------------------------
+--- Running -lr with [0.01, None, saga] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0255
+--------------------------------------------------
+--- Running -lr with [1.0, l2, lbfgs] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0255
+--------------------------------------------------
+--- Running -lr with [1.0, l2, saga] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0255
+--------------------------------------------------
+--- Running -lr with [1.0, None, lbfgs] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0255
+--------------------------------------------------
+--- Running -lr with [1.0, None, saga] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0255
+--------------------------------------------------
+--- Running -lr with [100.0, l2, lbfgs] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0255
+--------------------------------------------------
+--- Running -lr with [100.0, l2, saga] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0255
+--------------------------------------------------
+--- Running -lr with [100.0, None, lbfgs] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0255
+--------------------------------------------------
+--- Running -lr with [100.0, None, saga] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0255
+--------------------------------------------------
+--- Running -lr with [0.01, l2, lbfgs] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0468
+--------------------------------------------------
+--- Running -lr with [0.01, l2, saga] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0468
+--------------------------------------------------
+--- Running -lr with [0.01, None, lbfgs] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0470
+--------------------------------------------------
+--- Running -lr with [0.01, None, saga] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0470
+--------------------------------------------------
+--- Running -lr with [1.0, l2, lbfgs] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0470
+--------------------------------------------------
+--- Running -lr with [1.0, l2, saga] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0470
+--------------------------------------------------
+--- Running -lr with [1.0, None, lbfgs] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0470
+--------------------------------------------------
+--- Running -lr with [1.0, None, saga] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0470
+--------------------------------------------------
+--- Running -lr with [100.0, l2, lbfgs] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0470
+--------------------------------------------------
+--- Running -lr with [100.0, l2, saga] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0470
+--------------------------------------------------
+--- Running -lr with [100.0, None, lbfgs] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0470
+--------------------------------------------------
+--- Running -lr with [100.0, None, saga] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0470
+--------------------------------------------------
+--- Running -lr with [0.01, l2, lbfgs] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0647
+--------------------------------------------------
+--- Running -lr with [0.01, l2, saga] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0647
+--------------------------------------------------
+--- Running -lr with [0.01, None, lbfgs] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0650
+--------------------------------------------------
+--- Running -lr with [0.01, None, saga] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0650
+--------------------------------------------------
+--- Running -lr with [1.0, l2, lbfgs] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0650
+--------------------------------------------------
+--- Running -lr with [1.0, l2, saga] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0650
+--------------------------------------------------
+--- Running -lr with [1.0, None, lbfgs] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0650
+--------------------------------------------------
+--- Running -lr with [1.0, None, saga] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0650
+--------------------------------------------------
+--- Running -lr with [100.0, l2, lbfgs] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0650
+--------------------------------------------------
+--- Running -lr with [100.0, l2, saga] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0650
+--------------------------------------------------
+--- Running -lr with [100.0, None, lbfgs] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0650
+--------------------------------------------------
+--- Running -lr with [100.0, None, saga] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0650
+--------------------------------------------------
+--- Running -lr with [0.01, l2, lbfgs] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0805
+--------------------------------------------------
+--- Running -lr with [0.01, l2, saga] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0805
+--------------------------------------------------
+--- Running -lr with [0.01, None, lbfgs] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0811
+--------------------------------------------------
+--- Running -lr with [0.01, None, saga] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0811
+--------------------------------------------------
+--- Running -lr with [1.0, l2, lbfgs] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0811
+--------------------------------------------------
+--- Running -lr with [1.0, l2, saga] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0811
+--------------------------------------------------
+--- Running -lr with [1.0, None, lbfgs] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0811
+--------------------------------------------------
+--- Running -lr with [1.0, None, saga] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0811
+--------------------------------------------------
+--- Running -lr with [100.0, l2, lbfgs] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0811
+--------------------------------------------------
+--- Running -lr with [100.0, l2, saga] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0811
+--------------------------------------------------
+--- Running -lr with [100.0, None, lbfgs] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0811
+--------------------------------------------------
+--- Running -lr with [100.0, None, saga] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0811
+--------------------------------------------------
+--- Running -lr with [0.01, l2, lbfgs] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0894
+--------------------------------------------------
+--- Running -lr with [0.01, l2, saga] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0894
+--------------------------------------------------
+--- Running -lr with [0.01, None, lbfgs] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0892
+--------------------------------------------------
+--- Running -lr with [0.01, None, saga] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0892
+--------------------------------------------------
+--- Running -lr with [1.0, l2, lbfgs] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0892
+--------------------------------------------------
+--- Running -lr with [1.0, l2, saga] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0892
+--------------------------------------------------
+--- Running -lr with [1.0, None, lbfgs] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0892
+--------------------------------------------------
+--- Running -lr with [1.0, None, saga] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0892
+--------------------------------------------------
+--- Running -lr with [100.0, l2, lbfgs] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0892
+--------------------------------------------------
+--- Running -lr with [100.0, l2, saga] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0892
+--------------------------------------------------
+--- Running -lr with [100.0, None, lbfgs] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0892
+--------------------------------------------------
+--- Running -lr with [100.0, None, saga] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0892
+--------------------------------------------------
+--- Running -lr with [0.01, l2, lbfgs] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0258
+--------------------------------------------------
+--- Running -lr with [0.01, l2, saga] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0258
+--------------------------------------------------
+--- Running -lr with [0.01, None, lbfgs] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0259
+--------------------------------------------------
+--- Running -lr with [0.01, None, saga] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0259
+--------------------------------------------------
+--- Running -lr with [1.0, l2, lbfgs] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0259
+--------------------------------------------------
+--- Running -lr with [1.0, l2, saga] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0259
+--------------------------------------------------
+--- Running -lr with [1.0, None, lbfgs] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0259
+--------------------------------------------------
+--- Running -lr with [1.0, None, saga] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0259
+--------------------------------------------------
+--- Running -lr with [100.0, l2, lbfgs] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0259
+--------------------------------------------------
+--- Running -lr with [100.0, l2, saga] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0259
+--------------------------------------------------
+--- Running -lr with [100.0, None, lbfgs] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0259
+--------------------------------------------------
+--- Running -lr with [100.0, None, saga] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0259
+--------------------------------------------------
+--- Running -lr with [0.01, l2, lbfgs] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0506
+--------------------------------------------------
+--- Running -lr with [0.01, l2, saga] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0506
+--------------------------------------------------
+--- Running -lr with [0.01, None, lbfgs] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0508
+--------------------------------------------------
+--- Running -lr with [0.01, None, saga] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0508
+--------------------------------------------------
+--- Running -lr with [1.0, l2, lbfgs] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0508
+--------------------------------------------------
+--- Running -lr with [1.0, l2, saga] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0508
+--------------------------------------------------
+--- Running -lr with [1.0, None, lbfgs] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0508
+--------------------------------------------------
+--- Running -lr with [1.0, None, saga] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0508
+--------------------------------------------------
+--- Running -lr with [100.0, l2, lbfgs] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0508
+--------------------------------------------------
+--- Running -lr with [100.0, l2, saga] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0508
+--------------------------------------------------
+--- Running -lr with [100.0, None, lbfgs] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0508
+--------------------------------------------------
+--- Running -lr with [100.0, None, saga] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0508
+--------------------------------------------------
+--- Running -lr with [0.01, l2, lbfgs] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0741
+--------------------------------------------------
+--- Running -lr with [0.01, l2, saga] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0741
+--------------------------------------------------
+--- Running -lr with [0.01, None, lbfgs] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0742
+--------------------------------------------------
+--- Running -lr with [0.01, None, saga] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0742
+--------------------------------------------------
+--- Running -lr with [1.0, l2, lbfgs] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0742
+--------------------------------------------------
+--- Running -lr with [1.0, l2, saga] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0742
+--------------------------------------------------
+--- Running -lr with [1.0, None, lbfgs] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0742
+--------------------------------------------------
+--- Running -lr with [1.0, None, saga] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0742
+--------------------------------------------------
+--- Running -lr with [100.0, l2, lbfgs] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0742
+--------------------------------------------------
+--- Running -lr with [100.0, l2, saga] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0742
+--------------------------------------------------
+--- Running -lr with [100.0, None, lbfgs] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0742
+--------------------------------------------------
+--- Running -lr with [100.0, None, saga] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0742
+--------------------------------------------------
+--- Running -lr with [0.01, l2, lbfgs] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0884
+--------------------------------------------------
+--- Running -lr with [0.01, l2, saga] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0884
+--------------------------------------------------
+--- Running -lr with [0.01, None, lbfgs] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0891
+--------------------------------------------------
+--- Running -lr with [0.01, None, saga] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0891
+--------------------------------------------------
+--- Running -lr with [1.0, l2, lbfgs] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0892
+--------------------------------------------------
+--- Running -lr with [1.0, l2, saga] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0892
+--------------------------------------------------
+--- Running -lr with [1.0, None, lbfgs] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0891
+--------------------------------------------------
+--- Running -lr with [1.0, None, saga] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0891
+--------------------------------------------------
+--- Running -lr with [100.0, l2, lbfgs] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0891
+--------------------------------------------------
+--- Running -lr with [100.0, l2, saga] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0891
+--------------------------------------------------
+--- Running -lr with [100.0, None, lbfgs] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0891
+--------------------------------------------------
+--- Running -lr with [100.0, None, saga] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0891
+--------------------------------------------------
+--- Running -lr with [0.01, l2, lbfgs] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.1008
+--------------------------------------------------
+--- Running -lr with [0.01, l2, saga] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.1008
+--------------------------------------------------
+--- Running -lr with [0.01, None, lbfgs] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.1008
+--------------------------------------------------
+--- Running -lr with [0.01, None, saga] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.1008
+--------------------------------------------------
+--- Running -lr with [1.0, l2, lbfgs] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.1008
+--------------------------------------------------
+--- Running -lr with [1.0, l2, saga] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.1008
+--------------------------------------------------
+--- Running -lr with [1.0, None, lbfgs] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.1008
+--------------------------------------------------
+--- Running -lr with [1.0, None, saga] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.1008
+--------------------------------------------------
+--- Running -lr with [100.0, l2, lbfgs] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.1008
+--------------------------------------------------
+--- Running -lr with [100.0, l2, saga] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.1008
+--------------------------------------------------
+--- Running -lr with [100.0, None, lbfgs] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.1008
+--------------------------------------------------
+--- Running -lr with [100.0, None, saga] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.1008
+--------------------------------------------------
+--- Running -lr with [0.01, l2, lbfgs] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0301
+--------------------------------------------------
+--- Running -lr with [0.01, l2, saga] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0301
+--------------------------------------------------
+--- Running -lr with [0.01, None, lbfgs] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0303
+--------------------------------------------------
+--- Running -lr with [0.01, None, saga] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0303
+--------------------------------------------------
+--- Running -lr with [1.0, l2, lbfgs] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0303
+--------------------------------------------------
+--- Running -lr with [1.0, l2, saga] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0303
+--------------------------------------------------
+--- Running -lr with [1.0, None, lbfgs] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0303
+--------------------------------------------------
+--- Running -lr with [1.0, None, saga] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0303
+--------------------------------------------------
+--- Running -lr with [100.0, l2, lbfgs] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0303
+--------------------------------------------------
+--- Running -lr with [100.0, l2, saga] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0303
+--------------------------------------------------
+--- Running -lr with [100.0, None, lbfgs] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0303
+--------------------------------------------------
+--- Running -lr with [100.0, None, saga] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0303
+--------------------------------------------------
+--- Running -lr with [0.01, l2, lbfgs] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0611
+--------------------------------------------------
+--- Running -lr with [0.01, l2, saga] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0611
+--------------------------------------------------
+--- Running -lr with [0.01, None, lbfgs] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0613
+--------------------------------------------------
+--- Running -lr with [0.01, None, saga] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0613
+--------------------------------------------------
+--- Running -lr with [1.0, l2, lbfgs] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0613
+--------------------------------------------------
+--- Running -lr with [1.0, l2, saga] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0613
+--------------------------------------------------
+--- Running -lr with [1.0, None, lbfgs] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0613
+--------------------------------------------------
+--- Running -lr with [1.0, None, saga] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0613
+--------------------------------------------------
+--- Running -lr with [100.0, l2, lbfgs] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0613
+--------------------------------------------------
+--- Running -lr with [100.0, l2, saga] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0613
+--------------------------------------------------
+--- Running -lr with [100.0, None, lbfgs] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0613
+--------------------------------------------------
+--- Running -lr with [100.0, None, saga] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0613
+--------------------------------------------------
+--- Running -lr with [0.01, l2, lbfgs] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0857
+--------------------------------------------------
+--- Running -lr with [0.01, l2, saga] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0857
+--------------------------------------------------
+--- Running -lr with [0.01, None, lbfgs] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0860
+--------------------------------------------------
+--- Running -lr with [0.01, None, saga] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0860
+--------------------------------------------------
+--- Running -lr with [1.0, l2, lbfgs] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0860
+--------------------------------------------------
+--- Running -lr with [1.0, l2, saga] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0860
+--------------------------------------------------
+--- Running -lr with [1.0, None, lbfgs] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0860
+--------------------------------------------------
+--- Running -lr with [1.0, None, saga] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0860
+--------------------------------------------------
+--- Running -lr with [100.0, l2, lbfgs] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0860
+--------------------------------------------------
+--- Running -lr with [100.0, l2, saga] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0860
+--------------------------------------------------
+--- Running -lr with [100.0, None, lbfgs] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0860
+--------------------------------------------------
+--- Running -lr with [100.0, None, saga] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0860
+--------------------------------------------------
+--- Running -lr with [0.01, l2, lbfgs] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.1019
+--------------------------------------------------
+--- Running -lr with [0.01, l2, saga] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.1019
+--------------------------------------------------
+--- Running -lr with [0.01, None, lbfgs] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.1025
+--------------------------------------------------
+--- Running -lr with [0.01, None, saga] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.1025
+--------------------------------------------------
+--- Running -lr with [1.0, l2, lbfgs] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.1025
+--------------------------------------------------
+--- Running -lr with [1.0, l2, saga] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.1025
+--------------------------------------------------
+--- Running -lr with [1.0, None, lbfgs] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.1025
+--------------------------------------------------
+--- Running -lr with [1.0, None, saga] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.1025
+--------------------------------------------------
+--- Running -lr with [100.0, l2, lbfgs] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.1025
+--------------------------------------------------
+--- Running -lr with [100.0, l2, saga] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.1025
+--------------------------------------------------
+--- Running -lr with [100.0, None, lbfgs] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.1025
+--------------------------------------------------
+--- Running -lr with [100.0, None, saga] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.1025
+--------------------------------------------------
+--- Running -lr with [0.01, l2, lbfgs] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.1131
+--------------------------------------------------
+--- Running -lr with [0.01, l2, saga] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.1131
+--------------------------------------------------
+--- Running -lr with [0.01, None, lbfgs] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.1136
+--------------------------------------------------
+--- Running -lr with [0.01, None, saga] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.1136
+--------------------------------------------------
+--- Running -lr with [1.0, l2, lbfgs] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.1136
+--------------------------------------------------
+--- Running -lr with [1.0, l2, saga] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.1136
+--------------------------------------------------
+--- Running -lr with [1.0, None, lbfgs] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.1136
+--------------------------------------------------
+--- Running -lr with [1.0, None, saga] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.1136
+--------------------------------------------------
+--- Running -lr with [100.0, l2, lbfgs] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.1136
+--------------------------------------------------
+--- Running -lr with [100.0, l2, saga] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.1136
+--------------------------------------------------
+--- Running -lr with [100.0, None, lbfgs] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.1136
+--------------------------------------------------
+--- Running -lr with [100.0, None, saga] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.1136
+--------------------------------------------------
+--- Running -lr with [0.01, l2, lbfgs] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0363
+--------------------------------------------------
+--- Running -lr with [0.01, l2, saga] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0363
+--------------------------------------------------
+--- Running -lr with [0.01, None, lbfgs] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0363
+--------------------------------------------------
+--- Running -lr with [0.01, None, saga] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0363
+--------------------------------------------------
+--- Running -lr with [1.0, l2, lbfgs] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0362
+--------------------------------------------------
+--- Running -lr with [1.0, l2, saga] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0362
+--------------------------------------------------
+--- Running -lr with [1.0, None, lbfgs] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0363
+--------------------------------------------------
+--- Running -lr with [1.0, None, saga] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0363
+--------------------------------------------------
+--- Running -lr with [100.0, l2, lbfgs] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0363
+--------------------------------------------------
+--- Running -lr with [100.0, l2, saga] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0363
+--------------------------------------------------
+--- Running -lr with [100.0, None, lbfgs] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0363
+--------------------------------------------------
+--- Running -lr with [100.0, None, saga] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0363
+--------------------------------------------------
+--- Running -lr with [0.01, l2, lbfgs] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0743
+--------------------------------------------------
+--- Running -lr with [0.01, l2, saga] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0743
+--------------------------------------------------
+--- Running -lr with [0.01, None, lbfgs] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0741
+--------------------------------------------------
+--- Running -lr with [0.01, None, saga] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0741
+--------------------------------------------------
+--- Running -lr with [1.0, l2, lbfgs] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0741
+--------------------------------------------------
+--- Running -lr with [1.0, l2, saga] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0741
+--------------------------------------------------
+--- Running -lr with [1.0, None, lbfgs] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0741
+--------------------------------------------------
+--- Running -lr with [1.0, None, saga] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0741
+--------------------------------------------------
+--- Running -lr with [100.0, l2, lbfgs] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0741
+--------------------------------------------------
+--- Running -lr with [100.0, l2, saga] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0741
+--------------------------------------------------
+--- Running -lr with [100.0, None, lbfgs] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0741
+--------------------------------------------------
+--- Running -lr with [100.0, None, saga] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0741
+--------------------------------------------------
+--- Running -lr with [0.01, l2, lbfgs] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.1052
+--------------------------------------------------
+--- Running -lr with [0.01, l2, saga] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.1052
+--------------------------------------------------
+--- Running -lr with [0.01, None, lbfgs] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.1056
+--------------------------------------------------
+--- Running -lr with [0.01, None, saga] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.1056
+--------------------------------------------------
+--- Running -lr with [1.0, l2, lbfgs] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.1056
+--------------------------------------------------
+--- Running -lr with [1.0, l2, saga] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.1056
+--------------------------------------------------
+--- Running -lr with [1.0, None, lbfgs] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.1056
+--------------------------------------------------
+--- Running -lr with [1.0, None, saga] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.1056
+--------------------------------------------------
+--- Running -lr with [100.0, l2, lbfgs] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.1056
+--------------------------------------------------
+--- Running -lr with [100.0, l2, saga] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.1056
+--------------------------------------------------
+--- Running -lr with [100.0, None, lbfgs] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.1056
+--------------------------------------------------
+--- Running -lr with [100.0, None, saga] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.1056
+--------------------------------------------------
+--- Running -lr with [0.01, l2, lbfgs] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.1234
+--------------------------------------------------
+--- Running -lr with [0.01, l2, saga] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.1234
+--------------------------------------------------
+--- Running -lr with [0.01, None, lbfgs] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.1243
+--------------------------------------------------
+--- Running -lr with [0.01, None, saga] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.1243
+--------------------------------------------------
+--- Running -lr with [1.0, l2, lbfgs] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.1243
+--------------------------------------------------
+--- Running -lr with [1.0, l2, saga] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.1243
+--------------------------------------------------
+--- Running -lr with [1.0, None, lbfgs] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.1243
+--------------------------------------------------
+--- Running -lr with [1.0, None, saga] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.1243
+--------------------------------------------------
+--- Running -lr with [100.0, l2, lbfgs] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.1243
+--------------------------------------------------
+--- Running -lr with [100.0, l2, saga] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.1243
+--------------------------------------------------
+--- Running -lr with [100.0, None, lbfgs] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.1243
+--------------------------------------------------
+--- Running -lr with [100.0, None, saga] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.1243
+--------------------------------------------------
+--- Running -lr with [0.01, l2, lbfgs] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.1360
+--------------------------------------------------
+--- Running -lr with [0.01, l2, saga] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.1360
+--------------------------------------------------
+--- Running -lr with [0.01, None, lbfgs] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.1366
+--------------------------------------------------
+--- Running -lr with [0.01, None, saga] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.1366
+--------------------------------------------------
+--- Running -lr with [1.0, l2, lbfgs] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.1366
+--------------------------------------------------
+--- Running -lr with [1.0, l2, saga] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.1366
+--------------------------------------------------
+--- Running -lr with [1.0, None, lbfgs] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.1366
+--------------------------------------------------
+--- Running -lr with [1.0, None, saga] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.1366
+--------------------------------------------------
+--- Running -lr with [100.0, l2, lbfgs] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.1366
+--------------------------------------------------
+--- Running -lr with [100.0, l2, saga] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.1366
+--------------------------------------------------
+--- Running -lr with [100.0, None, lbfgs] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.1366
+--------------------------------------------------
+--- Running -lr with [100.0, None, saga] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.1366
+--------------------------------------------------

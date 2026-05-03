@@ -1,11 +1,12 @@
 import gc
 import glob
+import os
 import sys
 import cupy as cp
+from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
 
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble import RandomForestClassifier
-from sklearn.neural_network import MLPClassifier
 
 import cuml.accel
 cuml.accel.install()
@@ -20,20 +21,20 @@ from sklearn.preprocessing import StandardScaler
 
 from predictor.alphabet_data import AlphabetData
 
-RESULTS_FILE = "results.txt"
+RESULTS_DIR = "results_1-5"
+RESULTS_FILE = f"{RESULTS_DIR}/results"
 
 CONFIGS = [
+    # LDA
+    *[("-lda", s, t, "0")
+      for s in ["svd", "lsqr", "eigen"]
+      for t in ["1e-4", "1e-2"]],
+
     # Extra Trees
     *[("-etc", n, d, s)
-      for n in ["50", "100"]
-      for d in ["10", "20"]
-      for s in ["2", "10"]],
-
-    # MLP
-    *[("-mlp", h, a, r)
-      for h in ["50", "100,50"]
-      for a in ["relu", "tanh"]
-      for r in ["0.0001", "0.05"]],
+      for n in ["10", "25"]
+      for d in ["5", "10"]
+      for s in ["2", "5"]],
 
     # Logistic Regression
     *[("-lr", c, p, a)
@@ -90,7 +91,7 @@ CONFIGS_QUICK = [
     ("-abc",  "50",    "1.0",           "1"),
     ("-gnb",  "1e-9",  "0",             "0"),
     ("-lsvc", "1.0",   "squared_hinge", "1e-4"),
-    ("-mlp",  "50",    "relu",          "0.0001"),
+    ("-lda", "svd", "1e-4", "0"),
     ("-sgd",  "hinge", "l2",            "constant"),
     ("-etc",  "100",   "10",            "2"),
 ]
@@ -113,9 +114,8 @@ def build_clf(classifier, hp1, hp2, hp3):
         return GaussianNB(var_smoothing=float(hp1))
     elif classifier == "-lsvc":
         return LinearSVC(C=float(hp1), loss=hp2, tol=float(hp3), dual="auto")
-    elif classifier == "-mlp":
-        layers = tuple(map(int, hp1.split(',')))
-        return MLPClassifier(hidden_layer_sizes=layers, activation=hp2, alpha=float(hp3), max_iter=200, early_stopping=True)
+    elif classifier == "-lda":
+        return LinearDiscriminantAnalysis(solver=hp1, tol=float(hp2))
     elif classifier == "-sgd":
         return SGDClassifier(loss=hp1, penalty=hp2, learning_rate=hp3, eta0=0.01, n_jobs=-1)
     elif classifier == "-etc":
@@ -123,16 +123,18 @@ def build_clf(classifier, hp1, hp2, hp3):
     return None
 
 
-def log_to_file(message):
+def log_to_file(message, classifier):
     print(message)
-    with open(RESULTS_FILE, "a") as f:
+    with open(RESULTS_FILE + classifier + ".txt", "a") as f:
         f.write(message + "\n")
 
 
 if __name__ == "__main__":
     sys.setrecursionlimit(10000)
 
-    files = sorted(glob.glob("data_set/*.csv"))
+    files = sorted(glob.glob("data_set_2/*.csv"))
+
+    os.makedirs(RESULTS_DIR, exist_ok=True)
 
     for file_path in files:
         print(f"\nDatoteka: {file_path}")
@@ -148,18 +150,18 @@ if __name__ == "__main__":
                     ("classifier", clf),
                 ])
 
-                log_to_file(f"--- Running {classifier} with [{hp1}, {hp2}, {hp3}] on {file_path} ---")
+                log_to_file(f"--- Running {classifier} with [{hp1}, {hp2}, {hp3}] on {file_path} ---", classifier)
                 pipeline.fit(x_train, y_train)
                 accuracy = pipeline.score(x_test, y_test)
 
-                log_to_file(f"Accuracy: {accuracy:.4f}")
-                log_to_file("-" * 50)
+                log_to_file(f"Accuracy: {accuracy:.4f}", classifier)
+                log_to_file("-" * 50, classifier)
             except Exception as e:
-                log_to_file(f"ERROR: {classifier} [{hp1}, {hp2}, {hp3}] on {file_path}: {e}")
-                log_to_file("-" * 50)
+                log_to_file(f"ERROR: {classifier} [{hp1}, {hp2}, {hp3}] on {file_path}: {e}", classifier)
+                log_to_file("-" * 50, classifier)
             finally:
                 del clf, pipeline
                 gc.collect()
                 cp.get_default_memory_pool().free_all_blocks()
 
-    print("\nTestiranje končano. Rezultati so v results.txt.")
+    print(f"\nTestiranje končano. Rezultati so v f{RESULTS_DIR}.")

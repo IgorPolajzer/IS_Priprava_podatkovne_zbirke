@@ -1,0 +1,296 @@
+--- Running -gnb with [1e-9, 0, 0] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0365
+ERROR: -gnb [1e-9, 0, 0] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0365
+ERROR: -gnb [1e-5, 0, 0] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.0516
+ERROR: -gnb [1e-9, 0, 0] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.0527
+ERROR: -gnb [1e-5, 0, 0] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0536
+ERROR: -gnb [1e-9, 0, 0] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0536
+ERROR: -gnb [1e-5, 0, 0] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.0598
+ERROR: -gnb [1e-9, 0, 0] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.0598
+ERROR: -gnb [1e-5, 0, 0] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.0577
+ERROR: -gnb [1e-9, 0, 0] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.0578
+ERROR: -gnb [1e-5, 0, 0] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.0567
+ERROR: -gnb [1e-9, 0, 0] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.0568
+ERROR: -gnb [1e-5, 0, 0] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.0567
+ERROR: -gnb [1e-9, 0, 0] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.0567
+ERROR: -gnb [1e-5, 0, 0] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.0537
+ERROR: -gnb [1e-9, 0, 0] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.0556
+ERROR: -gnb [1e-5, 0, 0] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.0522
+ERROR: -gnb [1e-9, 0, 0] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.0538
+ERROR: -gnb [1e-5, 0, 0] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.0558
+ERROR: -gnb [1e-9, 0, 0] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.0558
+ERROR: -gnb [1e-5, 0, 0] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0220
+ERROR: -gnb [1e-9, 0, 0] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0220
+ERROR: -gnb [1e-5, 0, 0] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0525
+ERROR: -gnb [1e-9, 0, 0] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0525
+ERROR: -gnb [1e-5, 0, 0] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0312
+ERROR: -gnb [1e-9, 0, 0] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0312
+ERROR: -gnb [1e-5, 0, 0] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0372
+ERROR: -gnb [1e-9, 0, 0] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0372
+ERROR: -gnb [1e-5, 0, 0] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0417
+ERROR: -gnb [1e-9, 0, 0] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0417
+ERROR: -gnb [1e-5, 0, 0] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0474
+ERROR: -gnb [1e-9, 0, 0] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0474
+ERROR: -gnb [1e-5, 0, 0] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0505
+ERROR: -gnb [1e-9, 0, 0] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0505
+ERROR: -gnb [1e-5, 0, 0] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0529
+ERROR: -gnb [1e-9, 0, 0] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0529
+ERROR: -gnb [1e-5, 0, 0] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0524
+ERROR: -gnb [1e-9, 0, 0] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0524
+ERROR: -gnb [1e-5, 0, 0] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0534
+ERROR: -gnb [1e-9, 0, 0] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0534
+ERROR: -gnb [1e-5, 0, 0] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0270
+ERROR: -gnb [1e-9, 0, 0] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0270
+ERROR: -gnb [1e-5, 0, 0] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0645
+ERROR: -gnb [1e-9, 0, 0] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0645
+ERROR: -gnb [1e-5, 0, 0] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0432
+ERROR: -gnb [1e-9, 0, 0] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0432
+ERROR: -gnb [1e-5, 0, 0] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0489
+ERROR: -gnb [1e-9, 0, 0] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0489
+ERROR: -gnb [1e-5, 0, 0] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0534
+ERROR: -gnb [1e-9, 0, 0] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0534
+ERROR: -gnb [1e-5, 0, 0] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0594
+ERROR: -gnb [1e-9, 0, 0] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0594
+ERROR: -gnb [1e-5, 0, 0] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0624
+ERROR: -gnb [1e-9, 0, 0] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0624
+ERROR: -gnb [1e-5, 0, 0] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0644
+ERROR: -gnb [1e-9, 0, 0] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0644
+ERROR: -gnb [1e-5, 0, 0] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0648
+ERROR: -gnb [1e-9, 0, 0] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0648
+ERROR: -gnb [1e-5, 0, 0] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0652
+ERROR: -gnb [1e-9, 0, 0] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0652
+ERROR: -gnb [1e-5, 0, 0] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0290
+ERROR: -gnb [1e-9, 0, 0] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0290
+ERROR: -gnb [1e-5, 0, 0] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.0641
+ERROR: -gnb [1e-9, 0, 0] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.0641
+ERROR: -gnb [1e-5, 0, 0] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0438
+ERROR: -gnb [1e-9, 0, 0] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0438
+ERROR: -gnb [1e-5, 0, 0] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0542
+ERROR: -gnb [1e-9, 0, 0] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0542
+ERROR: -gnb [1e-5, 0, 0] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0574
+ERROR: -gnb [1e-9, 0, 0] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0574
+ERROR: -gnb [1e-5, 0, 0] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0632
+ERROR: -gnb [1e-9, 0, 0] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0632
+ERROR: -gnb [1e-5, 0, 0] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-9, 0, 0] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.0648
+ERROR: -gnb [1e-9, 0, 0] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -gnb with [1e-5, 0, 0] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.0648
+ERROR: -gnb [1e-5, 0, 0] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------

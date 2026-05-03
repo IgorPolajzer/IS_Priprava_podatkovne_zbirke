@@ -1,0 +1,1776 @@
+--- Running -sgd with [hinge, l1, constant] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0154
+ERROR: -sgd [hinge, l1, constant] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0201
+ERROR: -sgd [hinge, l1, adaptive] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0171
+ERROR: -sgd [hinge, l2, constant] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0209
+ERROR: -sgd [hinge, l2, adaptive] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0111
+ERROR: -sgd [hinge, elasticnet, constant] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0158
+ERROR: -sgd [hinge, elasticnet, adaptive] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0384
+ERROR: -sgd [log_loss, l1, constant] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0421
+ERROR: -sgd [log_loss, l1, adaptive] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0379
+ERROR: -sgd [log_loss, l2, constant] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0425
+ERROR: -sgd [log_loss, l2, adaptive] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0386
+ERROR: -sgd [log_loss, elasticnet, constant] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0423
+ERROR: -sgd [log_loss, elasticnet, adaptive] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.0400
+ERROR: -sgd [hinge, l1, constant] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.0373
+ERROR: -sgd [hinge, l1, adaptive] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.0508
+ERROR: -sgd [hinge, l2, constant] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.0480
+ERROR: -sgd [hinge, l2, adaptive] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.0401
+ERROR: -sgd [hinge, elasticnet, constant] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.0413
+ERROR: -sgd [hinge, elasticnet, adaptive] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.1269
+ERROR: -sgd [log_loss, l1, constant] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.1559
+ERROR: -sgd [log_loss, l1, adaptive] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.1179
+ERROR: -sgd [log_loss, l2, constant] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.1577
+ERROR: -sgd [log_loss, l2, adaptive] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.1253
+ERROR: -sgd [log_loss, elasticnet, constant] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.1576
+ERROR: -sgd [log_loss, elasticnet, adaptive] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0182
+ERROR: -sgd [hinge, l1, constant] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0224
+ERROR: -sgd [hinge, l1, adaptive] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0283
+ERROR: -sgd [hinge, l2, constant] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0281
+ERROR: -sgd [hinge, l2, adaptive] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0216
+ERROR: -sgd [hinge, elasticnet, constant] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0204
+ERROR: -sgd [hinge, elasticnet, adaptive] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0804
+ERROR: -sgd [log_loss, l1, constant] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0860
+ERROR: -sgd [log_loss, l1, adaptive] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0762
+ERROR: -sgd [log_loss, l2, constant] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0867
+ERROR: -sgd [log_loss, l2, adaptive] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0764
+ERROR: -sgd [log_loss, elasticnet, constant] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0866
+ERROR: -sgd [log_loss, elasticnet, adaptive] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.0243
+ERROR: -sgd [hinge, l1, constant] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.0274
+ERROR: -sgd [hinge, l1, adaptive] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.0411
+ERROR: -sgd [hinge, l2, constant] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.0365
+ERROR: -sgd [hinge, l2, adaptive] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.0293
+ERROR: -sgd [hinge, elasticnet, constant] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.0257
+ERROR: -sgd [hinge, elasticnet, adaptive] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.1078
+ERROR: -sgd [log_loss, l1, constant] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.1218
+ERROR: -sgd [log_loss, l1, adaptive] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.1049
+ERROR: -sgd [log_loss, l2, constant] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.1233
+ERROR: -sgd [log_loss, l2, adaptive] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.1076
+ERROR: -sgd [log_loss, elasticnet, constant] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.1230
+ERROR: -sgd [log_loss, elasticnet, adaptive] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.0317
+ERROR: -sgd [hinge, l1, constant] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.0408
+ERROR: -sgd [hinge, l1, adaptive] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.0402
+ERROR: -sgd [hinge, l2, constant] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.0428
+ERROR: -sgd [hinge, l2, adaptive] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.0390
+ERROR: -sgd [hinge, elasticnet, constant] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.0376
+ERROR: -sgd [hinge, elasticnet, adaptive] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.1231
+ERROR: -sgd [log_loss, l1, constant] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.1428
+ERROR: -sgd [log_loss, l1, adaptive] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.1237
+ERROR: -sgd [log_loss, l2, constant] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.1439
+ERROR: -sgd [log_loss, l2, adaptive] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.1220
+ERROR: -sgd [log_loss, elasticnet, constant] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.1439
+ERROR: -sgd [log_loss, elasticnet, adaptive] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.0388
+ERROR: -sgd [hinge, l1, constant] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.0384
+ERROR: -sgd [hinge, l1, adaptive] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.0442
+ERROR: -sgd [hinge, l2, constant] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.0479
+ERROR: -sgd [hinge, l2, adaptive] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.0436
+ERROR: -sgd [hinge, elasticnet, constant] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.0364
+ERROR: -sgd [hinge, elasticnet, adaptive] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.1342
+ERROR: -sgd [log_loss, l1, constant] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.1546
+ERROR: -sgd [log_loss, l1, adaptive] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.1291
+ERROR: -sgd [log_loss, l2, constant] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.1560
+ERROR: -sgd [log_loss, l2, adaptive] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.1372
+ERROR: -sgd [log_loss, elasticnet, constant] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.1558
+ERROR: -sgd [log_loss, elasticnet, adaptive] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.0336
+ERROR: -sgd [hinge, l1, constant] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.0393
+ERROR: -sgd [hinge, l1, adaptive] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.0512
+ERROR: -sgd [hinge, l2, constant] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.0496
+ERROR: -sgd [hinge, l2, adaptive] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.0449
+ERROR: -sgd [hinge, elasticnet, constant] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.0346
+ERROR: -sgd [hinge, elasticnet, adaptive] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.1360
+ERROR: -sgd [log_loss, l1, constant] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.1597
+ERROR: -sgd [log_loss, l1, adaptive] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.1331
+ERROR: -sgd [log_loss, l2, constant] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.1615
+ERROR: -sgd [log_loss, l2, adaptive] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.1380
+ERROR: -sgd [log_loss, elasticnet, constant] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.1614
+ERROR: -sgd [log_loss, elasticnet, adaptive] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.0391
+ERROR: -sgd [hinge, l1, constant] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.0392
+ERROR: -sgd [hinge, l1, adaptive] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.0553
+ERROR: -sgd [hinge, l2, constant] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.0519
+ERROR: -sgd [hinge, l2, adaptive] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.0473
+ERROR: -sgd [hinge, elasticnet, constant] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.0378
+ERROR: -sgd [hinge, elasticnet, adaptive] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.1355
+ERROR: -sgd [log_loss, l1, constant] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.1632
+ERROR: -sgd [log_loss, l1, adaptive] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.1311
+ERROR: -sgd [log_loss, l2, constant] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.1651
+ERROR: -sgd [log_loss, l2, adaptive] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.1343
+ERROR: -sgd [log_loss, elasticnet, constant] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.1649
+ERROR: -sgd [log_loss, elasticnet, adaptive] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.0380
+ERROR: -sgd [hinge, l1, constant] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.0394
+ERROR: -sgd [hinge, l1, adaptive] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.0516
+ERROR: -sgd [hinge, l2, constant] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.0551
+ERROR: -sgd [hinge, l2, adaptive] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.0473
+ERROR: -sgd [hinge, elasticnet, constant] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.0422
+ERROR: -sgd [hinge, elasticnet, adaptive] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.1338
+ERROR: -sgd [log_loss, l1, constant] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.1615
+ERROR: -sgd [log_loss, l1, adaptive] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.1267
+ERROR: -sgd [log_loss, l2, constant] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.1630
+ERROR: -sgd [log_loss, l2, adaptive] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.1333
+ERROR: -sgd [log_loss, elasticnet, constant] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.1629
+ERROR: -sgd [log_loss, elasticnet, adaptive] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.0387
+ERROR: -sgd [hinge, l1, constant] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.0391
+ERROR: -sgd [hinge, l1, adaptive] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.0493
+ERROR: -sgd [hinge, l2, constant] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.0492
+ERROR: -sgd [hinge, l2, adaptive] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.0432
+ERROR: -sgd [hinge, elasticnet, constant] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.0408
+ERROR: -sgd [hinge, elasticnet, adaptive] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.1243
+ERROR: -sgd [log_loss, l1, constant] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.1590
+ERROR: -sgd [log_loss, l1, adaptive] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.1186
+ERROR: -sgd [log_loss, l2, constant] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.1617
+ERROR: -sgd [log_loss, l2, adaptive] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.1280
+ERROR: -sgd [log_loss, elasticnet, constant] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.1614
+ERROR: -sgd [log_loss, elasticnet, adaptive] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0156
+ERROR: -sgd [hinge, l1, constant] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0092
+ERROR: -sgd [hinge, l1, adaptive] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0117
+ERROR: -sgd [hinge, l2, constant] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0097
+ERROR: -sgd [hinge, l2, adaptive] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0079
+ERROR: -sgd [hinge, elasticnet, constant] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0120
+ERROR: -sgd [hinge, elasticnet, adaptive] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0184
+ERROR: -sgd [log_loss, l1, constant] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0197
+ERROR: -sgd [log_loss, l1, adaptive] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0192
+ERROR: -sgd [log_loss, l2, constant] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0200
+ERROR: -sgd [log_loss, l2, adaptive] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0216
+ERROR: -sgd [log_loss, elasticnet, constant] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0199
+ERROR: -sgd [log_loss, elasticnet, adaptive] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0168
+ERROR: -sgd [hinge, l1, constant] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0127
+ERROR: -sgd [hinge, l1, adaptive] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0210
+ERROR: -sgd [hinge, l2, constant] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0186
+ERROR: -sgd [hinge, l2, adaptive] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0115
+ERROR: -sgd [hinge, elasticnet, constant] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0140
+ERROR: -sgd [hinge, elasticnet, adaptive] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0452
+ERROR: -sgd [log_loss, l1, constant] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0533
+ERROR: -sgd [log_loss, l1, adaptive] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0438
+ERROR: -sgd [log_loss, l2, constant] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0541
+ERROR: -sgd [log_loss, l2, adaptive] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0430
+ERROR: -sgd [log_loss, elasticnet, constant] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0538
+ERROR: -sgd [log_loss, elasticnet, adaptive] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0135
+ERROR: -sgd [hinge, l1, constant] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0134
+ERROR: -sgd [hinge, l1, adaptive] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0101
+ERROR: -sgd [hinge, l2, constant] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0117
+ERROR: -sgd [hinge, l2, adaptive] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0106
+ERROR: -sgd [hinge, elasticnet, constant] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0138
+ERROR: -sgd [hinge, elasticnet, adaptive] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0292
+ERROR: -sgd [log_loss, l1, constant] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0305
+ERROR: -sgd [log_loss, l1, adaptive] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0304
+ERROR: -sgd [log_loss, l2, constant] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0306
+ERROR: -sgd [log_loss, l2, adaptive] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0273
+ERROR: -sgd [log_loss, elasticnet, constant] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0306
+ERROR: -sgd [log_loss, elasticnet, adaptive] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0096
+ERROR: -sgd [hinge, l1, constant] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0133
+ERROR: -sgd [hinge, l1, adaptive] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0132
+ERROR: -sgd [hinge, l2, constant] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0114
+ERROR: -sgd [hinge, l2, adaptive] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0119
+ERROR: -sgd [hinge, elasticnet, constant] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0163
+ERROR: -sgd [hinge, elasticnet, adaptive] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0334
+ERROR: -sgd [log_loss, l1, constant] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0373
+ERROR: -sgd [log_loss, l1, adaptive] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0345
+ERROR: -sgd [log_loss, l2, constant] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0374
+ERROR: -sgd [log_loss, l2, adaptive] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0376
+ERROR: -sgd [log_loss, elasticnet, constant] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0375
+ERROR: -sgd [log_loss, elasticnet, adaptive] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0075
+ERROR: -sgd [hinge, l1, constant] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0122
+ERROR: -sgd [hinge, l1, adaptive] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0101
+ERROR: -sgd [hinge, l2, constant] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0171
+ERROR: -sgd [hinge, l2, adaptive] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0151
+ERROR: -sgd [hinge, elasticnet, constant] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0127
+ERROR: -sgd [hinge, elasticnet, adaptive] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0435
+ERROR: -sgd [log_loss, l1, constant] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0444
+ERROR: -sgd [log_loss, l1, adaptive] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0429
+ERROR: -sgd [log_loss, l2, constant] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0446
+ERROR: -sgd [log_loss, l2, adaptive] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0418
+ERROR: -sgd [log_loss, elasticnet, constant] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0446
+ERROR: -sgd [log_loss, elasticnet, adaptive] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0138
+ERROR: -sgd [hinge, l1, constant] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0137
+ERROR: -sgd [hinge, l1, adaptive] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0146
+ERROR: -sgd [hinge, l2, constant] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0106
+ERROR: -sgd [hinge, l2, adaptive] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0102
+ERROR: -sgd [hinge, elasticnet, constant] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0111
+ERROR: -sgd [hinge, elasticnet, adaptive] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0465
+ERROR: -sgd [log_loss, l1, constant] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0491
+ERROR: -sgd [log_loss, l1, adaptive] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0471
+ERROR: -sgd [log_loss, l2, constant] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0493
+ERROR: -sgd [log_loss, l2, adaptive] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0456
+ERROR: -sgd [log_loss, elasticnet, constant] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0493
+ERROR: -sgd [log_loss, elasticnet, adaptive] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0155
+ERROR: -sgd [hinge, l1, constant] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0159
+ERROR: -sgd [hinge, l1, adaptive] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0175
+ERROR: -sgd [hinge, l2, constant] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0151
+ERROR: -sgd [hinge, l2, adaptive] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0227
+ERROR: -sgd [hinge, elasticnet, constant] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0180
+ERROR: -sgd [hinge, elasticnet, adaptive] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0475
+ERROR: -sgd [log_loss, l1, constant] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0525
+ERROR: -sgd [log_loss, l1, adaptive] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0460
+ERROR: -sgd [log_loss, l2, constant] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0529
+ERROR: -sgd [log_loss, l2, adaptive] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0475
+ERROR: -sgd [log_loss, elasticnet, constant] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0529
+ERROR: -sgd [log_loss, elasticnet, adaptive] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0171
+ERROR: -sgd [hinge, l1, constant] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0169
+ERROR: -sgd [hinge, l1, adaptive] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0192
+ERROR: -sgd [hinge, l2, constant] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0203
+ERROR: -sgd [hinge, l2, adaptive] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0184
+ERROR: -sgd [hinge, elasticnet, constant] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0151
+ERROR: -sgd [hinge, elasticnet, adaptive] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0493
+ERROR: -sgd [log_loss, l1, constant] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0550
+ERROR: -sgd [log_loss, l1, adaptive] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0438
+ERROR: -sgd [log_loss, l2, constant] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0556
+ERROR: -sgd [log_loss, l2, adaptive] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0480
+ERROR: -sgd [log_loss, elasticnet, constant] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0555
+ERROR: -sgd [log_loss, elasticnet, adaptive] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0108
+ERROR: -sgd [hinge, l1, constant] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0152
+ERROR: -sgd [hinge, l1, adaptive] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0175
+ERROR: -sgd [hinge, l2, constant] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0176
+ERROR: -sgd [hinge, l2, adaptive] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0147
+ERROR: -sgd [hinge, elasticnet, constant] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0193
+ERROR: -sgd [hinge, elasticnet, adaptive] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0419
+ERROR: -sgd [log_loss, l1, constant] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0536
+ERROR: -sgd [log_loss, l1, adaptive] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0490
+ERROR: -sgd [log_loss, l2, constant] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0542
+ERROR: -sgd [log_loss, l2, adaptive] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0449
+ERROR: -sgd [log_loss, elasticnet, constant] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0542
+ERROR: -sgd [log_loss, elasticnet, adaptive] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0161
+ERROR: -sgd [hinge, l1, constant] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0160
+ERROR: -sgd [hinge, l1, adaptive] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0169
+ERROR: -sgd [hinge, l2, constant] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0174
+ERROR: -sgd [hinge, l2, adaptive] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0178
+ERROR: -sgd [hinge, elasticnet, constant] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0134
+ERROR: -sgd [hinge, elasticnet, adaptive] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0452
+ERROR: -sgd [log_loss, l1, constant] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0522
+ERROR: -sgd [log_loss, l1, adaptive] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0431
+ERROR: -sgd [log_loss, l2, constant] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0531
+ERROR: -sgd [log_loss, l2, adaptive] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0399
+ERROR: -sgd [log_loss, elasticnet, constant] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0528
+ERROR: -sgd [log_loss, elasticnet, adaptive] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0129
+ERROR: -sgd [hinge, l1, constant] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0119
+ERROR: -sgd [hinge, l1, adaptive] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0113
+ERROR: -sgd [hinge, l2, constant] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0136
+ERROR: -sgd [hinge, l2, adaptive] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0168
+ERROR: -sgd [hinge, elasticnet, constant] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0069
+ERROR: -sgd [hinge, elasticnet, adaptive] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0235
+ERROR: -sgd [log_loss, l1, constant] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0252
+ERROR: -sgd [log_loss, l1, adaptive] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0240
+ERROR: -sgd [log_loss, l2, constant] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0252
+ERROR: -sgd [log_loss, l2, adaptive] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0241
+ERROR: -sgd [log_loss, elasticnet, constant] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0252
+ERROR: -sgd [log_loss, elasticnet, adaptive] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0169
+ERROR: -sgd [hinge, l1, constant] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0183
+ERROR: -sgd [hinge, l1, adaptive] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0258
+ERROR: -sgd [hinge, l2, constant] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0299
+ERROR: -sgd [hinge, l2, adaptive] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0207
+ERROR: -sgd [hinge, elasticnet, constant] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0242
+ERROR: -sgd [hinge, elasticnet, adaptive] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0773
+ERROR: -sgd [log_loss, l1, constant] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0905
+ERROR: -sgd [log_loss, l1, adaptive] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0791
+ERROR: -sgd [log_loss, l2, constant] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0911
+ERROR: -sgd [log_loss, l2, adaptive] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0786
+ERROR: -sgd [log_loss, elasticnet, constant] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0911
+ERROR: -sgd [log_loss, elasticnet, adaptive] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0159
+ERROR: -sgd [hinge, l1, constant] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0119
+ERROR: -sgd [hinge, l1, adaptive] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0164
+ERROR: -sgd [hinge, l2, constant] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0178
+ERROR: -sgd [hinge, l2, adaptive] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0143
+ERROR: -sgd [hinge, elasticnet, constant] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0159
+ERROR: -sgd [hinge, elasticnet, adaptive] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0448
+ERROR: -sgd [log_loss, l1, constant] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0454
+ERROR: -sgd [log_loss, l1, adaptive] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0440
+ERROR: -sgd [log_loss, l2, constant] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0455
+ERROR: -sgd [log_loss, l2, adaptive] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0425
+ERROR: -sgd [log_loss, elasticnet, constant] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0458
+ERROR: -sgd [log_loss, elasticnet, adaptive] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0132
+ERROR: -sgd [hinge, l1, constant] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0133
+ERROR: -sgd [hinge, l1, adaptive] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0230
+ERROR: -sgd [hinge, l2, constant] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0188
+ERROR: -sgd [hinge, l2, adaptive] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0177
+ERROR: -sgd [hinge, elasticnet, constant] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0125
+ERROR: -sgd [hinge, elasticnet, adaptive] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0561
+ERROR: -sgd [log_loss, l1, constant] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0638
+ERROR: -sgd [log_loss, l1, adaptive] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0580
+ERROR: -sgd [log_loss, l2, constant] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0640
+ERROR: -sgd [log_loss, l2, adaptive] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0586
+ERROR: -sgd [log_loss, elasticnet, constant] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0640
+ERROR: -sgd [log_loss, elasticnet, adaptive] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0167
+ERROR: -sgd [hinge, l1, constant] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0161
+ERROR: -sgd [hinge, l1, adaptive] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0146
+ERROR: -sgd [hinge, l2, constant] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0181
+ERROR: -sgd [hinge, l2, adaptive] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0185
+ERROR: -sgd [hinge, elasticnet, constant] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0178
+ERROR: -sgd [hinge, elasticnet, adaptive] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0712
+ERROR: -sgd [log_loss, l1, constant] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0782
+ERROR: -sgd [log_loss, l1, adaptive] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0736
+ERROR: -sgd [log_loss, l2, constant] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0782
+ERROR: -sgd [log_loss, l2, adaptive] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0697
+ERROR: -sgd [log_loss, elasticnet, constant] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0781
+ERROR: -sgd [log_loss, elasticnet, adaptive] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0166
+ERROR: -sgd [hinge, l1, constant] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0177
+ERROR: -sgd [hinge, l1, adaptive] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0229
+ERROR: -sgd [hinge, l2, constant] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0206
+ERROR: -sgd [hinge, l2, adaptive] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0216
+ERROR: -sgd [hinge, elasticnet, constant] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0208
+ERROR: -sgd [hinge, elasticnet, adaptive] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0732
+ERROR: -sgd [log_loss, l1, constant] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0866
+ERROR: -sgd [log_loss, l1, adaptive] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0791
+ERROR: -sgd [log_loss, l2, constant] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0868
+ERROR: -sgd [log_loss, l2, adaptive] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0777
+ERROR: -sgd [log_loss, elasticnet, constant] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0868
+ERROR: -sgd [log_loss, elasticnet, adaptive] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0173
+ERROR: -sgd [hinge, l1, constant] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0146
+ERROR: -sgd [hinge, l1, adaptive] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0273
+ERROR: -sgd [hinge, l2, constant] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0234
+ERROR: -sgd [hinge, l2, adaptive] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0195
+ERROR: -sgd [hinge, elasticnet, constant] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0154
+ERROR: -sgd [hinge, elasticnet, adaptive] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0822
+ERROR: -sgd [log_loss, l1, constant] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0915
+ERROR: -sgd [log_loss, l1, adaptive] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0792
+ERROR: -sgd [log_loss, l2, constant] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0923
+ERROR: -sgd [log_loss, l2, adaptive] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0807
+ERROR: -sgd [log_loss, elasticnet, constant] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0920
+ERROR: -sgd [log_loss, elasticnet, adaptive] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0175
+ERROR: -sgd [hinge, l1, constant] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0175
+ERROR: -sgd [hinge, l1, adaptive] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0245
+ERROR: -sgd [hinge, l2, constant] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0227
+ERROR: -sgd [hinge, l2, adaptive] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0212
+ERROR: -sgd [hinge, elasticnet, constant] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0223
+ERROR: -sgd [hinge, elasticnet, adaptive] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0842
+ERROR: -sgd [log_loss, l1, constant] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0924
+ERROR: -sgd [log_loss, l1, adaptive] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0829
+ERROR: -sgd [log_loss, l2, constant] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0931
+ERROR: -sgd [log_loss, l2, adaptive] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0761
+ERROR: -sgd [log_loss, elasticnet, constant] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0930
+ERROR: -sgd [log_loss, elasticnet, adaptive] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0196
+ERROR: -sgd [hinge, l1, constant] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0198
+ERROR: -sgd [hinge, l1, adaptive] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0264
+ERROR: -sgd [hinge, l2, constant] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0224
+ERROR: -sgd [hinge, l2, adaptive] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0167
+ERROR: -sgd [hinge, elasticnet, constant] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0223
+ERROR: -sgd [hinge, elasticnet, adaptive] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0812
+ERROR: -sgd [log_loss, l1, constant] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0927
+ERROR: -sgd [log_loss, l1, adaptive] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0798
+ERROR: -sgd [log_loss, l2, constant] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0936
+ERROR: -sgd [log_loss, l2, adaptive] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0788
+ERROR: -sgd [log_loss, elasticnet, constant] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0934
+ERROR: -sgd [log_loss, elasticnet, adaptive] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0210
+ERROR: -sgd [hinge, l1, constant] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0179
+ERROR: -sgd [hinge, l1, adaptive] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0244
+ERROR: -sgd [hinge, l2, constant] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0180
+ERROR: -sgd [hinge, l2, adaptive] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0198
+ERROR: -sgd [hinge, elasticnet, constant] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0131
+ERROR: -sgd [hinge, elasticnet, adaptive] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0803
+ERROR: -sgd [log_loss, l1, constant] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0911
+ERROR: -sgd [log_loss, l1, adaptive] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0782
+ERROR: -sgd [log_loss, l2, constant] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0918
+ERROR: -sgd [log_loss, l2, adaptive] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0797
+ERROR: -sgd [log_loss, elasticnet, constant] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0919
+ERROR: -sgd [log_loss, elasticnet, adaptive] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0113
+ERROR: -sgd [hinge, l1, constant] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0170
+ERROR: -sgd [hinge, l1, adaptive] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0112
+ERROR: -sgd [hinge, l2, constant] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0165
+ERROR: -sgd [hinge, l2, adaptive] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0106
+ERROR: -sgd [hinge, elasticnet, constant] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0120
+ERROR: -sgd [hinge, elasticnet, adaptive] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0256
+ERROR: -sgd [log_loss, l1, constant] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0262
+ERROR: -sgd [log_loss, l1, adaptive] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0253
+ERROR: -sgd [log_loss, l2, constant] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0259
+ERROR: -sgd [log_loss, l2, adaptive] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0236
+ERROR: -sgd [log_loss, elasticnet, constant] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0260
+ERROR: -sgd [log_loss, elasticnet, adaptive] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.0272
+ERROR: -sgd [hinge, l1, constant] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.0258
+ERROR: -sgd [hinge, l1, adaptive] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.0320
+ERROR: -sgd [hinge, l2, constant] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.0300
+ERROR: -sgd [hinge, l2, adaptive] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.0258
+ERROR: -sgd [hinge, elasticnet, constant] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.0251
+ERROR: -sgd [hinge, elasticnet, adaptive] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.0867
+ERROR: -sgd [log_loss, l1, constant] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.1026
+ERROR: -sgd [log_loss, l1, adaptive] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.0932
+ERROR: -sgd [log_loss, l2, constant] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.1037
+ERROR: -sgd [log_loss, l2, adaptive] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.0926
+ERROR: -sgd [log_loss, elasticnet, constant] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.1034
+ERROR: -sgd [log_loss, elasticnet, adaptive] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0117
+ERROR: -sgd [hinge, l1, constant] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0156
+ERROR: -sgd [hinge, l1, adaptive] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0205
+ERROR: -sgd [hinge, l2, constant] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0210
+ERROR: -sgd [hinge, l2, adaptive] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0186
+ERROR: -sgd [hinge, elasticnet, constant] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0145
+ERROR: -sgd [hinge, elasticnet, adaptive] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0440
+ERROR: -sgd [log_loss, l1, constant] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0500
+ERROR: -sgd [log_loss, l1, adaptive] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0467
+ERROR: -sgd [log_loss, l2, constant] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0503
+ERROR: -sgd [log_loss, l2, adaptive] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0457
+ERROR: -sgd [log_loss, elasticnet, constant] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0502
+ERROR: -sgd [log_loss, elasticnet, adaptive] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0183
+ERROR: -sgd [hinge, l1, constant] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0212
+ERROR: -sgd [hinge, l1, adaptive] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0217
+ERROR: -sgd [hinge, l2, constant] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0179
+ERROR: -sgd [hinge, l2, adaptive] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0183
+ERROR: -sgd [hinge, elasticnet, constant] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0155
+ERROR: -sgd [hinge, elasticnet, adaptive] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0708
+ERROR: -sgd [log_loss, l1, constant] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0733
+ERROR: -sgd [log_loss, l1, adaptive] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0721
+ERROR: -sgd [log_loss, l2, constant] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0734
+ERROR: -sgd [log_loss, l2, adaptive] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0708
+ERROR: -sgd [log_loss, elasticnet, constant] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0734
+ERROR: -sgd [log_loss, elasticnet, adaptive] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0240
+ERROR: -sgd [hinge, l1, constant] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0242
+ERROR: -sgd [hinge, l1, adaptive] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0288
+ERROR: -sgd [hinge, l2, constant] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0310
+ERROR: -sgd [hinge, l2, adaptive] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0189
+ERROR: -sgd [hinge, elasticnet, constant] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0211
+ERROR: -sgd [hinge, elasticnet, adaptive] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0814
+ERROR: -sgd [log_loss, l1, constant] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0882
+ERROR: -sgd [log_loss, l1, adaptive] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0805
+ERROR: -sgd [log_loss, l2, constant] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0883
+ERROR: -sgd [log_loss, l2, adaptive] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0795
+ERROR: -sgd [log_loss, elasticnet, constant] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0883
+ERROR: -sgd [log_loss, elasticnet, adaptive] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0225
+ERROR: -sgd [hinge, l1, constant] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0201
+ERROR: -sgd [hinge, l1, adaptive] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0286
+ERROR: -sgd [hinge, l2, constant] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0276
+ERROR: -sgd [hinge, l2, adaptive] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0246
+ERROR: -sgd [hinge, elasticnet, constant] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0226
+ERROR: -sgd [hinge, elasticnet, adaptive] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0907
+ERROR: -sgd [log_loss, l1, constant] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0992
+ERROR: -sgd [log_loss, l1, adaptive] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0928
+ERROR: -sgd [log_loss, l2, constant] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0999
+ERROR: -sgd [log_loss, l2, adaptive] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0925
+ERROR: -sgd [log_loss, elasticnet, constant] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0999
+ERROR: -sgd [log_loss, elasticnet, adaptive] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.0253
+ERROR: -sgd [hinge, l1, constant] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.0292
+ERROR: -sgd [hinge, l1, adaptive] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.0293
+ERROR: -sgd [hinge, l2, constant] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.0308
+ERROR: -sgd [hinge, l2, adaptive] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.0245
+ERROR: -sgd [hinge, elasticnet, constant] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.0244
+ERROR: -sgd [hinge, elasticnet, adaptive] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.0912
+ERROR: -sgd [log_loss, l1, constant] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.1018
+ERROR: -sgd [log_loss, l1, adaptive] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.0910
+ERROR: -sgd [log_loss, l2, constant] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.1022
+ERROR: -sgd [log_loss, l2, adaptive] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.0923
+ERROR: -sgd [log_loss, elasticnet, constant] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.1022
+ERROR: -sgd [log_loss, elasticnet, adaptive] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------

@@ -1,0 +1,900 @@
+--- Running -sgd with [hinge, l1, constant] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0120
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0122
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0149
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0116
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0120
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0089
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0218
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0201
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0197
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0199
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0179
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0199
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0138
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0173
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0093
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0130
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0105
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0142
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0313
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0306
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0276
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0306
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0298
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0305
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0120
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0127
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0114
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0119
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0112
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0125
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0340
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0374
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0345
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0373
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0313
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0374
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0134
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0182
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0191
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0138
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0176
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0163
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0396
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0445
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0371
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0447
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0427
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0446
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0159
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0172
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0131
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0130
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0224
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0155
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0459
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0491
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0422
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0494
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0439
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0492
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0087
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0122
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0142
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0164
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0122
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0094
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0244
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0252
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0229
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0252
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0239
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0253
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0112
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0108
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0172
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0129
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0156
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0149
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0402
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0454
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0423
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0455
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0445
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0458
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0161
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0140
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0202
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0155
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0172
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0167
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0582
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0639
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0598
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0639
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0596
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0639
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0201
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0129
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0228
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0214
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0188
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0200
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0718
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0782
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0670
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0782
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0728
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0781
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0196
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0179
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0226
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0219
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0169
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0201
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0780
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0866
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0755
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0868
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0737
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0867
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0159
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0132
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0114
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0099
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0140
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0078
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0251
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0262
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0275
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0259
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0245
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0260
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0178
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0156
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0189
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0191
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0136
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0154
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0458
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0502
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0474
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0503
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0460
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0503
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0212
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0173
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0211
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0245
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0176
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0176
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0680
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0732
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0666
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0733
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0706
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0734
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0207
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0188
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0237
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0219
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0245
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0239
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0786
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0882
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0823
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0883
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0798
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0883
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.0221
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.0197
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.0282
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.0268
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.0228
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.0248
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.0900
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.0990
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.0935
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.1001
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.0921
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.0999
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0071
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0082
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0173
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0194
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0155
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0152
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0263
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0300
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0273
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0299
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0274
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0299
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0196
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0177
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0174
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0212
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0159
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0148
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0576
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0598
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0563
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0601
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0562
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0602
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0187
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0201
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0242
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0278
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0204
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0241
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0762
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0851
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0781
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0853
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0802
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0852
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.0291
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.0274
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.0273
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.0322
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.0235
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.0271
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.0934
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.1004
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.0916
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.1013
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.0929
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.1012
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.0265
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.0294
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.0343
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.0348
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.0255
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.0281
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.1006
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.1118
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.1022
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.1122
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.1029
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.1122
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0148
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0114
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0156
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0156
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0128
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0154
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0351
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0367
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0325
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0365
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0338
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0366
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0184
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0174
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0270
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0284
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0172
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0246
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0693
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0730
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0722
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0735
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0688
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0734
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.0161
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.0227
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.0293
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.0290
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.0236
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.0320
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.0955
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.1031
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.0941
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.1044
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.0949
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.1041
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.0250
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.0313
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.0371
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.0428
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.0268
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.0229
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.1084
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.1216
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.1116
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.1226
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.1103
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.1223
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, constant] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.0282
+--------------------------------------------------
+--- Running -sgd with [hinge, l1, adaptive] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.0309
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, constant] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.0390
+--------------------------------------------------
+--- Running -sgd with [hinge, l2, adaptive] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.0458
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, constant] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.0382
+--------------------------------------------------
+--- Running -sgd with [hinge, elasticnet, adaptive] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.0333
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, constant] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.1214
+--------------------------------------------------
+--- Running -sgd with [log_loss, l1, adaptive] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.1338
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, constant] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.1233
+--------------------------------------------------
+--- Running -sgd with [log_loss, l2, adaptive] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.1348
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, constant] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.1210
+--------------------------------------------------
+--- Running -sgd with [log_loss, elasticnet, adaptive] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.1347
+--------------------------------------------------

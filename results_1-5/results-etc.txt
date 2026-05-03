@@ -1,0 +1,600 @@
+--- Running -etc with [10, 5, 2] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0268
+--------------------------------------------------
+--- Running -etc with [10, 5, 5] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0269
+--------------------------------------------------
+--- Running -etc with [10, 10, 2] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0269
+--------------------------------------------------
+--- Running -etc with [10, 10, 5] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0266
+--------------------------------------------------
+--- Running -etc with [25, 5, 2] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0269
+--------------------------------------------------
+--- Running -etc with [25, 5, 5] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0269
+--------------------------------------------------
+--- Running -etc with [25, 10, 2] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0264
+--------------------------------------------------
+--- Running -etc with [25, 10, 5] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0266
+--------------------------------------------------
+--- Running -etc with [10, 5, 2] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0359
+--------------------------------------------------
+--- Running -etc with [10, 5, 5] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0371
+--------------------------------------------------
+--- Running -etc with [10, 10, 2] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0447
+--------------------------------------------------
+--- Running -etc with [10, 10, 5] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0444
+--------------------------------------------------
+--- Running -etc with [25, 5, 2] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0384
+--------------------------------------------------
+--- Running -etc with [25, 5, 5] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0387
+--------------------------------------------------
+--- Running -etc with [25, 10, 2] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0452
+--------------------------------------------------
+--- Running -etc with [25, 10, 5] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0452
+--------------------------------------------------
+--- Running -etc with [10, 5, 2] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0437
+--------------------------------------------------
+--- Running -etc with [10, 5, 5] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0398
+--------------------------------------------------
+--- Running -etc with [10, 10, 2] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0564
+--------------------------------------------------
+--- Running -etc with [10, 10, 5] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0598
+--------------------------------------------------
+--- Running -etc with [25, 5, 2] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0480
+--------------------------------------------------
+--- Running -etc with [25, 5, 5] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0491
+--------------------------------------------------
+--- Running -etc with [25, 10, 2] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0607
+--------------------------------------------------
+--- Running -etc with [25, 10, 5] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0612
+--------------------------------------------------
+--- Running -etc with [10, 5, 2] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0556
+--------------------------------------------------
+--- Running -etc with [10, 5, 5] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0562
+--------------------------------------------------
+--- Running -etc with [10, 10, 2] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0767
+--------------------------------------------------
+--- Running -etc with [10, 10, 5] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0791
+--------------------------------------------------
+--- Running -etc with [25, 5, 2] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0612
+--------------------------------------------------
+--- Running -etc with [25, 5, 5] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0632
+--------------------------------------------------
+--- Running -etc with [25, 10, 2] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0825
+--------------------------------------------------
+--- Running -etc with [25, 10, 5] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0828
+--------------------------------------------------
+--- Running -etc with [10, 5, 2] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0566
+--------------------------------------------------
+--- Running -etc with [10, 5, 5] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0584
+--------------------------------------------------
+--- Running -etc with [10, 10, 2] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0911
+--------------------------------------------------
+--- Running -etc with [10, 10, 5] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0914
+--------------------------------------------------
+--- Running -etc with [25, 5, 2] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0655
+--------------------------------------------------
+--- Running -etc with [25, 5, 5] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0689
+--------------------------------------------------
+--- Running -etc with [25, 10, 2] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0957
+--------------------------------------------------
+--- Running -etc with [25, 10, 5] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0990
+--------------------------------------------------
+--- Running -etc with [10, 5, 2] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0319
+--------------------------------------------------
+--- Running -etc with [10, 5, 5] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0310
+--------------------------------------------------
+--- Running -etc with [10, 10, 2] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0386
+--------------------------------------------------
+--- Running -etc with [10, 10, 5] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0387
+--------------------------------------------------
+--- Running -etc with [25, 5, 2] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0331
+--------------------------------------------------
+--- Running -etc with [25, 5, 5] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0330
+--------------------------------------------------
+--- Running -etc with [25, 10, 2] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0396
+--------------------------------------------------
+--- Running -etc with [25, 10, 5] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0386
+--------------------------------------------------
+--- Running -etc with [10, 5, 2] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0469
+--------------------------------------------------
+--- Running -etc with [10, 5, 5] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0463
+--------------------------------------------------
+--- Running -etc with [10, 10, 2] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0740
+--------------------------------------------------
+--- Running -etc with [10, 10, 5] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0724
+--------------------------------------------------
+--- Running -etc with [25, 5, 2] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0554
+--------------------------------------------------
+--- Running -etc with [25, 5, 5] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0538
+--------------------------------------------------
+--- Running -etc with [25, 10, 2] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0767
+--------------------------------------------------
+--- Running -etc with [25, 10, 5] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0758
+--------------------------------------------------
+--- Running -etc with [10, 5, 2] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0602
+--------------------------------------------------
+--- Running -etc with [10, 5, 5] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0632
+--------------------------------------------------
+--- Running -etc with [10, 10, 2] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0905
+--------------------------------------------------
+--- Running -etc with [10, 10, 5] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0888
+--------------------------------------------------
+--- Running -etc with [25, 5, 2] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0660
+--------------------------------------------------
+--- Running -etc with [25, 5, 5] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0673
+--------------------------------------------------
+--- Running -etc with [25, 10, 2] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0969
+--------------------------------------------------
+--- Running -etc with [25, 10, 5] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0990
+--------------------------------------------------
+--- Running -etc with [10, 5, 2] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0624
+--------------------------------------------------
+--- Running -etc with [10, 5, 5] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0584
+--------------------------------------------------
+--- Running -etc with [10, 10, 2] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0968
+--------------------------------------------------
+--- Running -etc with [10, 10, 5] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.1054
+--------------------------------------------------
+--- Running -etc with [25, 5, 2] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0839
+--------------------------------------------------
+--- Running -etc with [25, 5, 5] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.0717
+--------------------------------------------------
+--- Running -etc with [25, 10, 2] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.1147
+--------------------------------------------------
+--- Running -etc with [25, 10, 5] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.1154
+--------------------------------------------------
+--- Running -etc with [10, 5, 2] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0717
+--------------------------------------------------
+--- Running -etc with [10, 5, 5] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0738
+--------------------------------------------------
+--- Running -etc with [10, 10, 2] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.1224
+--------------------------------------------------
+--- Running -etc with [10, 10, 5] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.1222
+--------------------------------------------------
+--- Running -etc with [25, 5, 2] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0903
+--------------------------------------------------
+--- Running -etc with [25, 5, 5] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.0909
+--------------------------------------------------
+--- Running -etc with [25, 10, 2] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.1342
+--------------------------------------------------
+--- Running -etc with [25, 10, 5] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.1390
+--------------------------------------------------
+--- Running -etc with [10, 5, 2] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0310
+--------------------------------------------------
+--- Running -etc with [10, 5, 5] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0324
+--------------------------------------------------
+--- Running -etc with [10, 10, 2] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0412
+--------------------------------------------------
+--- Running -etc with [10, 10, 5] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0410
+--------------------------------------------------
+--- Running -etc with [25, 5, 2] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0318
+--------------------------------------------------
+--- Running -etc with [25, 5, 5] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0323
+--------------------------------------------------
+--- Running -etc with [25, 10, 2] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0432
+--------------------------------------------------
+--- Running -etc with [25, 10, 5] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0433
+--------------------------------------------------
+--- Running -etc with [10, 5, 2] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0506
+--------------------------------------------------
+--- Running -etc with [10, 5, 5] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0504
+--------------------------------------------------
+--- Running -etc with [10, 10, 2] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0748
+--------------------------------------------------
+--- Running -etc with [10, 10, 5] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0793
+--------------------------------------------------
+--- Running -etc with [25, 5, 2] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0580
+--------------------------------------------------
+--- Running -etc with [25, 5, 5] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0553
+--------------------------------------------------
+--- Running -etc with [25, 10, 2] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0815
+--------------------------------------------------
+--- Running -etc with [25, 10, 5] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0799
+--------------------------------------------------
+--- Running -etc with [10, 5, 2] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0598
+--------------------------------------------------
+--- Running -etc with [10, 5, 5] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0697
+--------------------------------------------------
+--- Running -etc with [10, 10, 2] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.1072
+--------------------------------------------------
+--- Running -etc with [10, 10, 5] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.1025
+--------------------------------------------------
+--- Running -etc with [25, 5, 2] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0763
+--------------------------------------------------
+--- Running -etc with [25, 5, 5] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.0740
+--------------------------------------------------
+--- Running -etc with [25, 10, 2] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.1178
+--------------------------------------------------
+--- Running -etc with [25, 10, 5] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.1191
+--------------------------------------------------
+--- Running -etc with [10, 5, 2] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0681
+--------------------------------------------------
+--- Running -etc with [10, 5, 5] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0734
+--------------------------------------------------
+--- Running -etc with [10, 10, 2] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.1163
+--------------------------------------------------
+--- Running -etc with [10, 10, 5] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.1130
+--------------------------------------------------
+--- Running -etc with [25, 5, 2] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0865
+--------------------------------------------------
+--- Running -etc with [25, 5, 5] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.0847
+--------------------------------------------------
+--- Running -etc with [25, 10, 2] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.1303
+--------------------------------------------------
+--- Running -etc with [25, 10, 5] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.1358
+--------------------------------------------------
+--- Running -etc with [10, 5, 2] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.0784
+--------------------------------------------------
+--- Running -etc with [10, 5, 5] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.0671
+--------------------------------------------------
+--- Running -etc with [10, 10, 2] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.1155
+--------------------------------------------------
+--- Running -etc with [10, 10, 5] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.1226
+--------------------------------------------------
+--- Running -etc with [25, 5, 2] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.0924
+--------------------------------------------------
+--- Running -etc with [25, 5, 5] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.0915
+--------------------------------------------------
+--- Running -etc with [25, 10, 2] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.1426
+--------------------------------------------------
+--- Running -etc with [25, 10, 5] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.1375
+--------------------------------------------------
+--- Running -etc with [10, 5, 2] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0409
+--------------------------------------------------
+--- Running -etc with [10, 5, 5] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0414
+--------------------------------------------------
+--- Running -etc with [10, 10, 2] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0594
+--------------------------------------------------
+--- Running -etc with [10, 10, 5] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0577
+--------------------------------------------------
+--- Running -etc with [25, 5, 2] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0451
+--------------------------------------------------
+--- Running -etc with [25, 5, 5] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0442
+--------------------------------------------------
+--- Running -etc with [25, 10, 2] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0614
+--------------------------------------------------
+--- Running -etc with [25, 10, 5] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0594
+--------------------------------------------------
+--- Running -etc with [10, 5, 2] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0594
+--------------------------------------------------
+--- Running -etc with [10, 5, 5] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0603
+--------------------------------------------------
+--- Running -etc with [10, 10, 2] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0882
+--------------------------------------------------
+--- Running -etc with [10, 10, 5] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0849
+--------------------------------------------------
+--- Running -etc with [25, 5, 2] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0596
+--------------------------------------------------
+--- Running -etc with [25, 5, 5] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0634
+--------------------------------------------------
+--- Running -etc with [25, 10, 2] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0997
+--------------------------------------------------
+--- Running -etc with [25, 10, 5] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0951
+--------------------------------------------------
+--- Running -etc with [10, 5, 2] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0665
+--------------------------------------------------
+--- Running -etc with [10, 5, 5] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0701
+--------------------------------------------------
+--- Running -etc with [10, 10, 2] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.1113
+--------------------------------------------------
+--- Running -etc with [10, 10, 5] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.1145
+--------------------------------------------------
+--- Running -etc with [25, 5, 2] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0800
+--------------------------------------------------
+--- Running -etc with [25, 5, 5] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.0823
+--------------------------------------------------
+--- Running -etc with [25, 10, 2] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.1282
+--------------------------------------------------
+--- Running -etc with [25, 10, 5] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.1294
+--------------------------------------------------
+--- Running -etc with [10, 5, 2] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.0772
+--------------------------------------------------
+--- Running -etc with [10, 5, 5] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.0761
+--------------------------------------------------
+--- Running -etc with [10, 10, 2] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.1343
+--------------------------------------------------
+--- Running -etc with [10, 10, 5] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.1297
+--------------------------------------------------
+--- Running -etc with [25, 5, 2] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.0915
+--------------------------------------------------
+--- Running -etc with [25, 5, 5] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.0941
+--------------------------------------------------
+--- Running -etc with [25, 10, 2] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.1543
+--------------------------------------------------
+--- Running -etc with [25, 10, 5] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.1544
+--------------------------------------------------
+--- Running -etc with [10, 5, 2] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.0785
+--------------------------------------------------
+--- Running -etc with [10, 5, 5] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.0786
+--------------------------------------------------
+--- Running -etc with [10, 10, 2] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.1342
+--------------------------------------------------
+--- Running -etc with [10, 10, 5] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.1438
+--------------------------------------------------
+--- Running -etc with [25, 5, 2] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.0999
+--------------------------------------------------
+--- Running -etc with [25, 5, 5] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.1017
+--------------------------------------------------
+--- Running -etc with [25, 10, 2] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.1598
+--------------------------------------------------
+--- Running -etc with [25, 10, 5] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.1642
+--------------------------------------------------
+--- Running -etc with [10, 5, 2] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0472
+--------------------------------------------------
+--- Running -etc with [10, 5, 5] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0430
+--------------------------------------------------
+--- Running -etc with [10, 10, 2] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0649
+--------------------------------------------------
+--- Running -etc with [10, 10, 5] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0628
+--------------------------------------------------
+--- Running -etc with [25, 5, 2] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0493
+--------------------------------------------------
+--- Running -etc with [25, 5, 5] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0494
+--------------------------------------------------
+--- Running -etc with [25, 10, 2] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0679
+--------------------------------------------------
+--- Running -etc with [25, 10, 5] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0699
+--------------------------------------------------
+--- Running -etc with [10, 5, 2] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0673
+--------------------------------------------------
+--- Running -etc with [10, 5, 5] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0696
+--------------------------------------------------
+--- Running -etc with [10, 10, 2] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.1066
+--------------------------------------------------
+--- Running -etc with [10, 10, 5] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.1094
+--------------------------------------------------
+--- Running -etc with [25, 5, 2] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0769
+--------------------------------------------------
+--- Running -etc with [25, 5, 5] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.0799
+--------------------------------------------------
+--- Running -etc with [25, 10, 2] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.1218
+--------------------------------------------------
+--- Running -etc with [25, 10, 5] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.1212
+--------------------------------------------------
+--- Running -etc with [10, 5, 2] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.0747
+--------------------------------------------------
+--- Running -etc with [10, 5, 5] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.0784
+--------------------------------------------------
+--- Running -etc with [10, 10, 2] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.1224
+--------------------------------------------------
+--- Running -etc with [10, 10, 5] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.1188
+--------------------------------------------------
+--- Running -etc with [25, 5, 2] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.0952
+--------------------------------------------------
+--- Running -etc with [25, 5, 5] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.0969
+--------------------------------------------------
+--- Running -etc with [25, 10, 2] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.1493
+--------------------------------------------------
+--- Running -etc with [25, 10, 5] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.1445
+--------------------------------------------------
+--- Running -etc with [10, 5, 2] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.0805
+--------------------------------------------------
+--- Running -etc with [10, 5, 5] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.0821
+--------------------------------------------------
+--- Running -etc with [10, 10, 2] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.1426
+--------------------------------------------------
+--- Running -etc with [10, 10, 5] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.1488
+--------------------------------------------------
+--- Running -etc with [25, 5, 2] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.1046
+--------------------------------------------------
+--- Running -etc with [25, 5, 5] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.1095
+--------------------------------------------------
+--- Running -etc with [25, 10, 2] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.1718
+--------------------------------------------------
+--- Running -etc with [25, 10, 5] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.1733
+--------------------------------------------------
+--- Running -etc with [10, 5, 2] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.0946
+--------------------------------------------------
+--- Running -etc with [10, 5, 5] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.0973
+--------------------------------------------------
+--- Running -etc with [10, 10, 2] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.1584
+--------------------------------------------------
+--- Running -etc with [10, 10, 5] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.1487
+--------------------------------------------------
+--- Running -etc with [25, 5, 2] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.1198
+--------------------------------------------------
+--- Running -etc with [25, 5, 5] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.1196
+--------------------------------------------------
+--- Running -etc with [25, 10, 2] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.1896
+--------------------------------------------------
+--- Running -etc with [25, 10, 5] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.1857
+--------------------------------------------------

@@ -1,0 +1,1824 @@
+--- Running -knn with [1, uniform, euclidean] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.1039
+ERROR: -knn [1, uniform, euclidean] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.1032
+ERROR: -knn [1, uniform, manhattan] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.1039
+ERROR: -knn [1, distance, euclidean] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.1032
+ERROR: -knn [1, distance, manhattan] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.1110
+ERROR: -knn [5, uniform, euclidean] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.1135
+ERROR: -knn [5, uniform, manhattan] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.1182
+ERROR: -knn [5, distance, euclidean] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.1208
+ERROR: -knn [5, distance, manhattan] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.1346
+ERROR: -knn [21, uniform, euclidean] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.1376
+ERROR: -knn [21, uniform, manhattan] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.1396
+ERROR: -knn [21, distance, euclidean] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.1426
+ERROR: -knn [21, distance, manhattan] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.3335
+ERROR: -knn [1, uniform, euclidean] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.3142
+ERROR: -knn [1, uniform, manhattan] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.3335
+ERROR: -knn [1, distance, euclidean] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.3142
+ERROR: -knn [1, distance, manhattan] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.3318
+ERROR: -knn [5, uniform, euclidean] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.3127
+ERROR: -knn [5, uniform, manhattan] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.3554
+ERROR: -knn [5, distance, euclidean] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.3340
+ERROR: -knn [5, distance, manhattan] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.3351
+ERROR: -knn [21, uniform, euclidean] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.3032
+ERROR: -knn [21, uniform, manhattan] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.3487
+ERROR: -knn [21, distance, euclidean] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.3180
+ERROR: -knn [21, distance, manhattan] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.2199
+ERROR: -knn [1, uniform, euclidean] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.2221
+ERROR: -knn [1, uniform, manhattan] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.2199
+ERROR: -knn [1, distance, euclidean] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.2221
+ERROR: -knn [1, distance, manhattan] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.2335
+ERROR: -knn [5, uniform, euclidean] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.2402
+ERROR: -knn [5, uniform, manhattan] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.2463
+ERROR: -knn [5, distance, euclidean] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.2538
+ERROR: -knn [5, distance, manhattan] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.2571
+ERROR: -knn [21, uniform, euclidean] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.2648
+ERROR: -knn [21, uniform, manhattan] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.2673
+ERROR: -knn [21, distance, euclidean] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.2748
+ERROR: -knn [21, distance, manhattan] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.2821
+ERROR: -knn [1, uniform, euclidean] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.2832
+ERROR: -knn [1, uniform, manhattan] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.2821
+ERROR: -knn [1, distance, euclidean] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.2832
+ERROR: -knn [1, distance, manhattan] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.2919
+ERROR: -knn [5, uniform, euclidean] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.2983
+ERROR: -knn [5, uniform, manhattan] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.3112
+ERROR: -knn [5, distance, euclidean] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.3157
+ERROR: -knn [5, distance, manhattan] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.3095
+ERROR: -knn [21, uniform, euclidean] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.3165
+ERROR: -knn [21, uniform, manhattan] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.3216
+ERROR: -knn [21, distance, euclidean] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.3276
+ERROR: -knn [21, distance, manhattan] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.3142
+ERROR: -knn [1, uniform, euclidean] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.3107
+ERROR: -knn [1, uniform, manhattan] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.3142
+ERROR: -knn [1, distance, euclidean] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.3107
+ERROR: -knn [1, distance, manhattan] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.3257
+ERROR: -knn [5, uniform, euclidean] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.3238
+ERROR: -knn [5, uniform, manhattan] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.3439
+ERROR: -knn [5, distance, euclidean] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.3418
+ERROR: -knn [5, distance, manhattan] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.3392
+ERROR: -knn [21, uniform, euclidean] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.3356
+ERROR: -knn [21, uniform, manhattan] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.3511
+ERROR: -knn [21, distance, euclidean] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.3479
+ERROR: -knn [21, distance, manhattan] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.3326
+ERROR: -knn [1, uniform, euclidean] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.3250
+ERROR: -knn [1, uniform, manhattan] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.3326
+ERROR: -knn [1, distance, euclidean] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.3250
+ERROR: -knn [1, distance, manhattan] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.3408
+ERROR: -knn [5, uniform, euclidean] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.3325
+ERROR: -knn [5, uniform, manhattan] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.3607
+ERROR: -knn [5, distance, euclidean] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.3524
+ERROR: -knn [5, distance, manhattan] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.3529
+ERROR: -knn [21, uniform, euclidean] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.3402
+ERROR: -knn [21, uniform, manhattan] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.3660
+ERROR: -knn [21, distance, euclidean] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.3539
+ERROR: -knn [21, distance, manhattan] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.3439
+ERROR: -knn [1, uniform, euclidean] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.3296
+ERROR: -knn [1, uniform, manhattan] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.3439
+ERROR: -knn [1, distance, euclidean] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.3296
+ERROR: -knn [1, distance, manhattan] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.3514
+ERROR: -knn [5, uniform, euclidean] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.3380
+ERROR: -knn [5, uniform, manhattan] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.3721
+ERROR: -knn [5, distance, euclidean] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.3577
+ERROR: -knn [5, distance, manhattan] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.3584
+ERROR: -knn [21, uniform, euclidean] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.3388
+ERROR: -knn [21, uniform, manhattan] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.3724
+ERROR: -knn [21, distance, euclidean] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.3533
+ERROR: -knn [21, distance, manhattan] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.3486
+ERROR: -knn [1, uniform, euclidean] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.3329
+ERROR: -knn [1, uniform, manhattan] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.3486
+ERROR: -knn [1, distance, euclidean] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.3329
+ERROR: -knn [1, distance, manhattan] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.3532
+ERROR: -knn [5, uniform, euclidean] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.3365
+ERROR: -knn [5, uniform, manhattan] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.3753
+ERROR: -knn [5, distance, euclidean] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.3575
+ERROR: -knn [5, distance, manhattan] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.3599
+ERROR: -knn [21, uniform, euclidean] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.3337
+ERROR: -knn [21, uniform, manhattan] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.3736
+ERROR: -knn [21, distance, euclidean] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.3471
+ERROR: -knn [21, distance, manhattan] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.3446
+ERROR: -knn [1, uniform, euclidean] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.3257
+ERROR: -knn [1, uniform, manhattan] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.3446
+ERROR: -knn [1, distance, euclidean] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.3257
+ERROR: -knn [1, distance, manhattan] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.3482
+ERROR: -knn [5, uniform, euclidean] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.3287
+ERROR: -knn [5, uniform, manhattan] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.3702
+ERROR: -knn [5, distance, euclidean] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.3493
+ERROR: -knn [5, distance, manhattan] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.3516
+ERROR: -knn [21, uniform, euclidean] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.3236
+ERROR: -knn [21, uniform, manhattan] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.3653
+ERROR: -knn [21, distance, euclidean] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.3375
+ERROR: -knn [21, distance, manhattan] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.3420
+ERROR: -knn [1, uniform, euclidean] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.3205
+ERROR: -knn [1, uniform, manhattan] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.3420
+ERROR: -knn [1, distance, euclidean] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.3205
+ERROR: -knn [1, distance, manhattan] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.3436
+ERROR: -knn [5, uniform, euclidean] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.3184
+ERROR: -knn [5, uniform, manhattan] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.3662
+ERROR: -knn [5, distance, euclidean] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.3407
+ERROR: -knn [5, distance, manhattan] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.3451
+ERROR: -knn [21, uniform, euclidean] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.3112
+ERROR: -knn [21, uniform, manhattan] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.3596
+ERROR: -knn [21, distance, euclidean] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.3257
+ERROR: -knn [21, distance, manhattan] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0169
+ERROR: -knn [1, uniform, euclidean] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0132
+ERROR: -knn [1, uniform, manhattan] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0169
+ERROR: -knn [1, distance, euclidean] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0132
+ERROR: -knn [1, distance, manhattan] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0166
+ERROR: -knn [5, uniform, euclidean] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0163
+ERROR: -knn [5, uniform, manhattan] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0166
+ERROR: -knn [5, distance, euclidean] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0163
+ERROR: -knn [5, distance, manhattan] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0193
+ERROR: -knn [21, uniform, euclidean] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0193
+ERROR: -knn [21, uniform, manhattan] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0192
+ERROR: -knn [21, distance, euclidean] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0192
+ERROR: -knn [21, distance, manhattan] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.1269
+ERROR: -knn [1, uniform, euclidean] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.1252
+ERROR: -knn [1, uniform, manhattan] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.1269
+ERROR: -knn [1, distance, euclidean] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.1252
+ERROR: -knn [1, distance, manhattan] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.1390
+ERROR: -knn [5, uniform, euclidean] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.1419
+ERROR: -knn [5, uniform, manhattan] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.1487
+ERROR: -knn [5, distance, euclidean] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.1515
+ERROR: -knn [5, distance, manhattan] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.1689
+ERROR: -knn [21, uniform, euclidean] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.1744
+ERROR: -knn [21, uniform, manhattan] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.1762
+ERROR: -knn [21, distance, euclidean] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.1808
+ERROR: -knn [21, distance, manhattan] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0217
+ERROR: -knn [1, uniform, euclidean] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0220
+ERROR: -knn [1, uniform, manhattan] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0217
+ERROR: -knn [1, distance, euclidean] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0220
+ERROR: -knn [1, distance, manhattan] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0238
+ERROR: -knn [5, uniform, euclidean] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0237
+ERROR: -knn [5, uniform, manhattan] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0254
+ERROR: -knn [5, distance, euclidean] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0255
+ERROR: -knn [5, distance, manhattan] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0297
+ERROR: -knn [21, uniform, euclidean] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0301
+ERROR: -knn [21, uniform, manhattan] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0280
+ERROR: -knn [21, distance, euclidean] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0278
+ERROR: -knn [21, distance, manhattan] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0280
+ERROR: -knn [1, uniform, euclidean] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0289
+ERROR: -knn [1, uniform, manhattan] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0280
+ERROR: -knn [1, distance, euclidean] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0289
+ERROR: -knn [1, distance, manhattan] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0331
+ERROR: -knn [5, uniform, euclidean] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0330
+ERROR: -knn [5, uniform, manhattan] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0341
+ERROR: -knn [5, distance, euclidean] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0341
+ERROR: -knn [5, distance, manhattan] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0486
+ERROR: -knn [21, uniform, euclidean] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0485
+ERROR: -knn [21, uniform, manhattan] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0437
+ERROR: -knn [21, distance, euclidean] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0434
+ERROR: -knn [21, distance, manhattan] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0461
+ERROR: -knn [1, uniform, euclidean] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0435
+ERROR: -knn [1, uniform, manhattan] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0461
+ERROR: -knn [1, distance, euclidean] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0435
+ERROR: -knn [1, distance, manhattan] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0514
+ERROR: -knn [5, uniform, euclidean] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0515
+ERROR: -knn [5, uniform, manhattan] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0523
+ERROR: -knn [5, distance, euclidean] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0525
+ERROR: -knn [5, distance, manhattan] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0729
+ERROR: -knn [21, uniform, euclidean] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0741
+ERROR: -knn [21, uniform, manhattan] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0706
+ERROR: -knn [21, distance, euclidean] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0710
+ERROR: -knn [21, distance, manhattan] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0633
+ERROR: -knn [1, uniform, euclidean] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0607
+ERROR: -knn [1, uniform, manhattan] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0633
+ERROR: -knn [1, distance, euclidean] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0607
+ERROR: -knn [1, distance, manhattan] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0719
+ERROR: -knn [5, uniform, euclidean] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0726
+ERROR: -knn [5, uniform, manhattan] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0743
+ERROR: -knn [5, distance, euclidean] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0746
+ERROR: -knn [5, distance, manhattan] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.1019
+ERROR: -knn [21, uniform, euclidean] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.1032
+ERROR: -knn [21, uniform, manhattan] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.1020
+ERROR: -knn [21, distance, euclidean] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.1026
+ERROR: -knn [21, distance, manhattan] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0842
+ERROR: -knn [1, uniform, euclidean] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0811
+ERROR: -knn [1, uniform, manhattan] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0842
+ERROR: -knn [1, distance, euclidean] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0811
+ERROR: -knn [1, distance, manhattan] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0936
+ERROR: -knn [5, uniform, euclidean] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0955
+ERROR: -knn [5, uniform, manhattan] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0993
+ERROR: -knn [5, distance, euclidean] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.1006
+ERROR: -knn [5, distance, manhattan] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.1273
+ERROR: -knn [21, uniform, euclidean] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.1297
+ERROR: -knn [21, uniform, manhattan] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.1294
+ERROR: -knn [21, distance, euclidean] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.1319
+ERROR: -knn [21, distance, manhattan] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.1005
+ERROR: -knn [1, uniform, euclidean] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0994
+ERROR: -knn [1, uniform, manhattan] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.1005
+ERROR: -knn [1, distance, euclidean] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0994
+ERROR: -knn [1, distance, manhattan] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.1152
+ERROR: -knn [5, uniform, euclidean] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.1171
+ERROR: -knn [5, uniform, manhattan] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.1212
+ERROR: -knn [5, distance, euclidean] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.1222
+ERROR: -knn [5, distance, manhattan] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.1485
+ERROR: -knn [21, uniform, euclidean] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.1508
+ERROR: -knn [21, uniform, manhattan] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.1510
+ERROR: -knn [21, distance, euclidean] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.1536
+ERROR: -knn [21, distance, manhattan] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.1136
+ERROR: -knn [1, uniform, euclidean] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.1120
+ERROR: -knn [1, uniform, manhattan] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.1136
+ERROR: -knn [1, distance, euclidean] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.1120
+ERROR: -knn [1, distance, manhattan] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.1262
+ERROR: -knn [5, uniform, euclidean] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.1289
+ERROR: -knn [5, uniform, manhattan] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.1338
+ERROR: -knn [5, distance, euclidean] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.1369
+ERROR: -knn [5, distance, manhattan] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.1601
+ERROR: -knn [21, uniform, euclidean] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.1627
+ERROR: -knn [21, uniform, manhattan] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.1646
+ERROR: -knn [21, distance, euclidean] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.1675
+ERROR: -knn [21, distance, manhattan] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.1250
+ERROR: -knn [1, uniform, euclidean] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.1238
+ERROR: -knn [1, uniform, manhattan] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.1250
+ERROR: -knn [1, distance, euclidean] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.1238
+ERROR: -knn [1, distance, manhattan] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.1396
+ERROR: -knn [5, uniform, euclidean] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.1419
+ERROR: -knn [5, uniform, manhattan] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.1487
+ERROR: -knn [5, distance, euclidean] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.1507
+ERROR: -knn [5, distance, manhattan] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.1707
+ERROR: -knn [21, uniform, euclidean] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.1760
+ERROR: -knn [21, uniform, manhattan] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.1761
+ERROR: -knn [21, distance, euclidean] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.1814
+ERROR: -knn [21, distance, manhattan] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0190
+ERROR: -knn [1, uniform, euclidean] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0191
+ERROR: -knn [1, uniform, manhattan] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0190
+ERROR: -knn [1, distance, euclidean] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0191
+ERROR: -knn [1, distance, manhattan] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0226
+ERROR: -knn [5, uniform, euclidean] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0217
+ERROR: -knn [5, uniform, manhattan] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0234
+ERROR: -knn [5, distance, euclidean] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0228
+ERROR: -knn [5, distance, manhattan] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0266
+ERROR: -knn [21, uniform, euclidean] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0274
+ERROR: -knn [21, uniform, manhattan] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0249
+ERROR: -knn [21, distance, euclidean] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0254
+ERROR: -knn [21, distance, manhattan] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.2189
+ERROR: -knn [1, uniform, euclidean] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.2248
+ERROR: -knn [1, uniform, manhattan] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.2189
+ERROR: -knn [1, distance, euclidean] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.2248
+ERROR: -knn [1, distance, manhattan] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.2315
+ERROR: -knn [5, uniform, euclidean] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.2429
+ERROR: -knn [5, uniform, manhattan] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.2472
+ERROR: -knn [5, distance, euclidean] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.2584
+ERROR: -knn [5, distance, manhattan] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.2519
+ERROR: -knn [21, uniform, euclidean] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.2633
+ERROR: -knn [21, uniform, manhattan] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.2623
+ERROR: -knn [21, distance, euclidean] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.2732
+ERROR: -knn [21, distance, manhattan] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0404
+ERROR: -knn [1, uniform, euclidean] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0377
+ERROR: -knn [1, uniform, manhattan] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0404
+ERROR: -knn [1, distance, euclidean] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0377
+ERROR: -knn [1, distance, manhattan] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0455
+ERROR: -knn [5, uniform, euclidean] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0462
+ERROR: -knn [5, uniform, manhattan] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0448
+ERROR: -knn [5, distance, euclidean] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0455
+ERROR: -knn [5, distance, manhattan] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0649
+ERROR: -knn [21, uniform, euclidean] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0652
+ERROR: -knn [21, uniform, manhattan] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0604
+ERROR: -knn [21, distance, euclidean] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0609
+ERROR: -knn [21, distance, manhattan] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0712
+ERROR: -knn [1, uniform, euclidean] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0691
+ERROR: -knn [1, uniform, manhattan] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0712
+ERROR: -knn [1, distance, euclidean] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0691
+ERROR: -knn [1, distance, manhattan] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0814
+ERROR: -knn [5, uniform, euclidean] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0820
+ERROR: -knn [5, uniform, manhattan] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0840
+ERROR: -knn [5, distance, euclidean] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0850
+ERROR: -knn [5, distance, manhattan] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.1102
+ERROR: -knn [21, uniform, euclidean] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.1130
+ERROR: -knn [21, uniform, manhattan] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.1109
+ERROR: -knn [21, distance, euclidean] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.1135
+ERROR: -knn [21, distance, manhattan] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.1101
+ERROR: -knn [1, uniform, euclidean] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.1094
+ERROR: -knn [1, uniform, manhattan] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.1101
+ERROR: -knn [1, distance, euclidean] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.1094
+ERROR: -knn [1, distance, manhattan] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.1254
+ERROR: -knn [5, uniform, euclidean] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.1279
+ERROR: -knn [5, uniform, manhattan] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.1308
+ERROR: -knn [5, distance, euclidean] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.1333
+ERROR: -knn [5, distance, manhattan] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.1593
+ERROR: -knn [21, uniform, euclidean] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.1638
+ERROR: -knn [21, uniform, manhattan] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.1625
+ERROR: -knn [21, distance, euclidean] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.1666
+ERROR: -knn [21, distance, manhattan] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.1464
+ERROR: -knn [1, uniform, euclidean] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.1470
+ERROR: -knn [1, uniform, manhattan] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.1464
+ERROR: -knn [1, distance, euclidean] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.1470
+ERROR: -knn [1, distance, manhattan] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.1648
+ERROR: -knn [5, uniform, euclidean] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.1682
+ERROR: -knn [5, uniform, manhattan] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.1744
+ERROR: -knn [5, distance, euclidean] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.1778
+ERROR: -knn [5, distance, manhattan] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.1992
+ERROR: -knn [21, uniform, euclidean] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.2051
+ERROR: -knn [21, uniform, manhattan] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.2049
+ERROR: -knn [21, distance, euclidean] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.2110
+ERROR: -knn [21, distance, manhattan] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.1791
+ERROR: -knn [1, uniform, euclidean] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.1797
+ERROR: -knn [1, uniform, manhattan] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.1791
+ERROR: -knn [1, distance, euclidean] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.1797
+ERROR: -knn [1, distance, manhattan] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.1971
+ERROR: -knn [5, uniform, euclidean] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.2029
+ERROR: -knn [5, uniform, manhattan] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.2087
+ERROR: -knn [5, distance, euclidean] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.2142
+ERROR: -knn [5, distance, manhattan] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.2292
+ERROR: -knn [21, uniform, euclidean] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.2353
+ERROR: -knn [21, uniform, manhattan] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.2361
+ERROR: -knn [21, distance, euclidean] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.2434
+ERROR: -knn [21, distance, manhattan] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.2023
+ERROR: -knn [1, uniform, euclidean] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.2041
+ERROR: -knn [1, uniform, manhattan] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.2023
+ERROR: -knn [1, distance, euclidean] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.2041
+ERROR: -knn [1, distance, manhattan] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.2187
+ERROR: -knn [5, uniform, euclidean] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.2252
+ERROR: -knn [5, uniform, manhattan] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.2325
+ERROR: -knn [5, distance, euclidean] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.2388
+ERROR: -knn [5, distance, manhattan] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.2465
+ERROR: -knn [21, uniform, euclidean] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.2564
+ERROR: -knn [21, uniform, manhattan] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.2556
+ERROR: -knn [21, distance, euclidean] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.2656
+ERROR: -knn [21, distance, manhattan] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.2107
+ERROR: -knn [1, uniform, euclidean] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.2131
+ERROR: -knn [1, uniform, manhattan] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.2107
+ERROR: -knn [1, distance, euclidean] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.2131
+ERROR: -knn [1, distance, manhattan] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.2271
+ERROR: -knn [5, uniform, euclidean] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.2344
+ERROR: -knn [5, uniform, manhattan] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.2412
+ERROR: -knn [5, distance, euclidean] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.2494
+ERROR: -knn [5, distance, manhattan] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.2526
+ERROR: -knn [21, uniform, euclidean] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.2617
+ERROR: -knn [21, uniform, manhattan] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.2615
+ERROR: -knn [21, distance, euclidean] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.2706
+ERROR: -knn [21, distance, manhattan] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.2223
+ERROR: -knn [1, uniform, euclidean] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.2265
+ERROR: -knn [1, uniform, manhattan] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.2223
+ERROR: -knn [1, distance, euclidean] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.2265
+ERROR: -knn [1, distance, manhattan] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.2346
+ERROR: -knn [5, uniform, euclidean] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.2440
+ERROR: -knn [5, uniform, manhattan] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.2507
+ERROR: -knn [5, distance, euclidean] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.2604
+ERROR: -knn [5, distance, manhattan] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.2568
+ERROR: -knn [21, uniform, euclidean] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.2682
+ERROR: -knn [21, uniform, manhattan] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.2666
+ERROR: -knn [21, distance, euclidean] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.2779
+ERROR: -knn [21, distance, manhattan] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0248
+ERROR: -knn [1, uniform, euclidean] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0253
+ERROR: -knn [1, uniform, manhattan] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0248
+ERROR: -knn [1, distance, euclidean] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0253
+ERROR: -knn [1, distance, manhattan] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0280
+ERROR: -knn [5, uniform, euclidean] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0282
+ERROR: -knn [5, uniform, manhattan] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0298
+ERROR: -knn [5, distance, euclidean] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0298
+ERROR: -knn [5, distance, manhattan] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0356
+ERROR: -knn [21, uniform, euclidean] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0361
+ERROR: -knn [21, uniform, manhattan] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0339
+ERROR: -knn [21, distance, euclidean] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0342
+ERROR: -knn [21, distance, manhattan] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.2276
+ERROR: -knn [1, uniform, euclidean] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.2269
+ERROR: -knn [1, uniform, manhattan] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.2276
+ERROR: -knn [1, distance, euclidean] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.2269
+ERROR: -knn [1, distance, manhattan] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.2352
+ERROR: -knn [5, uniform, euclidean] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.2395
+ERROR: -knn [5, uniform, manhattan] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.2523
+ERROR: -knn [5, distance, euclidean] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.2559
+ERROR: -knn [5, distance, manhattan] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.2539
+ERROR: -knn [21, uniform, euclidean] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.2569
+ERROR: -knn [21, uniform, manhattan] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.2646
+ERROR: -knn [21, distance, euclidean] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.2682
+ERROR: -knn [21, distance, manhattan] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0615
+ERROR: -knn [1, uniform, euclidean] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0590
+ERROR: -knn [1, uniform, manhattan] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0615
+ERROR: -knn [1, distance, euclidean] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0590
+ERROR: -knn [1, distance, manhattan] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0663
+ERROR: -knn [5, uniform, euclidean] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0681
+ERROR: -knn [5, uniform, manhattan] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0694
+ERROR: -knn [5, distance, euclidean] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0706
+ERROR: -knn [5, distance, manhattan] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0881
+ERROR: -knn [21, uniform, euclidean] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0905
+ERROR: -knn [21, uniform, manhattan] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0872
+ERROR: -knn [21, distance, euclidean] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0894
+ERROR: -knn [21, distance, manhattan] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.1034
+ERROR: -knn [1, uniform, euclidean] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.1024
+ERROR: -knn [1, uniform, manhattan] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.1034
+ERROR: -knn [1, distance, euclidean] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.1024
+ERROR: -knn [1, distance, manhattan] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.1140
+ERROR: -knn [5, uniform, euclidean] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.1169
+ERROR: -knn [5, uniform, manhattan] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.1205
+ERROR: -knn [5, distance, euclidean] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.1232
+ERROR: -knn [5, distance, manhattan] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.1426
+ERROR: -knn [21, uniform, euclidean] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.1478
+ERROR: -knn [21, uniform, manhattan] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.1456
+ERROR: -knn [21, distance, euclidean] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.1504
+ERROR: -knn [21, distance, manhattan] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.1443
+ERROR: -knn [1, uniform, euclidean] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.1438
+ERROR: -knn [1, uniform, manhattan] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.1443
+ERROR: -knn [1, distance, euclidean] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.1438
+ERROR: -knn [1, distance, manhattan] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.1571
+ERROR: -knn [5, uniform, euclidean] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.1606
+ERROR: -knn [5, uniform, manhattan] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.1672
+ERROR: -knn [5, distance, euclidean] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.1694
+ERROR: -knn [5, distance, manhattan] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.1870
+ERROR: -knn [21, uniform, euclidean] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.1926
+ERROR: -knn [21, uniform, manhattan] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.1928
+ERROR: -knn [21, distance, euclidean] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.1990
+ERROR: -knn [21, distance, manhattan] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.1762
+ERROR: -knn [1, uniform, euclidean] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.1755
+ERROR: -knn [1, uniform, manhattan] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.1762
+ERROR: -knn [1, distance, euclidean] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.1755
+ERROR: -knn [1, distance, manhattan] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.1886
+ERROR: -knn [5, uniform, euclidean] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.1929
+ERROR: -knn [5, uniform, manhattan] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.2007
+ERROR: -knn [5, distance, euclidean] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.2049
+ERROR: -knn [5, distance, manhattan] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.2175
+ERROR: -knn [21, uniform, euclidean] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.2232
+ERROR: -knn [21, uniform, manhattan] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.2251
+ERROR: -knn [21, distance, euclidean] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.2306
+ERROR: -knn [21, distance, manhattan] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.2008
+ERROR: -knn [1, uniform, euclidean] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.2005
+ERROR: -knn [1, uniform, manhattan] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.2008
+ERROR: -knn [1, distance, euclidean] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.2005
+ERROR: -knn [1, distance, manhattan] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.2136
+ERROR: -knn [5, uniform, euclidean] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.2178
+ERROR: -knn [5, uniform, manhattan] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.2274
+ERROR: -knn [5, distance, euclidean] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.2313
+ERROR: -knn [5, distance, manhattan] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.2383
+ERROR: -knn [21, uniform, euclidean] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.2451
+ERROR: -knn [21, uniform, manhattan] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.2481
+ERROR: -knn [21, distance, euclidean] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.2545
+ERROR: -knn [21, distance, manhattan] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set/characteristics_3_7.csv ---
+Accuracy: 0.2172
+ERROR: -knn [1, uniform, euclidean] on data_set/characteristics_3_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set/characteristics_3_7.csv ---
+Accuracy: 0.2170
+ERROR: -knn [1, uniform, manhattan] on data_set/characteristics_3_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set/characteristics_3_7.csv ---
+Accuracy: 0.2172
+ERROR: -knn [1, distance, euclidean] on data_set/characteristics_3_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set/characteristics_3_7.csv ---
+Accuracy: 0.2170
+ERROR: -knn [1, distance, manhattan] on data_set/characteristics_3_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set/characteristics_3_7.csv ---
+Accuracy: 0.2278
+ERROR: -knn [5, uniform, euclidean] on data_set/characteristics_3_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set/characteristics_3_7.csv ---
+Accuracy: 0.2322
+ERROR: -knn [5, uniform, manhattan] on data_set/characteristics_3_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set/characteristics_3_7.csv ---
+Accuracy: 0.2441
+ERROR: -knn [5, distance, euclidean] on data_set/characteristics_3_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set/characteristics_3_7.csv ---
+Accuracy: 0.2474
+ERROR: -knn [5, distance, manhattan] on data_set/characteristics_3_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set/characteristics_3_7.csv ---
+Accuracy: 0.2523
+ERROR: -knn [21, uniform, euclidean] on data_set/characteristics_3_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set/characteristics_3_7.csv ---
+Accuracy: 0.2574
+ERROR: -knn [21, uniform, manhattan] on data_set/characteristics_3_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set/characteristics_3_7.csv ---
+Accuracy: 0.2620
+ERROR: -knn [21, distance, euclidean] on data_set/characteristics_3_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set/characteristics_3_7.csv ---
+Accuracy: 0.2669
+ERROR: -knn [21, distance, manhattan] on data_set/characteristics_3_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------

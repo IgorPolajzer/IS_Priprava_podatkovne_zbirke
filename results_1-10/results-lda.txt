@@ -1,0 +1,912 @@
+--- Running -lda with [svd, 1e-4, 0] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0418
+ERROR: -lda [svd, 1e-4, 0] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0418
+ERROR: -lda [svd, 1e-2, 0] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0418
+ERROR: -lda [lsqr, 1e-4, 0] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0418
+ERROR: -lda [lsqr, 1e-2, 0] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0418
+ERROR: -lda [eigen, 1e-4, 0] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0418
+ERROR: -lda [eigen, 1e-2, 0] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.1402
+ERROR: -lda [svd, 1e-4, 0] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.1403
+ERROR: -lda [svd, 1e-2, 0] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.1402
+ERROR: -lda [lsqr, 1e-4, 0] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.1402
+ERROR: -lda [lsqr, 1e-2, 0] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.1402
+ERROR: -lda [eigen, 1e-4, 0] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.1402
+ERROR: -lda [eigen, 1e-2, 0] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0825
+ERROR: -lda [svd, 1e-4, 0] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0825
+ERROR: -lda [svd, 1e-2, 0] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0825
+ERROR: -lda [lsqr, 1e-4, 0] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0825
+ERROR: -lda [lsqr, 1e-2, 0] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0825
+ERROR: -lda [eigen, 1e-4, 0] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0825
+ERROR: -lda [eigen, 1e-2, 0] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.1125
+ERROR: -lda [svd, 1e-4, 0] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.1125
+ERROR: -lda [svd, 1e-2, 0] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.1125
+ERROR: -lda [lsqr, 1e-4, 0] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.1125
+ERROR: -lda [lsqr, 1e-2, 0] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.1125
+ERROR: -lda [eigen, 1e-4, 0] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.1125
+ERROR: -lda [eigen, 1e-2, 0] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.1309
+ERROR: -lda [svd, 1e-4, 0] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.1309
+ERROR: -lda [svd, 1e-2, 0] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.1309
+ERROR: -lda [lsqr, 1e-4, 0] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.1309
+ERROR: -lda [lsqr, 1e-2, 0] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.1309
+ERROR: -lda [eigen, 1e-4, 0] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.1309
+ERROR: -lda [eigen, 1e-2, 0] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.1407
+ERROR: -lda [svd, 1e-4, 0] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.1407
+ERROR: -lda [svd, 1e-2, 0] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.1407
+ERROR: -lda [lsqr, 1e-4, 0] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.1407
+ERROR: -lda [lsqr, 1e-2, 0] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.1407
+ERROR: -lda [eigen, 1e-4, 0] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.1407
+ERROR: -lda [eigen, 1e-2, 0] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.1432
+ERROR: -lda [svd, 1e-4, 0] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.1432
+ERROR: -lda [svd, 1e-2, 0] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.1432
+ERROR: -lda [lsqr, 1e-4, 0] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.1432
+ERROR: -lda [lsqr, 1e-2, 0] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.1432
+ERROR: -lda [eigen, 1e-4, 0] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.1432
+ERROR: -lda [eigen, 1e-2, 0] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.1480
+ERROR: -lda [svd, 1e-4, 0] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.1480
+ERROR: -lda [svd, 1e-2, 0] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.1480
+ERROR: -lda [lsqr, 1e-4, 0] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.1480
+ERROR: -lda [lsqr, 1e-2, 0] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.1480
+ERROR: -lda [eigen, 1e-4, 0] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.1480
+ERROR: -lda [eigen, 1e-2, 0] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.1459
+ERROR: -lda [svd, 1e-4, 0] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.1460
+ERROR: -lda [svd, 1e-2, 0] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.1459
+ERROR: -lda [lsqr, 1e-4, 0] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.1459
+ERROR: -lda [lsqr, 1e-2, 0] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.1459
+ERROR: -lda [eigen, 1e-4, 0] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.1459
+ERROR: -lda [eigen, 1e-2, 0] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.1438
+ERROR: -lda [svd, 1e-4, 0] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.1438
+ERROR: -lda [svd, 1e-2, 0] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.1438
+ERROR: -lda [lsqr, 1e-4, 0] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.1438
+ERROR: -lda [lsqr, 1e-2, 0] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.1438
+ERROR: -lda [eigen, 1e-4, 0] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.1438
+ERROR: -lda [eigen, 1e-2, 0] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0199
+ERROR: -lda [svd, 1e-4, 0] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0199
+ERROR: -lda [svd, 1e-2, 0] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0199
+ERROR: -lda [lsqr, 1e-4, 0] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0199
+ERROR: -lda [lsqr, 1e-2, 0] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0199
+ERROR: -lda [eigen, 1e-4, 0] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0199
+ERROR: -lda [eigen, 1e-2, 0] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0545
+ERROR: -lda [svd, 1e-4, 0] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0545
+ERROR: -lda [svd, 1e-2, 0] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0545
+ERROR: -lda [lsqr, 1e-4, 0] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0545
+ERROR: -lda [lsqr, 1e-2, 0] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0545
+ERROR: -lda [eigen, 1e-4, 0] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0545
+ERROR: -lda [eigen, 1e-2, 0] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0298
+ERROR: -lda [svd, 1e-4, 0] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0298
+ERROR: -lda [svd, 1e-2, 0] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0298
+ERROR: -lda [lsqr, 1e-4, 0] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0298
+ERROR: -lda [lsqr, 1e-2, 0] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0298
+ERROR: -lda [eigen, 1e-4, 0] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0298
+ERROR: -lda [eigen, 1e-2, 0] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0365
+ERROR: -lda [svd, 1e-4, 0] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0365
+ERROR: -lda [svd, 1e-2, 0] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0365
+ERROR: -lda [lsqr, 1e-4, 0] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0365
+ERROR: -lda [lsqr, 1e-2, 0] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0365
+ERROR: -lda [eigen, 1e-4, 0] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0365
+ERROR: -lda [eigen, 1e-2, 0] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0439
+ERROR: -lda [svd, 1e-4, 0] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0439
+ERROR: -lda [svd, 1e-2, 0] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0439
+ERROR: -lda [lsqr, 1e-4, 0] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0439
+ERROR: -lda [lsqr, 1e-2, 0] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0439
+ERROR: -lda [eigen, 1e-4, 0] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0439
+ERROR: -lda [eigen, 1e-2, 0] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0497
+ERROR: -lda [svd, 1e-4, 0] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0497
+ERROR: -lda [svd, 1e-2, 0] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0497
+ERROR: -lda [lsqr, 1e-4, 0] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0497
+ERROR: -lda [lsqr, 1e-2, 0] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0497
+ERROR: -lda [eigen, 1e-4, 0] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0497
+ERROR: -lda [eigen, 1e-2, 0] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0509
+ERROR: -lda [svd, 1e-4, 0] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0509
+ERROR: -lda [svd, 1e-2, 0] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0509
+ERROR: -lda [lsqr, 1e-4, 0] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0509
+ERROR: -lda [lsqr, 1e-2, 0] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0509
+ERROR: -lda [eigen, 1e-4, 0] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0509
+ERROR: -lda [eigen, 1e-2, 0] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0549
+ERROR: -lda [svd, 1e-4, 0] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0549
+ERROR: -lda [svd, 1e-2, 0] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0549
+ERROR: -lda [lsqr, 1e-4, 0] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0549
+ERROR: -lda [lsqr, 1e-2, 0] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0549
+ERROR: -lda [eigen, 1e-4, 0] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0549
+ERROR: -lda [eigen, 1e-2, 0] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0557
+ERROR: -lda [svd, 1e-4, 0] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0557
+ERROR: -lda [svd, 1e-2, 0] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0557
+ERROR: -lda [lsqr, 1e-4, 0] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0557
+ERROR: -lda [lsqr, 1e-2, 0] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0557
+ERROR: -lda [eigen, 1e-4, 0] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0557
+ERROR: -lda [eigen, 1e-2, 0] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0551
+ERROR: -lda [svd, 1e-4, 0] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0551
+ERROR: -lda [svd, 1e-2, 0] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0551
+ERROR: -lda [lsqr, 1e-4, 0] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0551
+ERROR: -lda [lsqr, 1e-2, 0] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0551
+ERROR: -lda [eigen, 1e-4, 0] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0551
+ERROR: -lda [eigen, 1e-2, 0] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0251
+ERROR: -lda [svd, 1e-4, 0] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0251
+ERROR: -lda [svd, 1e-2, 0] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0251
+ERROR: -lda [lsqr, 1e-4, 0] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0251
+ERROR: -lda [lsqr, 1e-2, 0] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0251
+ERROR: -lda [eigen, 1e-4, 0] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0251
+ERROR: -lda [eigen, 1e-2, 0] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0889
+ERROR: -lda [svd, 1e-4, 0] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0889
+ERROR: -lda [svd, 1e-2, 0] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0889
+ERROR: -lda [lsqr, 1e-4, 0] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0889
+ERROR: -lda [lsqr, 1e-2, 0] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0889
+ERROR: -lda [eigen, 1e-4, 0] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0889
+ERROR: -lda [eigen, 1e-2, 0] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0465
+ERROR: -lda [svd, 1e-4, 0] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0465
+ERROR: -lda [svd, 1e-2, 0] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0465
+ERROR: -lda [lsqr, 1e-4, 0] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0465
+ERROR: -lda [lsqr, 1e-2, 0] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0465
+ERROR: -lda [eigen, 1e-4, 0] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0465
+ERROR: -lda [eigen, 1e-2, 0] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0632
+ERROR: -lda [svd, 1e-4, 0] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0632
+ERROR: -lda [svd, 1e-2, 0] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0632
+ERROR: -lda [lsqr, 1e-4, 0] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0632
+ERROR: -lda [lsqr, 1e-2, 0] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0632
+ERROR: -lda [eigen, 1e-4, 0] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0632
+ERROR: -lda [eigen, 1e-2, 0] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0765
+ERROR: -lda [svd, 1e-4, 0] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0765
+ERROR: -lda [svd, 1e-2, 0] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0765
+ERROR: -lda [lsqr, 1e-4, 0] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0765
+ERROR: -lda [lsqr, 1e-2, 0] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0765
+ERROR: -lda [eigen, 1e-4, 0] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0765
+ERROR: -lda [eigen, 1e-2, 0] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0844
+ERROR: -lda [svd, 1e-4, 0] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0844
+ERROR: -lda [svd, 1e-2, 0] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0844
+ERROR: -lda [lsqr, 1e-4, 0] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0844
+ERROR: -lda [lsqr, 1e-2, 0] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0844
+ERROR: -lda [eigen, 1e-4, 0] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0844
+ERROR: -lda [eigen, 1e-2, 0] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0881
+ERROR: -lda [svd, 1e-4, 0] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0881
+ERROR: -lda [svd, 1e-2, 0] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0881
+ERROR: -lda [lsqr, 1e-4, 0] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0881
+ERROR: -lda [lsqr, 1e-2, 0] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0881
+ERROR: -lda [eigen, 1e-4, 0] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0881
+ERROR: -lda [eigen, 1e-2, 0] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0918
+ERROR: -lda [svd, 1e-4, 0] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0918
+ERROR: -lda [svd, 1e-2, 0] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0918
+ERROR: -lda [lsqr, 1e-4, 0] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0918
+ERROR: -lda [lsqr, 1e-2, 0] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0918
+ERROR: -lda [eigen, 1e-4, 0] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0918
+ERROR: -lda [eigen, 1e-2, 0] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0908
+ERROR: -lda [svd, 1e-4, 0] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0908
+ERROR: -lda [svd, 1e-2, 0] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0908
+ERROR: -lda [lsqr, 1e-4, 0] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0908
+ERROR: -lda [lsqr, 1e-2, 0] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0908
+ERROR: -lda [eigen, 1e-4, 0] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0908
+ERROR: -lda [eigen, 1e-2, 0] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0904
+ERROR: -lda [svd, 1e-4, 0] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0904
+ERROR: -lda [svd, 1e-2, 0] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0904
+ERROR: -lda [lsqr, 1e-4, 0] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0904
+ERROR: -lda [lsqr, 1e-2, 0] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0904
+ERROR: -lda [eigen, 1e-4, 0] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0904
+ERROR: -lda [eigen, 1e-2, 0] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0255
+ERROR: -lda [svd, 1e-4, 0] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0255
+ERROR: -lda [svd, 1e-2, 0] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0255
+ERROR: -lda [lsqr, 1e-4, 0] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0255
+ERROR: -lda [lsqr, 1e-2, 0] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0255
+ERROR: -lda [eigen, 1e-4, 0] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0255
+ERROR: -lda [eigen, 1e-2, 0] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.0962
+ERROR: -lda [svd, 1e-4, 0] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.0962
+ERROR: -lda [svd, 1e-2, 0] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.0962
+ERROR: -lda [lsqr, 1e-4, 0] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.0962
+ERROR: -lda [lsqr, 1e-2, 0] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.0962
+ERROR: -lda [eigen, 1e-4, 0] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.0962
+ERROR: -lda [eigen, 1e-2, 0] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0482
+ERROR: -lda [svd, 1e-4, 0] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0482
+ERROR: -lda [svd, 1e-2, 0] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0482
+ERROR: -lda [lsqr, 1e-4, 0] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0482
+ERROR: -lda [lsqr, 1e-2, 0] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0482
+ERROR: -lda [eigen, 1e-4, 0] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0482
+ERROR: -lda [eigen, 1e-2, 0] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0702
+ERROR: -lda [svd, 1e-4, 0] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0702
+ERROR: -lda [svd, 1e-2, 0] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0702
+ERROR: -lda [lsqr, 1e-4, 0] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0702
+ERROR: -lda [lsqr, 1e-2, 0] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0702
+ERROR: -lda [eigen, 1e-4, 0] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0702
+ERROR: -lda [eigen, 1e-2, 0] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0827
+ERROR: -lda [svd, 1e-4, 0] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0827
+ERROR: -lda [svd, 1e-2, 0] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0827
+ERROR: -lda [lsqr, 1e-4, 0] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0827
+ERROR: -lda [lsqr, 1e-2, 0] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0827
+ERROR: -lda [eigen, 1e-4, 0] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0827
+ERROR: -lda [eigen, 1e-2, 0] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0931
+ERROR: -lda [svd, 1e-4, 0] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0931
+ERROR: -lda [svd, 1e-2, 0] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0931
+ERROR: -lda [lsqr, 1e-4, 0] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0931
+ERROR: -lda [lsqr, 1e-2, 0] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0931
+ERROR: -lda [eigen, 1e-4, 0] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0931
+ERROR: -lda [eigen, 1e-2, 0] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.0940
+ERROR: -lda [svd, 1e-4, 0] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.0940
+ERROR: -lda [svd, 1e-2, 0] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.0940
+ERROR: -lda [lsqr, 1e-4, 0] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.0940
+ERROR: -lda [lsqr, 1e-2, 0] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.0940
+ERROR: -lda [eigen, 1e-4, 0] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.0940
+ERROR: -lda [eigen, 1e-2, 0] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-4, 0] on data_set/characteristics_3_7.csv ---
+Accuracy: 0.0989
+ERROR: -lda [svd, 1e-4, 0] on data_set/characteristics_3_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [svd, 1e-2, 0] on data_set/characteristics_3_7.csv ---
+Accuracy: 0.0989
+ERROR: -lda [svd, 1e-2, 0] on data_set/characteristics_3_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-4, 0] on data_set/characteristics_3_7.csv ---
+Accuracy: 0.0989
+ERROR: -lda [lsqr, 1e-4, 0] on data_set/characteristics_3_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [lsqr, 1e-2, 0] on data_set/characteristics_3_7.csv ---
+Accuracy: 0.0989
+ERROR: -lda [lsqr, 1e-2, 0] on data_set/characteristics_3_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-4, 0] on data_set/characteristics_3_7.csv ---
+Accuracy: 0.0989
+ERROR: -lda [eigen, 1e-4, 0] on data_set/characteristics_3_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -lda with [eigen, 1e-2, 0] on data_set/characteristics_3_7.csv ---
+Accuracy: 0.0989
+ERROR: -lda [eigen, 1e-2, 0] on data_set/characteristics_3_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------

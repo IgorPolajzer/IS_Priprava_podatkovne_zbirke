@@ -1,0 +1,600 @@
+--- Running -rfc with [5, sqrt, True] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0242
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, False] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0247
+--------------------------------------------------
+--- Running -rfc with [5, log2, True] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0242
+--------------------------------------------------
+--- Running -rfc with [5, log2, False] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0247
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, True] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0240
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, False] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0247
+--------------------------------------------------
+--- Running -rfc with [10, log2, True] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0248
+--------------------------------------------------
+--- Running -rfc with [10, log2, False] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0247
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, True] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0271
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, False] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0267
+--------------------------------------------------
+--- Running -rfc with [5, log2, True] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0272
+--------------------------------------------------
+--- Running -rfc with [5, log2, False] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0269
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, True] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0271
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, False] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0266
+--------------------------------------------------
+--- Running -rfc with [10, log2, True] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0268
+--------------------------------------------------
+--- Running -rfc with [10, log2, False] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0266
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, True] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0349
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, False] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0359
+--------------------------------------------------
+--- Running -rfc with [5, log2, True] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0350
+--------------------------------------------------
+--- Running -rfc with [5, log2, False] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0355
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, True] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0379
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, False] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0363
+--------------------------------------------------
+--- Running -rfc with [10, log2, True] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0378
+--------------------------------------------------
+--- Running -rfc with [10, log2, False] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0368
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, True] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0508
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, False] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0514
+--------------------------------------------------
+--- Running -rfc with [5, log2, True] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0500
+--------------------------------------------------
+--- Running -rfc with [5, log2, False] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0511
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, True] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0569
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, False] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0549
+--------------------------------------------------
+--- Running -rfc with [10, log2, True] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0571
+--------------------------------------------------
+--- Running -rfc with [10, log2, False] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0550
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, True] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0683
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, False] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0695
+--------------------------------------------------
+--- Running -rfc with [5, log2, True] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0676
+--------------------------------------------------
+--- Running -rfc with [5, log2, False] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0701
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, True] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0811
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, False] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0802
+--------------------------------------------------
+--- Running -rfc with [10, log2, True] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0809
+--------------------------------------------------
+--- Running -rfc with [10, log2, False] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0798
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, True] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0254
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, False] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0256
+--------------------------------------------------
+--- Running -rfc with [5, log2, True] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0253
+--------------------------------------------------
+--- Running -rfc with [5, log2, False] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0255
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, True] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0256
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, False] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0255
+--------------------------------------------------
+--- Running -rfc with [10, log2, True] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0256
+--------------------------------------------------
+--- Running -rfc with [10, log2, False] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0253
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, True] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0457
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, False] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0463
+--------------------------------------------------
+--- Running -rfc with [5, log2, True] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0458
+--------------------------------------------------
+--- Running -rfc with [5, log2, False] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0464
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, True] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0509
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, False] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0487
+--------------------------------------------------
+--- Running -rfc with [10, log2, True] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0498
+--------------------------------------------------
+--- Running -rfc with [10, log2, False] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0488
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, True] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0747
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, False] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0773
+--------------------------------------------------
+--- Running -rfc with [5, log2, True] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0754
+--------------------------------------------------
+--- Running -rfc with [5, log2, False] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0778
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, True] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0894
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, False] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0919
+--------------------------------------------------
+--- Running -rfc with [10, log2, True] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0888
+--------------------------------------------------
+--- Running -rfc with [10, log2, False] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0899
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, True] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.1024
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, False] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.1100
+--------------------------------------------------
+--- Running -rfc with [5, log2, True] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.1070
+--------------------------------------------------
+--- Running -rfc with [5, log2, False] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.1144
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, True] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.1289
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, False] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.1342
+--------------------------------------------------
+--- Running -rfc with [10, log2, True] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.1332
+--------------------------------------------------
+--- Running -rfc with [10, log2, False] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.1371
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, True] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.1311
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, False] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.1408
+--------------------------------------------------
+--- Running -rfc with [5, log2, True] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.1301
+--------------------------------------------------
+--- Running -rfc with [5, log2, False] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.1411
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, True] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.1652
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, False] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.1728
+--------------------------------------------------
+--- Running -rfc with [10, log2, True] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.1640
+--------------------------------------------------
+--- Running -rfc with [10, log2, False] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.1731
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, True] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0309
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, False] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0314
+--------------------------------------------------
+--- Running -rfc with [5, log2, True] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0311
+--------------------------------------------------
+--- Running -rfc with [5, log2, False] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0317
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, True] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0323
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, False] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0327
+--------------------------------------------------
+--- Running -rfc with [10, log2, True] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0322
+--------------------------------------------------
+--- Running -rfc with [10, log2, False] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0323
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, True] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0639
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, False] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0677
+--------------------------------------------------
+--- Running -rfc with [5, log2, True] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0649
+--------------------------------------------------
+--- Running -rfc with [5, log2, False] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0673
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, True] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0751
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, False] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0752
+--------------------------------------------------
+--- Running -rfc with [10, log2, True] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0749
+--------------------------------------------------
+--- Running -rfc with [10, log2, False] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0762
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, True] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.1029
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, False] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.1108
+--------------------------------------------------
+--- Running -rfc with [5, log2, True] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.1025
+--------------------------------------------------
+--- Running -rfc with [5, log2, False] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.1097
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, True] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.1255
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, False] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.1293
+--------------------------------------------------
+--- Running -rfc with [10, log2, True] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.1256
+--------------------------------------------------
+--- Running -rfc with [10, log2, False] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.1289
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, True] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.1302
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, False] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.1414
+--------------------------------------------------
+--- Running -rfc with [5, log2, True] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.1276
+--------------------------------------------------
+--- Running -rfc with [5, log2, False] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.1404
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, True] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.1630
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, False] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.1700
+--------------------------------------------------
+--- Running -rfc with [10, log2, True] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.1613
+--------------------------------------------------
+--- Running -rfc with [10, log2, False] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.1709
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, True] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.1452
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, False] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.1590
+--------------------------------------------------
+--- Running -rfc with [5, log2, True] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.1447
+--------------------------------------------------
+--- Running -rfc with [5, log2, False] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.1590
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, True] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.1858
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, False] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.1976
+--------------------------------------------------
+--- Running -rfc with [10, log2, True] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.1861
+--------------------------------------------------
+--- Running -rfc with [10, log2, False] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.1976
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, True] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0395
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, False] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0393
+--------------------------------------------------
+--- Running -rfc with [5, log2, True] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0389
+--------------------------------------------------
+--- Running -rfc with [5, log2, False] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0397
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, True] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0420
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, False] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0412
+--------------------------------------------------
+--- Running -rfc with [10, log2, True] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0411
+--------------------------------------------------
+--- Running -rfc with [10, log2, False] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0417
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, True] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0837
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, False] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0887
+--------------------------------------------------
+--- Running -rfc with [5, log2, True] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0877
+--------------------------------------------------
+--- Running -rfc with [5, log2, False] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0908
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, True] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.1018
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, False] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.1036
+--------------------------------------------------
+--- Running -rfc with [10, log2, True] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.1045
+--------------------------------------------------
+--- Running -rfc with [10, log2, False] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.1054
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, True] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.1227
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, False] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.1339
+--------------------------------------------------
+--- Running -rfc with [5, log2, True] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.1242
+--------------------------------------------------
+--- Running -rfc with [5, log2, False] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.1329
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, True] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.1544
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, False] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.1614
+--------------------------------------------------
+--- Running -rfc with [10, log2, True] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.1549
+--------------------------------------------------
+--- Running -rfc with [10, log2, False] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.1611
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, True] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.1510
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, False] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.1647
+--------------------------------------------------
+--- Running -rfc with [5, log2, True] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.1534
+--------------------------------------------------
+--- Running -rfc with [5, log2, False] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.1646
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, True] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.1925
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, False] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.2043
+--------------------------------------------------
+--- Running -rfc with [10, log2, True] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.1917
+--------------------------------------------------
+--- Running -rfc with [10, log2, False] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.2033
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, True] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.1685
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, False] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.1845
+--------------------------------------------------
+--- Running -rfc with [5, log2, True] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.1665
+--------------------------------------------------
+--- Running -rfc with [5, log2, False] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.1831
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, True] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.2158
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, False] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.2312
+--------------------------------------------------
+--- Running -rfc with [10, log2, True] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.2153
+--------------------------------------------------
+--- Running -rfc with [10, log2, False] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.2306
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, True] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0496
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, False] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0516
+--------------------------------------------------
+--- Running -rfc with [5, log2, True] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0502
+--------------------------------------------------
+--- Running -rfc with [5, log2, False] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0511
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, True] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0564
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, False] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0559
+--------------------------------------------------
+--- Running -rfc with [10, log2, True] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0561
+--------------------------------------------------
+--- Running -rfc with [10, log2, False] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0553
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, True] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.1128
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, False] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.1204
+--------------------------------------------------
+--- Running -rfc with [5, log2, True] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.1127
+--------------------------------------------------
+--- Running -rfc with [5, log2, False] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.1201
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, True] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.1366
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, False] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.1414
+--------------------------------------------------
+--- Running -rfc with [10, log2, True] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.1366
+--------------------------------------------------
+--- Running -rfc with [10, log2, False] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.1411
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, True] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.1523
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, False] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.1648
+--------------------------------------------------
+--- Running -rfc with [5, log2, True] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.1516
+--------------------------------------------------
+--- Running -rfc with [5, log2, False] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.1632
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, True] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.1910
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, False] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.2009
+--------------------------------------------------
+--- Running -rfc with [10, log2, True] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.1911
+--------------------------------------------------
+--- Running -rfc with [10, log2, False] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.2009
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, True] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.1801
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, False] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.1955
+--------------------------------------------------
+--- Running -rfc with [5, log2, True] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.1808
+--------------------------------------------------
+--- Running -rfc with [5, log2, False] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.1971
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, True] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.2290
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, False] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.2414
+--------------------------------------------------
+--- Running -rfc with [10, log2, True] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.2284
+--------------------------------------------------
+--- Running -rfc with [10, log2, False] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.2424
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, True] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.1998
+--------------------------------------------------
+--- Running -rfc with [5, sqrt, False] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.2202
+--------------------------------------------------
+--- Running -rfc with [5, log2, True] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.1928
+--------------------------------------------------
+--- Running -rfc with [5, log2, False] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.2118
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, True] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.2512
+--------------------------------------------------
+--- Running -rfc with [10, sqrt, False] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.2698
+--------------------------------------------------
+--- Running -rfc with [10, log2, True] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.2469
+--------------------------------------------------
+--- Running -rfc with [10, log2, False] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.2661
+--------------------------------------------------

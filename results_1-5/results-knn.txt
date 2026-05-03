@@ -1,0 +1,900 @@
+--- Running -knn with [1, uniform, euclidean] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0169
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0132
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0169
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0132
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0166
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0163
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0166
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0163
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0193
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0193
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0192
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set_2/characteristics_1_1.csv ---
+Accuracy: 0.0192
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0217
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0220
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0217
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0220
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0238
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0237
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0254
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0255
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0297
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0301
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0280
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set_2/characteristics_1_2.csv ---
+Accuracy: 0.0278
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0280
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0289
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0280
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0289
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0331
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0330
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0341
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0341
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0486
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0485
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0437
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set_2/characteristics_1_3.csv ---
+Accuracy: 0.0434
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0461
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0435
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0461
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0435
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0514
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0515
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0523
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0525
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0729
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0741
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0706
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set_2/characteristics_1_4.csv ---
+Accuracy: 0.0710
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0633
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0607
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0633
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0607
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0719
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0726
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0743
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.0746
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.1019
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.1032
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.1020
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set_2/characteristics_1_5.csv ---
+Accuracy: 0.1026
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0190
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0191
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0190
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0191
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0226
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0217
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0234
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0228
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0266
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0274
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0249
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set_2/characteristics_2_1.csv ---
+Accuracy: 0.0254
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0404
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0377
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0404
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0377
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0455
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0462
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0448
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0455
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0649
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0652
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0604
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set_2/characteristics_2_2.csv ---
+Accuracy: 0.0609
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0712
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0691
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0712
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0691
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0814
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0820
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0840
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.0850
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.1102
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.1130
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.1109
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set_2/characteristics_2_3.csv ---
+Accuracy: 0.1135
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.1101
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.1094
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.1101
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.1094
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.1254
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.1279
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.1308
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.1333
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.1593
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.1638
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.1625
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set_2/characteristics_2_4.csv ---
+Accuracy: 0.1666
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.1464
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.1470
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.1464
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.1470
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.1648
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.1682
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.1744
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.1778
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.1992
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.2051
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.2049
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set_2/characteristics_2_5.csv ---
+Accuracy: 0.2110
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0248
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0253
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0248
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0253
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0280
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0282
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0298
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0298
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0356
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0361
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0339
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set_2/characteristics_3_1.csv ---
+Accuracy: 0.0342
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0615
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0590
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0615
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0590
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0663
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0681
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0694
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0706
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0881
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0905
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0872
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set_2/characteristics_3_2.csv ---
+Accuracy: 0.0894
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.1034
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.1024
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.1034
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.1024
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.1140
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.1169
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.1205
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.1232
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.1426
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.1478
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.1456
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set_2/characteristics_3_3.csv ---
+Accuracy: 0.1504
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.1443
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.1438
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.1443
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.1438
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.1571
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.1606
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.1672
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.1694
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.1870
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.1926
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.1928
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set_2/characteristics_3_4.csv ---
+Accuracy: 0.1990
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.1762
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.1755
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.1762
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.1755
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.1886
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.1929
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.2007
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.2049
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.2175
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.2232
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.2251
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set_2/characteristics_3_5.csv ---
+Accuracy: 0.2306
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0367
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0335
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0367
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0335
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0378
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0384
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0391
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0392
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0512
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0507
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0476
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set_2/characteristics_4_1.csv ---
+Accuracy: 0.0477
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0846
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0833
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0846
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0833
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0953
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0974
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.0978
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.1002
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.1220
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.1249
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.1225
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set_2/characteristics_4_2.csv ---
+Accuracy: 0.1259
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.1349
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.1344
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.1349
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.1344
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.1487
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.1520
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.1554
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.1591
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.1780
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.1820
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.1827
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set_2/characteristics_4_3.csv ---
+Accuracy: 0.1872
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.1773
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.1768
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.1773
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.1768
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.1927
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.1953
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.2038
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.2061
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.2205
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.2240
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.2286
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set_2/characteristics_4_4.csv ---
+Accuracy: 0.2319
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.2104
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.2091
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.2104
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.2091
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.2246
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.2274
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.2386
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.2409
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.2512
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.2528
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.2599
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set_2/characteristics_4_5.csv ---
+Accuracy: 0.2624
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0482
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0452
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0482
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0452
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0513
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0511
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0530
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0530
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0664
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0670
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0656
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set_2/characteristics_5_1.csv ---
+Accuracy: 0.0662
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.1155
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.1152
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.1155
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.1152
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.1272
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.1320
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.1331
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.1376
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.1563
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.1611
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.1592
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set_2/characteristics_5_2.csv ---
+Accuracy: 0.1646
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.1737
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.1741
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.1737
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.1741
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.1876
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.1927
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.1988
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.2032
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.2172
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.2223
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.2238
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set_2/characteristics_5_3.csv ---
+Accuracy: 0.2293
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.2175
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.2161
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.2175
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.2161
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.2319
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.2352
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.2461
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.2490
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.2584
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.2605
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.2670
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set_2/characteristics_5_4.csv ---
+Accuracy: 0.2698
+--------------------------------------------------
+--- Running -knn with [1, uniform, euclidean] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.2485
+--------------------------------------------------
+--- Running -knn with [1, uniform, manhattan] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.2458
+--------------------------------------------------
+--- Running -knn with [1, distance, euclidean] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.2485
+--------------------------------------------------
+--- Running -knn with [1, distance, manhattan] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.2458
+--------------------------------------------------
+--- Running -knn with [5, uniform, euclidean] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.2620
+--------------------------------------------------
+--- Running -knn with [5, uniform, manhattan] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.2618
+--------------------------------------------------
+--- Running -knn with [5, distance, euclidean] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.2781
+--------------------------------------------------
+--- Running -knn with [5, distance, manhattan] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.2780
+--------------------------------------------------
+--- Running -knn with [21, uniform, euclidean] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.2839
+--------------------------------------------------
+--- Running -knn with [21, uniform, manhattan] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.2839
+--------------------------------------------------
+--- Running -knn with [21, distance, euclidean] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.2942
+--------------------------------------------------
+--- Running -knn with [21, distance, manhattan] on data_set_2/characteristics_5_5.csv ---
+Accuracy: 0.2947
+--------------------------------------------------

@@ -1,0 +1,1184 @@
+--- Running -abc with [25, 0.1, 1] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0177
+ERROR: -abc [25, 0.1, 1] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 2] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0207
+ERROR: -abc [25, 0.1, 2] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 1] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0177
+ERROR: -abc [25, 1.0, 1] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 2] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0258
+ERROR: -abc [25, 1.0, 2] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 1] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0177
+ERROR: -abc [50, 0.1, 1] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 2] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0244
+ERROR: -abc [50, 0.1, 2] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 1] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0176
+ERROR: -abc [50, 1.0, 1] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 2] on data_set/characteristics_10_1.csv ---
+Accuracy: 0.0237
+ERROR: -abc [50, 1.0, 2] on data_set/characteristics_10_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 1] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.0172
+ERROR: -abc [25, 0.1, 1] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 2] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.0238
+ERROR: -abc [25, 0.1, 2] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 1] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.0184
+ERROR: -abc [25, 1.0, 1] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 2] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.0296
+ERROR: -abc [25, 1.0, 2] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 1] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.0181
+ERROR: -abc [50, 0.1, 1] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 2] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.0251
+ERROR: -abc [50, 0.1, 2] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 1] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.0245
+ERROR: -abc [50, 1.0, 1] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 2] on data_set/characteristics_10_10.csv ---
+Accuracy: 0.0335
+ERROR: -abc [50, 1.0, 2] on data_set/characteristics_10_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 1] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0198
+ERROR: -abc [25, 0.1, 1] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 2] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0270
+ERROR: -abc [25, 0.1, 2] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 1] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0162
+ERROR: -abc [25, 1.0, 1] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 2] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0242
+ERROR: -abc [25, 1.0, 2] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 1] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0198
+ERROR: -abc [50, 0.1, 1] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 2] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0265
+ERROR: -abc [50, 0.1, 2] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 1] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0216
+ERROR: -abc [50, 1.0, 1] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 2] on data_set/characteristics_10_2.csv ---
+Accuracy: 0.0346
+ERROR: -abc [50, 1.0, 2] on data_set/characteristics_10_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 1] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.0178
+ERROR: -abc [25, 0.1, 1] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 2] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.0270
+ERROR: -abc [25, 0.1, 2] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 1] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.0191
+ERROR: -abc [25, 1.0, 1] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 2] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.0317
+ERROR: -abc [25, 1.0, 2] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 1] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.0201
+ERROR: -abc [50, 0.1, 1] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 2] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.0296
+ERROR: -abc [50, 0.1, 2] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 1] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.0212
+ERROR: -abc [50, 1.0, 1] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 2] on data_set/characteristics_10_3.csv ---
+Accuracy: 0.0406
+ERROR: -abc [50, 1.0, 2] on data_set/characteristics_10_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 1] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.0178
+ERROR: -abc [25, 0.1, 1] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 2] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.0306
+ERROR: -abc [25, 0.1, 2] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 1] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.0174
+ERROR: -abc [25, 1.0, 1] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 2] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.0294
+ERROR: -abc [25, 1.0, 2] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 1] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.0176
+ERROR: -abc [50, 0.1, 1] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 2] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.0326
+ERROR: -abc [50, 0.1, 2] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 1] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.0257
+ERROR: -abc [50, 1.0, 1] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 2] on data_set/characteristics_10_4.csv ---
+Accuracy: 0.0364
+ERROR: -abc [50, 1.0, 2] on data_set/characteristics_10_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 1] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.0175
+ERROR: -abc [25, 0.1, 1] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 2] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.0262
+ERROR: -abc [25, 0.1, 2] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 1] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.0184
+ERROR: -abc [25, 1.0, 1] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 2] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.0272
+ERROR: -abc [25, 1.0, 2] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 1] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.0202
+ERROR: -abc [50, 0.1, 1] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 2] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.0274
+ERROR: -abc [50, 0.1, 2] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 1] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.0242
+ERROR: -abc [50, 1.0, 1] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 2] on data_set/characteristics_10_5.csv ---
+Accuracy: 0.0348
+ERROR: -abc [50, 1.0, 2] on data_set/characteristics_10_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 1] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.0173
+ERROR: -abc [25, 0.1, 1] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 2] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.0249
+ERROR: -abc [25, 0.1, 2] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 1] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.0164
+ERROR: -abc [25, 1.0, 1] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 2] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.0265
+ERROR: -abc [25, 1.0, 2] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 1] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.0173
+ERROR: -abc [50, 0.1, 1] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 2] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.0277
+ERROR: -abc [50, 0.1, 2] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 1] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.0260
+ERROR: -abc [50, 1.0, 1] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 2] on data_set/characteristics_10_6.csv ---
+Accuracy: 0.0417
+ERROR: -abc [50, 1.0, 2] on data_set/characteristics_10_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 1] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.0165
+ERROR: -abc [25, 0.1, 1] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 2] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.0296
+ERROR: -abc [25, 0.1, 2] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 1] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.0168
+ERROR: -abc [25, 1.0, 1] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 2] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.0273
+ERROR: -abc [25, 1.0, 2] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 1] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.0197
+ERROR: -abc [50, 0.1, 1] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 2] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.0298
+ERROR: -abc [50, 0.1, 2] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 1] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.0217
+ERROR: -abc [50, 1.0, 1] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 2] on data_set/characteristics_10_7.csv ---
+Accuracy: 0.0350
+ERROR: -abc [50, 1.0, 2] on data_set/characteristics_10_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 1] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.0173
+ERROR: -abc [25, 0.1, 1] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 2] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.0244
+ERROR: -abc [25, 0.1, 2] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 1] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.0182
+ERROR: -abc [25, 1.0, 1] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 2] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.0227
+ERROR: -abc [25, 1.0, 2] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 1] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.0173
+ERROR: -abc [50, 0.1, 1] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 2] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.0255
+ERROR: -abc [50, 0.1, 2] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 1] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.0247
+ERROR: -abc [50, 1.0, 1] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 2] on data_set/characteristics_10_8.csv ---
+Accuracy: 0.0314
+ERROR: -abc [50, 1.0, 2] on data_set/characteristics_10_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 1] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.0172
+ERROR: -abc [25, 0.1, 1] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 2] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.0250
+ERROR: -abc [25, 0.1, 2] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 1] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.0175
+ERROR: -abc [25, 1.0, 1] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 2] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.0243
+ERROR: -abc [25, 1.0, 2] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 1] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.0172
+ERROR: -abc [50, 0.1, 1] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 2] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.0265
+ERROR: -abc [50, 0.1, 2] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 1] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.0222
+ERROR: -abc [50, 1.0, 1] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 2] on data_set/characteristics_10_9.csv ---
+Accuracy: 0.0329
+ERROR: -abc [50, 1.0, 2] on data_set/characteristics_10_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 1] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0156
+ERROR: -abc [25, 0.1, 1] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 2] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0216
+ERROR: -abc [25, 0.1, 2] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 1] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0198
+ERROR: -abc [25, 1.0, 1] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 2] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0226
+ERROR: -abc [25, 1.0, 2] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 1] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0195
+ERROR: -abc [50, 0.1, 1] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 2] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0230
+ERROR: -abc [50, 0.1, 2] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 1] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0210
+ERROR: -abc [50, 1.0, 1] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 2] on data_set/characteristics_1_1.csv ---
+Accuracy: 0.0237
+ERROR: -abc [50, 1.0, 2] on data_set/characteristics_1_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 1] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0194
+ERROR: -abc [25, 0.1, 1] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 2] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0303
+ERROR: -abc [25, 0.1, 2] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 1] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0203
+ERROR: -abc [25, 1.0, 1] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 2] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0350
+ERROR: -abc [25, 1.0, 2] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 1] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0194
+ERROR: -abc [50, 0.1, 1] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 2] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0315
+ERROR: -abc [50, 0.1, 2] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 1] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0230
+ERROR: -abc [50, 1.0, 1] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 2] on data_set/characteristics_1_10.csv ---
+Accuracy: 0.0330
+ERROR: -abc [50, 1.0, 2] on data_set/characteristics_1_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 1] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0197
+ERROR: -abc [25, 0.1, 1] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 2] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0272
+ERROR: -abc [25, 0.1, 2] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 1] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0196
+ERROR: -abc [25, 1.0, 1] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 2] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0278
+ERROR: -abc [25, 1.0, 2] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 1] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0197
+ERROR: -abc [50, 0.1, 1] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 2] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0289
+ERROR: -abc [50, 0.1, 2] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 1] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0216
+ERROR: -abc [50, 1.0, 1] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 2] on data_set/characteristics_1_2.csv ---
+Accuracy: 0.0335
+ERROR: -abc [50, 1.0, 2] on data_set/characteristics_1_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 1] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0193
+ERROR: -abc [25, 0.1, 1] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 2] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0294
+ERROR: -abc [25, 0.1, 2] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 1] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0201
+ERROR: -abc [25, 1.0, 1] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 2] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0270
+ERROR: -abc [25, 1.0, 2] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 1] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0222
+ERROR: -abc [50, 0.1, 1] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 2] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0298
+ERROR: -abc [50, 0.1, 2] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 1] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0214
+ERROR: -abc [50, 1.0, 1] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 2] on data_set/characteristics_1_3.csv ---
+Accuracy: 0.0347
+ERROR: -abc [50, 1.0, 2] on data_set/characteristics_1_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 1] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0186
+ERROR: -abc [25, 0.1, 1] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 2] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0318
+ERROR: -abc [25, 0.1, 2] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 1] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0168
+ERROR: -abc [25, 1.0, 1] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 2] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0290
+ERROR: -abc [25, 1.0, 2] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 1] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0188
+ERROR: -abc [50, 0.1, 1] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 2] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0318
+ERROR: -abc [50, 0.1, 2] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 1] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0240
+ERROR: -abc [50, 1.0, 1] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 2] on data_set/characteristics_1_4.csv ---
+Accuracy: 0.0376
+ERROR: -abc [50, 1.0, 2] on data_set/characteristics_1_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 1] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0188
+ERROR: -abc [25, 0.1, 1] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 2] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0279
+ERROR: -abc [25, 0.1, 2] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 1] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0188
+ERROR: -abc [25, 1.0, 1] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 2] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0272
+ERROR: -abc [25, 1.0, 2] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 1] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0188
+ERROR: -abc [50, 0.1, 1] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 2] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0287
+ERROR: -abc [50, 0.1, 2] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 1] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0263
+ERROR: -abc [50, 1.0, 1] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 2] on data_set/characteristics_1_5.csv ---
+Accuracy: 0.0403
+ERROR: -abc [50, 1.0, 2] on data_set/characteristics_1_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 1] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0197
+ERROR: -abc [25, 0.1, 1] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 2] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0270
+ERROR: -abc [25, 0.1, 2] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 1] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0172
+ERROR: -abc [25, 1.0, 1] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 2] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0310
+ERROR: -abc [25, 1.0, 2] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 1] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0197
+ERROR: -abc [50, 0.1, 1] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 2] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0294
+ERROR: -abc [50, 0.1, 2] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 1] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0242
+ERROR: -abc [50, 1.0, 1] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 2] on data_set/characteristics_1_6.csv ---
+Accuracy: 0.0349
+ERROR: -abc [50, 1.0, 2] on data_set/characteristics_1_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 1] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0217
+ERROR: -abc [25, 0.1, 1] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 2] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0313
+ERROR: -abc [25, 0.1, 2] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 1] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0209
+ERROR: -abc [25, 1.0, 1] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 2] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0300
+ERROR: -abc [25, 1.0, 2] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 1] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0217
+ERROR: -abc [50, 0.1, 1] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 2] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0335
+ERROR: -abc [50, 0.1, 2] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 1] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0229
+ERROR: -abc [50, 1.0, 1] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 2] on data_set/characteristics_1_7.csv ---
+Accuracy: 0.0317
+ERROR: -abc [50, 1.0, 2] on data_set/characteristics_1_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 1] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0180
+ERROR: -abc [25, 0.1, 1] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 2] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0271
+ERROR: -abc [25, 0.1, 2] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 1] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0186
+ERROR: -abc [25, 1.0, 1] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 2] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0251
+ERROR: -abc [25, 1.0, 2] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 1] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0191
+ERROR: -abc [50, 0.1, 1] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 2] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0304
+ERROR: -abc [50, 0.1, 2] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 1] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0237
+ERROR: -abc [50, 1.0, 1] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 2] on data_set/characteristics_1_8.csv ---
+Accuracy: 0.0360
+ERROR: -abc [50, 1.0, 2] on data_set/characteristics_1_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 1] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0180
+ERROR: -abc [25, 0.1, 1] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 2] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0270
+ERROR: -abc [25, 0.1, 2] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 1] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0168
+ERROR: -abc [25, 1.0, 1] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 2] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0305
+ERROR: -abc [25, 1.0, 2] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 1] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0196
+ERROR: -abc [50, 0.1, 1] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 2] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0272
+ERROR: -abc [50, 0.1, 2] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 1] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0225
+ERROR: -abc [50, 1.0, 1] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 2] on data_set/characteristics_1_9.csv ---
+Accuracy: 0.0340
+ERROR: -abc [50, 1.0, 2] on data_set/characteristics_1_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 1] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0199
+ERROR: -abc [25, 0.1, 1] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 2] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0235
+ERROR: -abc [25, 0.1, 2] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 1] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0195
+ERROR: -abc [25, 1.0, 1] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 2] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0260
+ERROR: -abc [25, 1.0, 2] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 1] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0200
+ERROR: -abc [50, 0.1, 1] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 2] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0254
+ERROR: -abc [50, 0.1, 2] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 1] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0218
+ERROR: -abc [50, 1.0, 1] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 2] on data_set/characteristics_2_1.csv ---
+Accuracy: 0.0298
+ERROR: -abc [50, 1.0, 2] on data_set/characteristics_2_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 1] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0182
+ERROR: -abc [25, 0.1, 1] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 2] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0287
+ERROR: -abc [25, 0.1, 2] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 1] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0182
+ERROR: -abc [25, 1.0, 1] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 2] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0325
+ERROR: -abc [25, 1.0, 2] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 1] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0205
+ERROR: -abc [50, 0.1, 1] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 2] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0319
+ERROR: -abc [50, 0.1, 2] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 1] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0220
+ERROR: -abc [50, 1.0, 1] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 2] on data_set/characteristics_2_10.csv ---
+Accuracy: 0.0410
+ERROR: -abc [50, 1.0, 2] on data_set/characteristics_2_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 1] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0181
+ERROR: -abc [25, 0.1, 1] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 2] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0228
+ERROR: -abc [25, 0.1, 2] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 1] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0186
+ERROR: -abc [25, 1.0, 1] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 2] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0202
+ERROR: -abc [25, 1.0, 2] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 1] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0181
+ERROR: -abc [50, 0.1, 1] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 2] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0270
+ERROR: -abc [50, 0.1, 2] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 1] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0188
+ERROR: -abc [50, 1.0, 1] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 2] on data_set/characteristics_2_2.csv ---
+Accuracy: 0.0348
+ERROR: -abc [50, 1.0, 2] on data_set/characteristics_2_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 1] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0222
+ERROR: -abc [25, 0.1, 1] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 2] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0316
+ERROR: -abc [25, 0.1, 2] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 1] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0170
+ERROR: -abc [25, 1.0, 1] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 2] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0280
+ERROR: -abc [25, 1.0, 2] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 1] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0221
+ERROR: -abc [50, 0.1, 1] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 2] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0297
+ERROR: -abc [50, 0.1, 2] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 1] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0189
+ERROR: -abc [50, 1.0, 1] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 2] on data_set/characteristics_2_3.csv ---
+Accuracy: 0.0381
+ERROR: -abc [50, 1.0, 2] on data_set/characteristics_2_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 1] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0203
+ERROR: -abc [25, 0.1, 1] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 2] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0299
+ERROR: -abc [25, 0.1, 2] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 1] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0187
+ERROR: -abc [25, 1.0, 1] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 2] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0319
+ERROR: -abc [25, 1.0, 2] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 1] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0166
+ERROR: -abc [50, 0.1, 1] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 2] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0335
+ERROR: -abc [50, 0.1, 2] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 1] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0248
+ERROR: -abc [50, 1.0, 1] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 2] on data_set/characteristics_2_4.csv ---
+Accuracy: 0.0387
+ERROR: -abc [50, 1.0, 2] on data_set/characteristics_2_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 1] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0180
+ERROR: -abc [25, 0.1, 1] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 2] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0247
+ERROR: -abc [25, 0.1, 2] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 1] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0182
+ERROR: -abc [25, 1.0, 1] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 2] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0274
+ERROR: -abc [25, 1.0, 2] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 1] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0180
+ERROR: -abc [50, 0.1, 1] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 2] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0294
+ERROR: -abc [50, 0.1, 2] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 1] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0232
+ERROR: -abc [50, 1.0, 1] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 2] on data_set/characteristics_2_5.csv ---
+Accuracy: 0.0366
+ERROR: -abc [50, 1.0, 2] on data_set/characteristics_2_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 1] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0200
+ERROR: -abc [25, 0.1, 1] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 2] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0291
+ERROR: -abc [25, 0.1, 2] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 1] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0200
+ERROR: -abc [25, 1.0, 1] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 2] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0344
+ERROR: -abc [25, 1.0, 2] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 1] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0203
+ERROR: -abc [50, 0.1, 1] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 2] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0314
+ERROR: -abc [50, 0.1, 2] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 1] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0225
+ERROR: -abc [50, 1.0, 1] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 2] on data_set/characteristics_2_6.csv ---
+Accuracy: 0.0396
+ERROR: -abc [50, 1.0, 2] on data_set/characteristics_2_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 1] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0201
+ERROR: -abc [25, 0.1, 1] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 2] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0267
+ERROR: -abc [25, 0.1, 2] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 1] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0201
+ERROR: -abc [25, 1.0, 1] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 2] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0310
+ERROR: -abc [25, 1.0, 2] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 1] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0201
+ERROR: -abc [50, 0.1, 1] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 2] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0272
+ERROR: -abc [50, 0.1, 2] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 1] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0305
+ERROR: -abc [50, 1.0, 1] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 2] on data_set/characteristics_2_7.csv ---
+Accuracy: 0.0388
+ERROR: -abc [50, 1.0, 2] on data_set/characteristics_2_7.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 1] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0169
+ERROR: -abc [25, 0.1, 1] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 2] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0305
+ERROR: -abc [25, 0.1, 2] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 1] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0185
+ERROR: -abc [25, 1.0, 1] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 2] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0310
+ERROR: -abc [25, 1.0, 2] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 1] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0171
+ERROR: -abc [50, 0.1, 1] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 2] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0321
+ERROR: -abc [50, 0.1, 2] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 1] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0238
+ERROR: -abc [50, 1.0, 1] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 2] on data_set/characteristics_2_8.csv ---
+Accuracy: 0.0406
+ERROR: -abc [50, 1.0, 2] on data_set/characteristics_2_8.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 1] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0167
+ERROR: -abc [25, 0.1, 1] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 2] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0278
+ERROR: -abc [25, 0.1, 2] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 1] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0196
+ERROR: -abc [25, 1.0, 1] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 2] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0293
+ERROR: -abc [25, 1.0, 2] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 1] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0174
+ERROR: -abc [50, 0.1, 1] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 2] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0275
+ERROR: -abc [50, 0.1, 2] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 1] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0250
+ERROR: -abc [50, 1.0, 1] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 2] on data_set/characteristics_2_9.csv ---
+Accuracy: 0.0377
+ERROR: -abc [50, 1.0, 2] on data_set/characteristics_2_9.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 1] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0175
+ERROR: -abc [25, 0.1, 1] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 2] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0233
+ERROR: -abc [25, 0.1, 2] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 1] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0172
+ERROR: -abc [25, 1.0, 1] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 2] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0234
+ERROR: -abc [25, 1.0, 2] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 1] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0175
+ERROR: -abc [50, 0.1, 1] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 2] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0229
+ERROR: -abc [50, 0.1, 2] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 1] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0210
+ERROR: -abc [50, 1.0, 1] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 2] on data_set/characteristics_3_1.csv ---
+Accuracy: 0.0275
+ERROR: -abc [50, 1.0, 2] on data_set/characteristics_3_1.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 1] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.0202
+ERROR: -abc [25, 0.1, 1] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 2] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.0275
+ERROR: -abc [25, 0.1, 2] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 1] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.0170
+ERROR: -abc [25, 1.0, 1] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 2] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.0263
+ERROR: -abc [25, 1.0, 2] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 1] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.0202
+ERROR: -abc [50, 0.1, 1] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 2] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.0275
+ERROR: -abc [50, 0.1, 2] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 1] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.0203
+ERROR: -abc [50, 1.0, 1] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 2] on data_set/characteristics_3_10.csv ---
+Accuracy: 0.0326
+ERROR: -abc [50, 1.0, 2] on data_set/characteristics_3_10.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 1] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0194
+ERROR: -abc [25, 0.1, 1] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 2] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0282
+ERROR: -abc [25, 0.1, 2] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 1] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0194
+ERROR: -abc [25, 1.0, 1] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 2] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0252
+ERROR: -abc [25, 1.0, 2] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 1] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0194
+ERROR: -abc [50, 0.1, 1] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 2] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0313
+ERROR: -abc [50, 0.1, 2] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 1] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0228
+ERROR: -abc [50, 1.0, 1] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 2] on data_set/characteristics_3_2.csv ---
+Accuracy: 0.0350
+ERROR: -abc [50, 1.0, 2] on data_set/characteristics_3_2.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 1] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0208
+ERROR: -abc [25, 0.1, 1] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 2] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0286
+ERROR: -abc [25, 0.1, 2] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 1] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0208
+ERROR: -abc [25, 1.0, 1] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 2] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0258
+ERROR: -abc [25, 1.0, 2] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 1] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0208
+ERROR: -abc [50, 0.1, 1] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 2] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0287
+ERROR: -abc [50, 0.1, 2] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 1] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0240
+ERROR: -abc [50, 1.0, 1] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 2] on data_set/characteristics_3_3.csv ---
+Accuracy: 0.0389
+ERROR: -abc [50, 1.0, 2] on data_set/characteristics_3_3.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 1] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0200
+ERROR: -abc [25, 0.1, 1] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 2] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0275
+ERROR: -abc [25, 0.1, 2] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 1] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0200
+ERROR: -abc [25, 1.0, 1] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 2] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0280
+ERROR: -abc [25, 1.0, 2] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 1] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0200
+ERROR: -abc [50, 0.1, 1] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 2] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0293
+ERROR: -abc [50, 0.1, 2] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 1] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0252
+ERROR: -abc [50, 1.0, 1] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 2] on data_set/characteristics_3_4.csv ---
+Accuracy: 0.0363
+ERROR: -abc [50, 1.0, 2] on data_set/characteristics_3_4.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 1] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0179
+ERROR: -abc [25, 0.1, 1] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 2] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0310
+ERROR: -abc [25, 0.1, 2] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 1] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0166
+ERROR: -abc [25, 1.0, 1] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 2] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0247
+ERROR: -abc [25, 1.0, 2] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 1] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0179
+ERROR: -abc [50, 0.1, 1] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 2] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0311
+ERROR: -abc [50, 0.1, 2] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 1] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0262
+ERROR: -abc [50, 1.0, 1] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 2] on data_set/characteristics_3_5.csv ---
+Accuracy: 0.0381
+ERROR: -abc [50, 1.0, 2] on data_set/characteristics_3_5.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 1] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.0203
+ERROR: -abc [25, 0.1, 1] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 0.1, 2] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.0255
+ERROR: -abc [25, 0.1, 2] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 1] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.0203
+ERROR: -abc [25, 1.0, 1] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [25, 1.0, 2] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.0247
+ERROR: -abc [25, 1.0, 2] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 1] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.0203
+ERROR: -abc [50, 0.1, 1] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 0.1, 2] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.0289
+ERROR: -abc [50, 0.1, 2] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 1] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.0212
+ERROR: -abc [50, 1.0, 1] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
+--- Running -abc with [50, 1.0, 2] on data_set/characteristics_3_6.csv ---
+Accuracy: 0.0376
+ERROR: -abc [50, 1.0, 2] on data_set/characteristics_3_6.csv: log_to_file() missing 1 required positional argument: 'classifier'
+--------------------------------------------------
