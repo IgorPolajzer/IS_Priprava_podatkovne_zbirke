@@ -132,7 +132,7 @@ def log_to_file(message, classifier):
 if __name__ == "__main__":
     sys.setrecursionlimit(10000)
 
-    files = sorted(glob.glob("data_set_2/*.csv"))
+    files = sorted(glob.glob("data_set/*.csv"))
 
     os.makedirs(RESULTS_DIR, exist_ok=True)
 

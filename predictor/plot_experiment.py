@@ -35,7 +35,7 @@ ALGO_FULL = {
 
 # Output format regex
 BLOCK_RE = re.compile(
-    r"Running -\w+ with \[(.+?)\] on data_set_2/characteristics_(\d+)_(\d+)\.csv\s*---\s*"
+    r"Running -\w+ with \[(.+?)\] on data_set/characteristics_(\d+)_(\d+)\.csv\s*---\s*"
     r"Accuracy:\s*([\d.]+)",
     re.DOTALL,
 )
